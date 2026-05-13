@@ -1,5 +1,3 @@
-l
-
 - **Alta médica**: ato médico por excelência, decidido pelo profissional quando entende que o paciente está em condições de deixar a internação.
 <br>
 - A **Alta Voluntária** é a decisão unilateral do paciente de saída e/ou encerramento dos tratamentos, mesmo contrariando a vontade do profissional de saúde. Que difere-se da alta médica por partir do paciente e não demandar qualquer tipo de fundamentação clinica/médica para tal, apenas com base no interesse particular.
