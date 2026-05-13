@@ -1,0 +1,28 @@
+CPC
+[**Art. 300**](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm#art300 "Art. 300"). A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. 
+
+**§ 1º** Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la. 
+
+**§ 2º** A tutela de urgência pode ser concedida liminarmente ou após justificação prévia. 
+
+**§ 3º** A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.
+
+[**Art. 303**](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm#art303 "Art. 303"). Nos casos em que a urgência for contemporânea à propositura da ação, a petição inicial pode limitar-se ao requerimento da tutela antecipada e à indicação do pedido de tutela final, com a exposição da lide, do direito que se busca realizar e do perigo de dano ou do risco ao resultado útil do processo. 
+
+**§ 1º** Concedida a tutela antecipada a que se refere o caput deste artigo:
+
+**I** - o autor deverá aditar a petição inicial, com a complementação de sua argumentação, a juntada de novos documentos e a confirmação do pedido de tutela final, em 15 (quinze) dias ou em outro prazo maior que o juiz fixar; 
+
+**II** - o réu será citado e intimado para a audiência de conciliação ou de mediação na forma do  [art. 334;](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm#art334 "art. 334") 
+
+**III** - não havendo autocomposição, o prazo para contestação será contado na forma do  [art. 335.](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm#art335 "art. 335") 
+
+**§ 2º** Não realizado o aditamento a que se refere o inciso I do § 1º deste artigo, o processo será extinto sem resolução do mérito. 
+
+**§ 3º** O aditamento a que se refere o inciso I do § 1º deste artigo dar-se-á nos mesmos autos, sem incidência de novas custas processuais. 
+
+**§ 4º** Na petição inicial a que se refere o caput deste artigo, o autor terá de indicar o valor da causa, que deve levar em consideração o pedido de tutela final. 
+
+**§ 5º** O autor indicará na petição inicial, ainda, que pretende valer-se do benefício previsto no caput deste artigo. 
+
+**§ 6º** Caso entenda que não há elementos para a concessão de tutela antecipada, o órgão jurisdicional determinará a emenda da petição inicial em até 5 (cinco) dias, sob pena de ser indeferida e de o processo ser extinto sem resolução de mérito.

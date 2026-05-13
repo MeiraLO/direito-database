@@ -1,0 +1,46 @@
+/* ===== EDITOR (Live Preview) ===== */
+.cm-editor .list-bullet {
+    display: none;
+}
+
+/* ===== READING MODE ===== */
+
+/* Esconde a bolinha padrão de todos os níveis */
+.markdown-reading-view .list-bullet {
+    display: none;
+}
+
+/* Nível 1: recoloca bolinha */
+.markdown-reading-view ul > li:not(.task-list-item) > .list-bullet {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: var(--text-normal);
+    margin-right: 0.4em;
+    vertical-align: middle;
+}
+
+/* Esconde checkbox padrão do tema */
+.markdown-reading-view .task-list-item-checkbox {
+    display: none !important;
+}
+
+/* - [ ] qualquer nível: hífen */
+.markdown-reading-view li.task-list-item:not(.is-checked)::before {
+    content: "- ";
+    color: var(--text-normal);
+    font-size: 1em;
+}
+
+/* - [x] marcado: hífen riscado */
+.markdown-reading-view li.task-list-item.is-checked::before {
+    content: "- ";
+    color: var(--text-muted);
+    text-decoration: line-through;
+}
+
+/* Lista ordenada: número em laranja */
+.markdown-reading-view ol > li::marker {
+    color: var(--color-orange);
+}

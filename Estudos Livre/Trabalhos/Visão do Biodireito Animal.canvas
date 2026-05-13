@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"0916e8fbe99ba49d","type":"text","text":"Estado Constitucional Ecológico e Políticas Públicas. A dignidade Animal","x":-920,"y":-780,"width":250,"height":160,"color":"1"},
+		{"id":"2d446145425c44ac","type":"text","text":"O problema do pensamento atual quando se debate a dignidade animal, é que os autores se propõe apenas a fazer um alongamento semântico de dignidade para encaixa-los, não de fato repensando o conceito. É indubitavelmente um problema grave, especialmente quando se recorda que o conceito de dignidade foi historicamente elaborado para distinguir os homens dos animais","x":-1680,"y":-539,"width":480,"height":240,"color":"2"},
+		{"id":"3ad91cb83460c0ff","type":"text","text":"O Problema","x":-1300,"y":-678,"width":160,"height":58,"color":"2"},
+		{"id":"d252c51b95d62db8","type":"text","text":"A Solução","x":-440,"y":-678,"width":160,"height":58,"color":"#f207b4"},
+		{"id":"1fed1f65abbfb8ae","type":"text","text":"O dignidade animal NÃO pode ser uma expansão dos direitos humanos, ele deve ser pensado de outra forma para se adequar a realidade animal. Deve haver um conjunto de princípios que os unem, mas com códigos morais dedicados para os humanos, para os animais autônomos e dotados de auto-consciência, e para aqueles que possuem apenas uma deliberação instintiva de auto preservação e espécie. São proteções distintas, para seres que funcionam de formas distintas. ","x":-1170,"y":-519,"width":375,"height":379,"color":"2"},
+		{"id":"7204f69ebaf5b8cb","type":"text","text":"a diferenciação do animal auto-consciente para o humano é tênue, mas para mim é o _[[Dasein]]_, a auto consciência no tempo e espaço. Se comprovado a capacidade de um animal para tal, ele deve ser elevado para outro patamar de proteção distinto","x":-1200,"y":-80,"width":328,"height":225,"color":"3"},
+		{"id":"9a01281d6a59b4f6","type":"text","text":"","x":-1760,"y":-80,"width":420,"height":380,"color":"2"},
+		{"id":"9249a0b1d3229205","type":"text","text":"[[Human Dignity in Bioethics and Biolaw#4. \"The Principle of Generic Consistency\"| PGC?]]","x":-625,"y":-476,"width":125,"height":50,"color":"5"},
+		{"id":"5abf8bc9b002c8be","type":"text","text":"Libertação animal","x":-432,"y":-476,"width":144,"height":50,"color":"#00f56a"},
+		{"id":"c5ef4f0e0d84b9e8","type":"text","text":"Contrato sócio-animal","x":-220,"y":-476,"width":240,"height":50,"color":"#6e2092"},
+		{"id":"08f94527ad3adfa6","type":"text","text":"O PGC serve como um construtor de uma bússola moral. Por mais que um windows seja suficiente para o dia-a-dia, talvez construir um linux especificamente para a tarefa na qual você precisa, seja melhor. Ele não te oferece soluções, mas sim instrumentos nos quais você possa resolver","x":-687,"y":-275,"width":250,"height":420,"color":"5"},
+		{"id":"f86b16a24c8b9304","x":-437,"y":-275,"width":250,"height":420,"color":"#00ff62","type":"text","text":"Baseado na teoria de Peter Singer da Libertação Animal. Demanda a equivalência dos animais perante a raça humana, estendendo os direitos humanos para os direitos da vida em geral, tratando o especismo da mesma forma que o racismo."},
+		{"id":"52cf9826a8e725fc","x":-187,"y":-275,"width":250,"height":420,"color":"#fb00ff","type":"text","text":"Proposta contratualista. Da mesma forma que temos a criação de um contrato social, para a existência do humano em sociedade, devemos ter um contrato sócio-animal, para a existência da sociedade na natureza.\n"}
+	],
+	"edges":[
+		{"id":"2caed1929a966864","fromNode":"0916e8fbe99ba49d","fromSide":"bottom","toNode":"3ad91cb83460c0ff","toSide":"right","color":"1"},
+		{"id":"8238be95325b1ad0","fromNode":"3ad91cb83460c0ff","fromSide":"bottom","toNode":"2d446145425c44ac","toSide":"top","color":"2"},
+		{"id":"5e1a97f1daebaf1b","fromNode":"0916e8fbe99ba49d","fromSide":"bottom","toNode":"d252c51b95d62db8","toSide":"left","color":"1"},
+		{"id":"0ac033b4f87f3f69","fromNode":"3ad91cb83460c0ff","fromSide":"bottom","toNode":"1fed1f65abbfb8ae","toSide":"top","color":"2"},
+		{"id":"38ed5981f9f5a594","fromNode":"1fed1f65abbfb8ae","fromSide":"bottom","toNode":"7204f69ebaf5b8cb","toSide":"top","color":"3"},
+		{"id":"7f7fd4097b6e96da","fromNode":"2d446145425c44ac","fromSide":"bottom","toNode":"9a01281d6a59b4f6","toSide":"top","color":"2","label":"Por que merece distinção?"},
+		{"id":"6945bb88ec99ac68","fromNode":"d252c51b95d62db8","fromSide":"bottom","toNode":"9249a0b1d3229205","toSide":"top","color":"#fb00ff"},
+		{"id":"0ff043058feec588","fromNode":"d252c51b95d62db8","fromSide":"bottom","toNode":"5abf8bc9b002c8be","toSide":"top","color":"#f600fa"},
+		{"id":"3197fd8ee215d3f5","fromNode":"d252c51b95d62db8","fromSide":"bottom","toNode":"c5ef4f0e0d84b9e8","toSide":"top","color":"#ff00f7"},
+		{"id":"663742287906376a","fromNode":"9249a0b1d3229205","fromSide":"bottom","toNode":"08f94527ad3adfa6","toSide":"top","color":"5"},
+		{"id":"0695af3e6cd9fd1f","fromNode":"5abf8bc9b002c8be","fromSide":"bottom","toNode":"f86b16a24c8b9304","toSide":"top","color":"#419547"},
+		{"id":"42443dfe500bf612","fromNode":"c5ef4f0e0d84b9e8","fromSide":"bottom","toNode":"52cf9826a8e725fc","toSide":"top","color":"#9f3abb"}
+	]
+}

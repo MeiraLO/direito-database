@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Encore",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Dune-foldericons",
+    "Dune-mermaid",
+    "Dune-pluginsupport",
+    "no-background"
+  ],
+  "accentColor": "#d9ca68",
+  "baseFontSize": 17
+}
