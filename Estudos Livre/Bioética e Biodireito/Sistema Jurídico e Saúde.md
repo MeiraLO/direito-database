@@ -12,3 +12,6 @@ consciência em investigação policial ou de qualquer outra natureza
 Lei de biosegurança
 
 IA emocional
+
+
+O brasi está muito atrás, vamos testar esse puLL
