@@ -12,5 +12,3 @@ consciência em investigação policial ou de qualquer outra natureza
 Lei de biosegurança
 
 IA emocional
-
-A kennya é uma pessoa, logo tem direitos
