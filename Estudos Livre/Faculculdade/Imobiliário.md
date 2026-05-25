@@ -114,6 +114,8 @@
 - Considera-se incorporador a pessoa física ou jurídica, comerciante ou não, que embora não efetuando a construção, compromisse ou efetive a venda de frações ideais de terreno objetivando a vinculação de tais frações a unidades autônomas (art 29)
 - Há uma vinculação entre a fração do terreno alienado e o negócio de construção (promessa de venda ou de cessão)
 
+- É um processo jurídico-econômico, começando na escolha do terreno, estudos preliminares, negociação e compra do terreno, montar o memorial de incorporação até a entrega do condomínio
+
 - **Quem é o Incorporador?**:
 	1. O proprietário do terreno, o promitente comprador, o cessionário deste ou promitente cessionário com título que satisfaça os requisitos da alínea a do art. 32;
 	2. O construtor ou corretor de imóveis
@@ -141,3 +143,67 @@
 
 
 - Art. 35-A.  Os contratos de compra e venda, promessa de venda, cessão ou promessa de cessão de unidades autônomas integrantes de incorporação imobiliária serão iniciados por quadro-resumo, que deverá conter: (ler)
+
+
+###### Regimes de Incorporação
+
+- Empreitada (art. 55)
+> O Incorporador é responsável por tudo
+
+- Administração (construção a preço de custo) (art. 58)
+> Os próprios adquirentes contribuem para a construção (autoconstrução), logo assumem o risco
+> Os adquirentes são os incorporadores
+
+###### Patrimônio de Afetação
+- Facultativo
+- É um patrimônio dentro do patrimônio separado para uma destinação, no caso a garantia da obra.
+- Art. 31
+- Não se comunica com os demais bens, direitos e obrigações do patrimônio
+- O resto do patrimônio é subsidiário (com exceção dos outros de afetação)
+- É constituído mediante averbação no registro de imóveis (e quando existirem, os titulares dos direitos reais) (31-b)
+	- Parágrafo único. A averbação não será obstada pela existência de ônus reais que tenham sido constituídos sobre o imóvel objeto da incorporação para garantia do pagamento do preço de sua aquisição ou do cumprimento de obrigação de construir o empreendimento.
+
+- Extinção (31-E):
+	1. I - averbação da construção, registro dos títulos de domínio ou de direito de aquisição em nome dos respectivos adquirentes e, quando for o caso, extinção das obrigações do incorporador perante a instituição financiadora do empreendimento;
+	2. II - revogação em razão de denúncia da incorporação, depois de restituídas aos adquirentes as quantias por eles pagas (art. 36), ou de outras hipóteses previstas em lei; e
+	3. III - liquidação deliberada pela assembléia geral nos termos do art. 31-F, § 1°
+
+###### Desistência 
+Art. 35-A da lei 4591
+ Lei 13.786 
+> Disciplina a resolução do contrato por inadimplemento do adquirente de unidade imobiliária em incorporação imobiliária
+
+- Há um prazo de até 7 dias para o arrependimento do adquirente, após esse prazo, haverá um direito de retenção da empresa do valor monetário transmitido ao longo da obrigação
+> Desistência imotivada por compras feitas fora da sede (67-A)
+
+
+- Caso seja por culpa da incorporadora, o valor deverá ser restituído em parcela única
+
+- 43-A: Caso haja carência na entrega, a incorporadora tem um prazo de 180 dias para a entrega, sem que corra ônus para ela (prazo de tolerância), após esse prazo, poderá o adquirente pedir a resolução do contrato, devendo ser ressarcido a quantia paga em parcela única em até 60 dias
+
+Decorrido os 180 dias, caso o adquirente não deseje a resolução do contrato, será aplicado um valor, na forma de multa, de 1% do total do contrato por mês de atraso
+
+
+- Em caso de Resolução ou Distrato por culpa do adquirente, poderá ser atribuído uma multa-pena de 25% da quantia paga
+ Uma incorporação em regime com patrimônio de afetação, terá direito ao dobro da retenção dos valores pagos pelo adquirente (25% -> 50%)
+> Já que este regime oferece uma proteção maior ao adquirente, devido aos custos maiores, justificasse uma proteção maior aos consumidores.
+###### Súmula 308/STJ
+> reconheceu a inaplicabilidade da súmula 308/STJ aos contratos de alienação fiduciária em garantia de bens imóveis
+
+Ou seja, a hipoteca é ineficiente para o adquirente
+> A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel.
+
+
+----------------------
+# Temas diversos
+
+
+### Parcelamento do Solo Urbano
+loteamento, desmembramento
+lei 6766/79
+
+### Alienação Fiduciária 
+
+
+### Sistema financeiro habitacional e imobiliário
+novas espécies de condomínio e lot

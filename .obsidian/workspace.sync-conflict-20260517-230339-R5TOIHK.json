@@ -13,15 +13,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos Livre/Faculculdade/Econômico e Financeiro.md",
+                "file": "Estudos Livre/Trabalhos/Gemadi 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Econômico e Financeiro"
+              "title": "Gemadi 2026"
+            }
+          },
+          {
+            "id": "95c9103596499457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos Livre/Bioética e Biodireito/Human Dignity in Bioethics and Biolaw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Human Dignity in Bioethics and Biolaw"
+            }
+          },
+          {
+            "id": "87a12d1ce5ceb028",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Estudos Livre/Trabalhos/Visão do Biodireito Animal.canvas",
+                "viewState": {
+                  "x": -970,
+                  "y": -539.9000000000001,
+                  "zoom": -2
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Visão do Biodireito Animal"
+            }
+          },
+          {
+            "id": "6f800342ec8ed3b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DALY e QUALY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DALY e QUALY"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,27 +241,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaf7f4c332625584",
+  "active": "87a12d1ce5ceb028",
   "lastOpenFiles": [
-    "Estudos Livre/Faculculdade/Estagio Supervisionado Civil.md",
-    "Estudos Livre/Faculculdade/Imobiliário.md",
-    "Estudos Livre/Trabalhos/Visão do Biodireito Animal.canvas",
-    "Estudos Livre/Bioética e Biodireito/Human Dignity in Bioethics and Biolaw.md",
-    "Fatos.md",
-    "Estudos Livre/Faculculdade/Casos NPJ.md",
-    "Estudos Livre/Bioética e Biodireito/Domínio da Vida.md",
-    "Estudos Livre/Bioética e Biodireito/Estatuto do Paciente e normas relacionadas.md",
-    "Estudos Livre/Bioética e Biodireito/Sistema Jurídico e Saúde.md",
-    "Estudos Livre/Bioética e Biodireito/Lógica Modal.md",
-    "Estudos Livre/Bioética e Biodireito/Biodireito Comparativo com Legislações estrangeiras.md",
     "Estudos Livre/Trabalhos/Gemadi 2026.md",
-    "Estudos Livre/Trabalhos/Gemadi 2026.sync-conflict-20260517-231509-R5TOIHK.md",
-    "Estudos Livre/Faculculdade/Econômico e Financeiro.md",
-    "Untitled.md",
     "Estudos Livre/Trabalhos/Estagio Cent. Mand. 1.md",
+    "Estudos Livre/Trabalhos/Visão do Biodireito Animal.canvas",
     "Estudos Livre/Trabalhos/Visão do Biodireito Animal.sync-conflict-20260517-221856-R5TOIHK.canvas",
     "Estudos Livre/Trabalhos/Ideias de Pesquisa.md",
     "Estudos Livre/Trabalhos/Artigo TJ.canvas",
+    "Estudos Livre/Bioética e Biodireito/Human Dignity in Bioethics and Biolaw.md",
     "Estudos Livre/Base de Estudos.base",
     "Estudos Livre/Trabalhos/Gemadi 2026.sync-conflict-20260517-220209-R5TOIHK.md",
     "Estudos Livre/Trabalhos/Gemadi 2026.sync-conflict-20260517-220158-R5TOIHK.md",
@@ -223,10 +257,22 @@
     "Estudos Livre/Trabalhos/Gemadi 2026.sync-conflict-20260517-205644-R5TOIHK.md",
     "Estudos Livre/Trabalhos/Gemadi 2026.sync-conflict-20260517-210312-R5TOIHK.md",
     "Alta Voluntária.md",
+    "Untitled 1.md",
     "Gratuidade para 60+.md",
+    "Untitled.md",
+    "Estudos Livre/Faculculdade/Imobiliário.md",
     "Alta Voluntária.sync-conflict-20260517-074554-R5TOIHK.md",
     "DALY e QUALY.md",
+    "Estudos Livre/Bioética e Biodireito/Estatuto do Paciente e normas relacionadas.md",
+    "Estudos Livre/Bioética e Biodireito/Biodireito Comparativo com Legislações estrangeiras.md",
+    "Estudos Livre/Faculculdade/Estagio Supervisionado Civil.md",
     "Attachments/Pasted image 20260514121836.png",
+    "Receita e Despeja.md",
+    "Estudos Livre/Bioética e Biodireito/Domínio da Vida.md",
+    "Estudos Livre/Bioética e Biodireito/Sistema Jurídico e Saúde.md",
+    "Estudos Livre/Bioética e Biodireito/Lógica Modal.md",
+    "Calendar/Visão 1.md",
+    "Calendar/Visão.md",
     "Untitled.base",
     "Attachments/Screenshot From 2026-03-26 21-04-00.png",
     "Kennya",

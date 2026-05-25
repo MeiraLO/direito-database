@@ -817,3 +817,103 @@ B. **Aspecto Econômico - Art 12/4320**
 > Operação de crédito é ingresso/entrada provisória
 > Empréstimo tem data para sair dos cofres
 > Se o Estado toma empréstimo: Dívida Pública/Endividamento público
+
+- **Classificação da Receita Pública
+	- Em razão de origem, constância, financeira e motivo de entrada
+	1. Quanto a coercitividade
+		 - Originária: Exploração do patrimônio estatal ou atuação direta na economia (estatal) 
+		 - Derivada: Obtenção a partir da exploração do patrimônio do particular (ex. Tributos)
+		 - Transferida: Federalismo financeiro/Repartição do produto tributário entre entes federados (Art 157 a 162/CF - Transferência intergovernamentais; Ex. Imposto de Renda e IPVA)
+
+- **Federalismo Financeiro**
+	- Competência tributarias próprias (art. 153 a 158)
+	- Transferências (art 157 a 159)
+		1. Constitucionais - participações no produto (1. Diretas; 2. Fundos)
+		2. Legais - Discricionárias/Voluntárias (1. Vinculantes; 2. Livres)
+		- Obs.: Transferência não é empréstimo; vedado pelo art. 35/LRF
+	- Quanto a Regularidade
+		1. Ordinária: Fixa, constante (impostos)
+		2. Extraordinárias: Intermitente (royalties, doações, impostos extraordinários)
+		- **ATENÇÃO** Gasto do governo se pauta na ordinária (boa gestão fiscal)
+	- Quanto a Finalidade
+		1. Fiscal: Fim arrecadatório (imposto de renda)
+		2. Extrafiscal: Fim Regulatório (imposto de Importação)
+	- Quanto à Categoria Econômica
+		1. Corrente: Receita para manutenção da máquina pública (tributos, multa)
+		2. Capital: Investimento e obra pública / aumento do patrimônio estatal (operação de crédito, alienação de bens)
+	- Quanto à competência
+		1. Federal
+		2. Estadual
+		3. Municipal
+
+
+
+# Dívida Pública
+
+- Somatório das obrigações do Estado perante *todos* os seus credores (interno e externo)
+
+1. **Consolidada** - Toda a qualquer obrigação financeira de longo prazo (acima de 12 meses)  (art 29, I)
+2. **Mobiliária** - Obrigação financeira gerada a partir da emissão de titulo (art. 29, I)
+3. **Flutuante** - Contraída no *curto prazo* em razão de antecipação de receitas que ainda não foram percebidas
+
+- <u>Moratória</u>: Estado deixa de pagar a dívida Voluntária
+- <u>Bancarrota</u>: Estado deixa de pagar involuntariamente, não há recursos
+
+**ATENÇÃO** - Inadimplência da dívida pública enseja intervenção federal para reorganização das finanças
+> União costuma fornecer garantias quando ente subnacional contrai dívida pública
+
+- Art. 70/CF - Fiscalização dos contratos assumidos para evitar intervenção/moratória/bancarrota 
+	- Dívida Pública Interna: ação do Banco Central
+	- Dívida Pública Externa: ação do Senado e sujeição à organismo internacionais - FMI, BIRD, etc
+> Brasil se tornou devedor de ambas instituições nos anos 50
+> FMI - 2005 não tem dívida relevante; BIRD - mantém operações de crédito em infraestrutura
+
+- Dívida Pública Federal: dívida contraída para financiamento de seu déficit orçamentário
+	- Objetivo: suprir necessidade financeiro pelo **menor** custo a longo prazo
+	- Perfil: Dívida Pública **interna** captada por emissão de títulos em <u>reais</u> 
+	- **obs.**: BNDES abre linha de crédito para outros países - Dinâmico Sul-Global
+		- Estratégia de Expansão de Empresas brasileiras para outros países
+		- Brasil se torna credor de crédito público internacional
+<br>
+**O que é rolagem da Dívida Pública?**
+> Emissão de Novos Títulos para captar recursos para o pagamento dos títulos que irão vencer
+> → "melhora" o perfil ao substituir títulos em dólar por título em real
+
+
+**Dívida pública é um ato de soberania**
+> → Senado promove o controle e fiscalização da dívida pública
+> → Dívida Pública é receita pública em sentido amplo da lei 4320
+> → Amortizar: pagar montante (despesa de capital)
+> → Serviços da dívida: Pagamentos dos juros (despesa corrente)
+
+**Papel do Senado Federal**
+> Fiscalizar e normatizar os limites da Dívida Pública
+>> Emite Resoluções (espécie de ato legislativo)
+>> Art. 52, V/CF - Senado precisa autorizar operação de crédito *externo* - Res. 48/2007
+>> Art. 52, VI/CF - Senado elege teto da dívida pública consolidada por ente federado em cima da RCL - Res. 40/2001 (ex. Estado precisa de parecer favorável do MF)
+>> Art. 52, VII - Condições para operação de crédito - Res. 43/2002 (estado precisa de parecer favorável do MF)
+>> Art. 52, VIII/CF - limites às garantias (ex.: Ente federado subnacional somente efetiva operação de crédito externo se a União atuar como garantidora)
+
+- **Antecipação de Receita Orçamentária - ARO**
+	- Espécie de dívida Flutuante - Art. 38/LRF
+	> →Atende a um insuficiência momentânea de receita que ainda não ingressou
+	>→ Há previsão da receita para o ano vigente / Entrada somente ocorrer em momento futuro
+	>→ Operação de crédito de curto prazo a se saldar no próprio exercício financeiro
+	>→ ARO não almeja criar uma dívida pública
+
+- Dívida de **curto** prazo + Insuficiência de caixa + quitação no ano vigente + Receita Futura certa
+	- Vedada no último ano de mandado
+	- Vedada se houver ARO não quitada
+
+- **Vedação de Empréstimo entre entes Federados**
+	- Art. 35 e 36/LRF
+	> Bancos estatais podem financiar segundo regras de mercado (ex: BNDES pode fazer operação de crédito para o Estado do RJ, mas pode fazer para a União)
+
+*ATENÇÃO*: Pedalada Fiscal no Gov. Dilma
+> → Atraso de pagamento de benefícios sociais via Caixa
+> → Caixa pegada os benefícios com recurso próprio 
+> → Caixa do Governo fica artificialmente positivo
+> → Governo cobre a despesa em momento posterior 
+
+**Quando a Caixa paga é operação de crédito entre União e instituição financeira ou está nas regras do mercado de pagamento com mora de uma obrigação?**
+> Análise jurídica do Impeachment: operação de Crédito entre União e suas Instituições financeiras

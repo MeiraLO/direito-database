@@ -1,4 +1,3 @@
-l
 
 - **Alta médica**: ato médico por excelência, decidido pelo profissional quando entende que o paciente está em condições de deixar a internação.
 <br>
