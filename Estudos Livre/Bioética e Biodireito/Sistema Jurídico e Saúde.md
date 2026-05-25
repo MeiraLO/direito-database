@@ -13,5 +13,4 @@ Lei de biosegurança
 
 IA emocional
 
-
-O brasi está muito atrás, vamos testar esse puLL
+A kennya é uma pessoa, logo tem direitos
