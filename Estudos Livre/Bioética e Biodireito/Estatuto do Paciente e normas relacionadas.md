@@ -8,8 +8,6 @@ Tempo de Leitura: **30 min~**
 - Qual o Objetivo da Lei?
 > regular os direitos e as responsabilidades dos pacientes sob cuidados prestados por serviços de saúde de qualquer natureza ou por profissionais de saúde.
 
-
-
 ### Cap I, Disposições Gerais
 - Princípios orientadores da lei (art 2)
 	1. Autodeterminação
