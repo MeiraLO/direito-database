@@ -5,6 +5,8 @@
 # Direito Holandês
 
 ## Seção 5. O contrato de tratamento médico
+O direito holandês traz uma relação bem diferente, ele trata toda a relação médico-paciente como algo contratual, bem "engraçado". Tanto que ao longo da legislação, eles falam puramente em "prestador de serviço médico" em sentido amplo (WGBO/NLD); Seguindo este modelo bem diferente de tratar a relação de paciente como um contrato de direito privado, a lei médica está presente dentro do código civil holandês.
+Este DUMP não abrangeu o Wet Zorg en Dwang — WZD (Lei de Cuidados e Coerção, 2020), o Wet Verplichte Geestelijke Gezondheidszorg — Wet VGGZ (2020) (cuidados psiquiatricos), o Wet Toetsing Levensbeëindiging (2002) (eutanásia)
 
 ---
 
