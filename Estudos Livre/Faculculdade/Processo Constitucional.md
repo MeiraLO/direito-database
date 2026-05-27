@@ -130,30 +130,30 @@ Todo controle difuso é concreto, mas nem todo concreto é difuso. O controle de
 ##### → Técnicas (critérios) do Controle de Constitucionalidade
 Ou Princípios
 - **Declaração de Inconstitucionalidade parcial sem redução do texto**
-	-- Visa salvar parte de uma norma impugnada, sem haver qualquer alteração no texto
-	-- É a técnica decisória que possibilita a exclusão de determinadas hipóteses de aplicação, sem empreender qualquer alteração gramatical (Bulos)
-	-- A aplicação da lei de certa maneira é considerada inconstitucional.
-	-- Vide ADI 939/DF
+	- Visa salvar parte de uma norma impugnada, sem haver qualquer alteração no texto
+	- É a técnica decisória que possibilita a exclusão de determinadas hipóteses de aplicação, sem empreender qualquer alteração gramatical (Bulos)
+	- A aplicação da lei de certa maneira é considerada inconstitucional.
+	- Vide ADI 939/DF
 
 - **Interpretação conforme a Constituição**
-	-- A decisão em si, é uma declaração de constitucionalidade, mas com a condição de que seja conforme a Constituição, ou seja, dentre várias interpretações, apenas uma é escolhida pelo tribunal
-	-- Positivada no art. 28, par. U./ Lei 9868/99
-	-- Objetivo: Salvar um ato normativo
-	-- Vide ADI 1719 
-	-- Qual a Diferença entre a modalidade da Declaração parcial sem redução?
-		→ Enquanto a interpretação conforme se tem, dogmaticamente a declaração de que uma lei é constitucional com a interpretação que lhe é conferida, enquanto a outra, acontece a expressa exclusão de determinadas hipóteses de aplicação do programa normativo sem que se produza alteração do texto legal (Gonet Branco; Gilmar Mendes)
-		→ Basicamente, uma apenas se torna constitucional devido a interpretação, ou seja, interpretação estrita. Enquanto a segunda tem uma interpretação inibida, ou seja, interpretação restritiva.
-		→ A interpretação Conforme procura uma interpretação que se coadune ao texto constitucional. A Declaração sem redução excluí uma interpretação que não se adequá ao texto constitucional.
+	- A decisão em si, é uma declaração de constitucionalidade, mas com a condição de que seja conforme a Constituição, ou seja, dentre várias interpretações, apenas uma é escolhida pelo tribunal
+	- Positivada no art. 28, par. U./ Lei 9868/99
+	- Objetivo: Salvar um ato normativo
+	- Vide ADI 1719 
+	- Qual a Diferença entre a modalidade da Declaração parcial sem redução?
+		1. Enquanto a interpretação conforme se tem, dogmaticamente a declaração de que uma lei é constitucional com a interpretação que lhe é conferida, enquanto a outra, acontece a expressa exclusão de determinadas hipóteses de aplicação do programa normativo sem que se produza alteração do texto legal (Gonet Branco; Gilmar Mendes)
+		2. Basicamente, uma apenas se torna constitucional devido a interpretação, ou seja, interpretação estrita. Enquanto a segunda tem uma interpretação inibida, ou seja, interpretação restritiva.
+		3. A interpretação Conforme procura uma interpretação que se coadune ao texto constitucional. A Declaração sem redução excluí uma interpretação que não se adequá ao texto constitucional.
 
 - **Declaração de Inconstitucionalidade sem a Pronúncia de Nulidade**
-	-- Esta técnica reconhece que a norma é inconstitucional, mas para evitar danos maiores decorrente da declaração de nulidade, mantém-se os efeitos.
-	-- Vide ADI 3316 e 3489
-	-- As decisões citadas acima proferidas pelo STF no controle abstrato e concentrado de constitucionalidade, em sede de ADI, cedem lugar para a segurança jurídica e a realidade fática, em detrimento da aplicação da teoria da nulidade da norma reconhecidamente inconstitucional.
+	- Esta técnica reconhece que a norma é inconstitucional, mas para evitar danos maiores decorrente da declaração de nulidade, mantém-se os efeitos.
+	- Vide ADI 3316 e 3489
+	- As decisões citadas acima proferidas pelo STF no controle abstrato e concentrado de constitucionalidade, em sede de ADI, cedem lugar para a segurança jurídica e a realidade fática, em detrimento da aplicação da teoria da nulidade da norma reconhecidamente inconstitucional.
 
 - **Declaração de Inconstitucionalidade da norma ainda constitucional, mas em trânsito para a inconstitucionalidade**
-	-- Contemporiza a aplicação das demais técnicas de controle abstrato, concentrado
-	-- Também conhecida como <u>inconstitucionalidade progressiva</u>
-	-- O STF já aplicou está técnica em alguns casos de controle difuso, dois exemplos:
+	- Contemporiza a aplicação das demais técnicas de controle abstrato, concentrado
+	- Também conhecida como <u>inconstitucionalidade progressiva</u>
+	- O STF já aplicou está técnica em alguns casos de controle difuso, dois exemplos:
 		1. Possibilidade ou não de prazo em dobro para a Def. Púb. recorrer em sede de processo penal, uma vez que tal possibilidade não está prevista ao MP. Entretanto a lei 1060/50 em seu art. 5, §5 garante ao Defensor ou equivalente a intimação pessoal de todos os atos do processo, contando-se-lhes em dobro todos os prazos. Assim como a lei complementar 80/94, no art. 44 (mesmo da anterior). A Lei 1060/50 teve instaurado um controle difuso no _habeas corpus_ n 70514, que manteve a lei, até o momento em que a Def. Púb tiver estrutura necessária para o seu bom funcionamento, assim como tem o MP.
 		2. O RE 135.328 discutiu a eficácia do art 68 do CPP, em frente ao art 134 da CF
 
