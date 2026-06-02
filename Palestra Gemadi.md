@@ -17,5 +17,14 @@ Palestra 2, Professor Anderson:
 A humanidade encontrasse atualmente na 4° revolução industrial, que é o domínio sobre o circuito integrado com WiFi com grandes distâncias entre produções e grandes mecanizações 
 
 
-Palestra 3, Giselle:
+Palestra 3, Dra. Gisele:
+
+O foco da palestra é a contaminação do solo, águas subterrâneas e dos seus arredores pelos cemitérios, devido a algumas substâncias liberadas pelos cadáveres.
+Durante a decomposição, acontece o processo de autólise e putrefação. As células perdem integridade, enzimas degradam tecidos e acontece a proliferação de bactérias.
+O necrochorume é um liquido gerado durante a decomposição cadavérica, rico em matéria orgânica, sais minerais, compostos nitrogenados e microrganismos. Quando não há controle ambiental, ele pode infiltrar no solo e atingir águas subterrâneas. 
+A infiltração silenciosa das águas não só afeta na hora de beber, mas toda uma cadeia que pode envolver as colheitas, banhistas e populações que vivem nos entornos. 
+O Conama 335 e o 320 tratam das demandas sanitárias dos cemitérios, porém não há como cessar a fonte para além de uma reforma necessária dentro dos cemitérios.
+
+
+Palestra 4, :
 
