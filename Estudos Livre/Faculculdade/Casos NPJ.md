@@ -58,13 +58,18 @@ Além disso, a assistida está sendo cobrado uma multa de fidelidade pela TIM, a
 
 # Sexta - 29/Maio Gabriel
 
-Dona Maria do Carmo - Está com um superendividamento, tanto de crédito consignado, quanto crédito pessoal. Com o total dos empréstimos, ela está com apenas 500 reais sobrando do seu salário. Para tanto, será requerido um processo de superendividamento para renegociar a divida.
+- Dona Maria do Carmo
+Está com um superendividamento, tanto de crédito consignado, quanto crédito pessoal. Com o total dos empréstimos, ela está com apenas 500 reais sobrando do seu salário. Para tanto, será requerido um processo de superendividamento para renegociar a divida.
 Além disso, o itau colocou dois descontos nos quais ela não fez contrato, um deles ela conseguiu ligar para desativar os descontos, mas o outro não foi retirado.
-A relação bancária é protegida especialmente na lei e ela possui o direito de ter os descontos ilegítimos ressarcidos em dobro do valor pelo itau
+A relação bancária é protegida especialmente na lei e ela possui o direito de ter os descontos ilegítimos ressarcidos em dobro do valor pelo itau.
 
-Dona Silvana - A mãe da assistida faleceu, deixando um imóvel em Jacareí. A assistida possui um irmão e foi informada que o irmão deverá assinar os documentos conjuntamente. Será realizado um pedido para que a autora seja nomeada inventariante. A assistida recebeu uma lista com a documentação necessária e foi orientada a retornar ao NPJ com o irmão quando estiver que a documentação completa.
+- Dona Silvana 
+ A mãe da assistida faleceu, deixando um imóvel em Jacareí. A assistida possui um irmão e foi informada que o irmão deverá assinar os documentos conjuntamente. Será realizado um pedido para que a autora seja nomeada inventariante. A assistida recebeu uma lista com a documentação necessária e foi orientada a retornar ao NPJ com o irmão quando estiver que a documentação completa.
 
-Senhor X - O assistido veio para reclamar a guarda da filha. O assistido está em liberdade condicional e alega que o irmão "roubou a dele casa e a dele filha". Além disso ele não está permitindo que ele veja a própria filha, de forma que a criança ao longo de 10 anos que ele não pode conviver com ela, o irmão teria feito a cabeça dela para ter medo dele. 
+- Senhor Gladston 
+O assistido veio para reclamar a guarda da filha. O assistido está em liberdade condicional e alega que o irmão "roubou a dele casa e a dele filha". Além disso ele não está permitindo que ele veja a própria filha, de forma que a criança ao longo de 10 anos que ele não pode conviver com ela, o irmão teria feito a cabeça dela para ter medo dele. 
 O Gabriel afirmou que devido a idade dela, o juízo pedira um estudo de caso de fato, com reuniões com psicologa, apesar do direito de convivência dele. O assistido precisaria de uma pessoa de confiança dos dois para intermediar a relação e fazer um contato progressivo com a criança. 
 Porém, o assistido e o filho afirmaram que não há essa pessoa de confiança, já que o irmão é afastado do resto da família e que eles maltratam a criança.
 O assistido também quer saber se é possível ter retomar parte da casa. Após o falecimento do pai, eles separam o imóvel, de forma que o irmão escolheu a lage, na parte de cima da casa, para terminar de construir e morar lá. Mas após a prisão do assistido, o irmão entrou no imóvel e lá se encontra até hoje, se rejeitando a sair da casa, enquanto o assistido se encontrava em situação de rua e hoje pagando aluguel social.
+
+- Distribuímos uma ação no juizado especial civil requerendo a restituição dos valores cobrados para a fabricação e instalação de um armário. O residente ensinou passo a passo de como distribuir uma ação no PJE
