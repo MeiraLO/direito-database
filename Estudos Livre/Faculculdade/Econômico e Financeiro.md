@@ -917,3 +917,68 @@ B. **Aspecto Econômico - Art 12/4320**
 
 **Quando a Caixa paga é operação de crédito entre União e instituição financeira ou está nas regras do mercado de pagamento com mora de uma obrigação?**
 > Análise jurídica do Impeachment: operação de Crédito entre União e suas Instituições financeiras
+
+-------
+
+
+### Controle do orçamento público 
+
+- Constituição: art 70
+> 1. Legalidade - existência de lei que autoriza o gasto e esteja de acordo com as normas
+> 2. Legetimidade - analisa se o gasto atendeu a sua finalidade
+> 3. Economicidade - eficiência da gestão orçamentária 
+
+-  Controle interno (órgãos do poder)
+> art 74, 1/cf: órgãos de cada poder promovem/autotutela administrativa
+>> execução do orçamento 
+>> legalidade e legitimidade
+>> controle sobre operação de crédito 
+
+- Identificação de irregularidade: comunicação imediata ao TCU
+> gestor: responsabilidade solidária 
+> Outros poder devem avisar ao TCU
+
+- **Controle Externo (PL e TCU)**
+	1.  Poder Legislativo - Art. 70/CF
+		- Promove o controle com auxílio do TCU
+		- Comissão Mista: Senado e Câmara - art 166, §1/CF (parecer sobre Leis Orçamentárias e Contas Públicas)
+		- Comissão pode solicitar esclarecimentos caso identifique despesa não autorizada em lei
+		- Ausência de esclarecimento ou insuficiente: remessa de ofício ao TCU – art. 72, §1/CF
+		- TCU: despesa irregular => Comissão propõe decreto para sustar o gasto
+	2. Tribunal de Contas (órgão independente; Não é auxiliar do Pod. Legs.)(art 71)
+		- Órgão Técnico: Julga Contas e emite parecer
+		- Tribunal de Contas é um tribunal ADMINISTRATIVO: multas a título executivo extrajudicial - art 71,§3/CF
+		- Decisões tem efeito Vinculante: RESP 464633 STJ
+		- Obs.: Princípio da Simetria - Regras do TCU se aplicam aos TCE's e TCM's (art 31,§4/CF - veda criação de novos TCM's; EC 139/2026 - art 75/CF)
+
+É possível que um Estado tenha dois TCE's?
+> Sim,TCE focado no Estado e um TCE focado nos Municípios // Previsão federativa
+>> Ex: Bahia
+
+Quem está sujeito ao controle? 
+> art 70,§único - Qualquer PF ou PJ que receba dinheiro público
+> Tocar em dinheiro público tem que prestar contas
+> 1° setor – Adm direta e indireta
+> 2° setor – delegação de serviço público
+> 3° setor – subvenção social
+
+- Tipos de Controle pelo TCU
+	- Quanto a Forma
+		1. Contábil – entra 5 e sai 5. Não pode gastar mais do que 5
+		2. Financeiro – ideia de fluxo de recursos. Receita e Despesa. Contingenciamento
+		3. Orçamentário – Empenho: liquidação e pagamento. A nota de empenho reserva verba
+		4. Operacional – eficiência do governo (princípio constitucional – art. 37)
+		5. TC tem feito auditoria operacional para analisar o desempenho do governo
+		6. Patrimonial – defesa do patrimônio público
+	- Quanto ao Objeto/Conteúdo
+		1. Legalidade e legitimidade – Estado Democrático de Direito
+			- Legalidade + Análise do interesse público (legitimidade)
+			- TC não controla ato discricionário => Analisa seus limites
+		2. Economicidade
+			- Eficiência no uso do dinheiro público. Custo-benefício
+		3. Renúncia de receita
+			- Art. 14 da LRF. Equilíbrio fiscal
+			- LRF não proíbe renúncia, mas disciplina
+		4. Subvenção
+			- Transferências voluntárias. União e o TCU controla o dinheiro que remete para Estado
+			- Subvenção social tem íntima relação com terceiro setor – Art 16 ao 19/4320
