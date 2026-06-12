@@ -14,3 +14,7 @@
 - Coimbra
 	1. 195 por mês
 	2. Carta de Recomendação
+
+61,12
+
+0.09
