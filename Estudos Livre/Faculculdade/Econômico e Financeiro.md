@@ -730,6 +730,7 @@ Lula tomou posse em 2023. Neste ano quais leis orçamentárias estavam em vigor?
 			2. *Derivada*
 				- A receita derivada tem origem na obtenção de recursos a partir dos particulares, normalmente por meio da tributação (Obs.: É vedado que medidas provisórias criem impostos) (Ex.: Impostos; Taxas; Contribuições de Melhoria; Contribuições Sociais; Empréstimo Compulsório)
 			3. *Receita Transferida*
+				- Decorre do federalismo financeiro, envolvendo a repartição do produto da arrecadação tributária. (Ex.: Parte do Imposto de Renda é destinado ao fundo de repartição dos Municípios e dos Estados)(previsto nos arts. 157 a 162/CF)
 
 - **Existem 5 tipos de Tributos:**
 >- Impostos; 
@@ -834,34 +835,46 @@ B. **Aspecto Econômico - Art 12/4320**
 
 - **Classificação da Receita Pública
 	- Em razão de origem, constância, financeira e motivo de entrada
-	1. Quanto a coercitividade
-		 - Originária: Exploração do patrimônio estatal ou atuação direta na economia (estatal) 
-		 - Derivada: Obtenção a partir da exploração do patrimônio do particular (ex. Tributos)
-		 - Transferida: Federalismo financeiro/Repartição do produto tributário entre entes federados (Art 157 a 162/CF - Transferência intergovernamentais; Ex. Imposto de Renda e IPVA)
+	1. Quanto a constância
+		 - **Originária:** Exploração do patrimônio estatal ou atuação direta na economia (estatal) 
+		 - **Derivada**: Obtenção a partir da exploração do patrimônio do particular (ex. Tributos)
+		 - **Transferida**: Federalismo financeiro/Repartição do produto tributário entre entes federados (Art 157 a 162/CF - Transferência intergovernamentais; Ex. Imposto de Renda e IPVA)
 
 - **Federalismo Financeiro**
-	- Competência tributarias próprias (art. 153 a 158)
-	- Transferências (art 157 a 159)
-		1. Constitucionais - participações no produto (1. Diretas; 2. Fundos)
-		2. Legais - Discricionárias/Voluntárias (1. Vinculantes; 2. Livres)
-		- Obs.: Transferência não é empréstimo; vedado pelo art. 35/LRF
-	- Quanto a Regularidade
-		1. Ordinária: Fixa, constante (impostos)
-		2. Extraordinárias: Intermitente (royalties, doações, impostos extraordinários)
+	- Competência *tributarias próprias* (art. 153 a 158)(impostos)
+	- **Transferências** (art 157 a 159)
+		1. *Constitucionais* - participações no produto (1. Diretas; 2. Fundos)
+			- Essas transferências expressam a *solidariedade federativa* e o *federalismo cooperativo*, buscando corrigir brechas *verticais* (diferentes níveis) e *horizontais* (mesmo nível) na arrecadação
+			- Podem ser entregues diretamente com propósito ou sem, ou a fundos de distribuições
+		2. *Legais* - Discricionárias/Voluntárias (1. Vinculantes; 2. Livres)
+		- Obs.: Transferência **não é empréstimo**; vedado pelo art. 35/LRF
+	- Quanto a **Regularidade**
+		1. *Ordinária*: Fixa, constante (impostos)
+		2. *Extraordinárias*: Intermitente (royalties, doações, impostos extraordinários)
 		- **ATENÇÃO** Gasto do governo se pauta na ordinária (boa gestão fiscal)
-	- Quanto a Finalidade
-		1. Fiscal: Fim arrecadatório (imposto de renda)
-		2. Extrafiscal: Fim Regulatório (imposto de Importação)
-	- Quanto à Categoria Econômica
-		1. Corrente: Receita para manutenção da máquina pública (tributos, multa)
-		2. Capital: Investimento e obra pública / aumento do patrimônio estatal (operação de crédito, alienação de bens)
+	- Quanto a **Finalidade**
+		1. *Fiscal*: Fim arrecadatório (imposto de renda)
+		2. *Extrafiscal*: Fim Regulatório (imposto de Importação)
+	- Quanto à **Categoria Econômica** (ou motivo)
+		1. *Corrente*: Receita para manutenção da máquina pública (tributos, multa)
+		2. *Capital*: Investimento e obra pública / aumento do patrimônio estatal (operação de crédito, alienação de bens)
 	- Quanto à competência
 		1. Federal
 		2. Estadual
 		3. Municipal
 
+- Exemplos e fundamentos constitucionais
+	- Art. 157, I, CF  O Estado retém o IR dos servidores estaduais IR retido na fonte). Ao pagar o salário, o Estado retém o imposto e fica com o valor, caracterizando repartição direta via apropriação;
+	- Art. 158, I, CF  O Município retém o IR de seus servidores;
+	- Art. 158, II, CF  O Município fica com 50% do ITR arrecadado em seu território;
+	- Art. 158, III, CF  O Município fica com 50% do IPVA do veículo licenciado em seu território;
+	- Art. 158, IV, CF  O Município recebe 25% do ICMS sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual intermunicipal e de comunicação ⟶ fato gerador
+		- Por meio de fundos
+-----------------
+##### Quanto à Constância
+- A **Classificação** quanto à constância diz respeito à previsibilidade da receita pública, ou seja, à regularidade com que os valores ingressam nos cofres do Estado
 
-
+----------------------------
 # Dívida Pública
 
 - Somatório das obrigações do Estado perante *todos* os seus credores (interno e externo)
