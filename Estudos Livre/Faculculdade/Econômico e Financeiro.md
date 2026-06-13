@@ -716,13 +716,27 @@ Lula tomou posse em 2023. Neste ano quais leis orçamentárias estavam em vigor?
 
 # Receita e Despeja Pública
 
-- Despesa
+- **Despesa**
 	1. Fundamento
 	2. Classificação
 
-- Receita Pública
-	1. Fundamentos
-	2. Classificação
+- **Receita Pública**
+	1. Tudo aquilo que entra nos cofres públicos sem correspondente passivo ou condições de devolução. (difere-se do ingresso, que é transitório)
+		- OBS.: É importante observar que o art. 12 da Lei de Responsabilidade Fiscal LRF chama **a operação de crédito** de receita, embora, tecnicamente, se trate de *ingresso* ou entrada provisória.
+	2. **Classificação**
+		- Origem:
+			1. *Originária*
+				- A receita originária decorre da exploração do patrimônio estatal ou da atuação direta do Estado na economia. Surge, portanto, da própria atividade econômica ou patrimonial do Estado, sem imposição aos particulares (ex: royalties; Aluguel de bens públicos; Concessões)
+			2. *Derivada*
+				- A receita derivada tem origem na obtenção de recursos a partir dos particulares, normalmente por meio da tributação (Obs.: É vedado que medidas provisórias criem impostos) (Ex.: Impostos; Taxas; Contribuições de Melhoria; Contribuições Sociais; Empréstimo Compulsório)
+			3. *Receita Transferida*
+
+- **Existem 5 tipos de Tributos:**
+>- Impostos; 
+>- Taxas; 
+>- Contribuições de Melhoria; 
+>- Contribuições Sociais; 
+>- Empréstimo Compulsório.
 
 <br>
 - O Estado existe ara efetivar políticas públicas (despesa)
