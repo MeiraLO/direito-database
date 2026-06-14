@@ -890,8 +890,8 @@ B. **Aspecto Econômico - Art 12/4320**
 > União costuma fornecer garantias quando ente subnacional contrai dívida pública
 
 - Art. 70/CF - Fiscalização dos contratos assumidos para evitar intervenção/moratória/bancarrota 
-	- Dívida Pública Interna: ação do Banco Central
-	- Dívida Pública Externa: ação do Senado e sujeição à organismo internacionais - FMI, BIRD, etc
+	- Dívida Pública **Interna**: ação do Banco Central
+	- Dívida Pública **Externa**: ação do Senado e sujeição à organismo internacionais - FMI, BIRD, etc
 > Brasil se tornou devedor de ambas instituições nos anos 50
 > FMI - 2005 não tem dívida relevante; BIRD - mantém operações de crédito em infraestrutura
 
@@ -923,10 +923,10 @@ B. **Aspecto Econômico - Art 12/4320**
 
 - **Antecipação de Receita Orçamentária - ARO**
 	- Espécie de dívida Flutuante - Art. 38/LRF
-	> →Atende a um insuficiência momentânea de receita que ainda não ingressou
-	>→ Há previsão da receita para o ano vigente / Entrada somente ocorrer em momento futuro
-	>→ Operação de crédito de curto prazo a se saldar no próprio exercício financeiro
-	>→ ARO não almeja criar uma dívida pública
+>→Atende a um insuficiência momentânea de receita que ainda não ingressou
+>→ Há previsão da receita para o ano vigente / Entrada somente ocorrer em momento futuro
+>→ Operação de crédito de curto prazo a se saldar no próprio exercício financeiro
+>→ ARO não almeja criar uma dívida pública
 
 - Dívida de **curto** prazo + Insuficiência de caixa + quitação no ano vigente + Receita Futura certa
 	- Vedada no último ano de mandado
@@ -934,7 +934,7 @@ B. **Aspecto Econômico - Art 12/4320**
 
 - **Vedação de Empréstimo entre entes Federados**
 	- Art. 35 e 36/LRF
-	> Bancos estatais podem financiar segundo regras de mercado (ex: BNDES pode fazer operação de crédito para o Estado do RJ, mas pode fazer para a União)
+> Bancos estatais podem financiar segundo regras de mercado (ex: BNDES pode fazer operação de crédito para o Estado do RJ, mas pode fazer para a União)
 
 *ATENÇÃO*: Pedalada Fiscal no Gov. Dilma
 > → Atraso de pagamento de benefícios sociais via Caixa
@@ -952,7 +952,7 @@ B. **Aspecto Econômico - Art 12/4320**
 
 - Constituição: art 70
 > 1. Legalidade - existência de lei que autoriza o gasto e esteja de acordo com as normas
-> 2. Legetimidade - analisa se o gasto atendeu a sua finalidade
+> 2. Legitimidade - analisa se o gasto atendeu a sua finalidade
 > 3. Economicidade - eficiência da gestão orçamentária 
 
 -  Controle interno (órgãos do poder)
