@@ -775,7 +775,7 @@ Lula tomou posse em 2023. Neste ano quais leis orçamentárias estavam em vigor?
 > A entrada do valor nos cofre públicos não tem natureza em receita público
 
 
-##### Classificação de Despesa
+### Classificação de Despesa
 
 A. **Regularidade**
 > 1. Ordinárias: fonte constante, esperada (tributos)
