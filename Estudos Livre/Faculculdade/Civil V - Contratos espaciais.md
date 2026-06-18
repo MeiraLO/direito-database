@@ -10,8 +10,7 @@ depositante.
 
 No **comodato**, o comodante empresta bem infungível para o comodatário, que recebe o bem temporariamente.
 
-No **mútuo**, o mutuante transfere temporariamente ao mutuário o domínio de coisa
-fungível.
+No **mútuo**, o mutuante transfere temporariamente ao mutuário o domínio de coisa fungível.
 
 No **seguro**, a sociedade seguradora assume, mediante o recebimento do prêmio, a
 obrigação de garantir interesse legítimo do contratante do seguro/segurado contra riscos predeterminados.

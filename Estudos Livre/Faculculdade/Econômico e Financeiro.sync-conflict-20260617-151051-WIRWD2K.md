@@ -716,13 +716,28 @@ Lula tomou posse em 2023. Neste ano quais leis orçamentárias estavam em vigor?
 
 # Receita e Despeja Pública
 
-- Despesa
+- **Despesa**
 	1. Fundamento
 	2. Classificação
 
-- Receita Pública
-	1. Fundamentos
-	2. Classificação
+- **Receita Pública**
+	1. Tudo aquilo que entra nos cofres públicos sem correspondente passivo ou condições de devolução. (difere-se do ingresso, que é transitório)
+		- OBS.: É importante observar que o art. 12 da Lei de Responsabilidade Fiscal LRF chama **a operação de crédito** de receita, embora, tecnicamente, se trate de *ingresso* ou entrada provisória.
+	2. **Classificação**
+		- Origem:
+			1. *Originária*
+				- A receita originária decorre da exploração do patrimônio estatal ou da atuação direta do Estado na economia. Surge, portanto, da própria atividade econômica ou patrimonial do Estado, sem imposição aos particulares (ex: royalties; Aluguel de bens públicos; Concessões)
+			2. *Derivada*
+				- A receita derivada tem origem na obtenção de recursos a partir dos particulares, normalmente por meio da tributação (Obs.: É vedado que medidas provisórias criem impostos) (Ex.: Impostos; Taxas; Contribuições de Melhoria; Contribuições Sociais; Empréstimo Compulsório)
+			3. *Receita Transferida*
+				- Decorre do federalismo financeiro, envolvendo a repartição do produto da arrecadação tributária. (Ex.: Parte do Imposto de Renda é destinado ao fundo de repartição dos Municípios e dos Estados)(previsto nos arts. 157 a 162/CF)
+
+- **Existem 5 tipos de Tributos:**
+>- Impostos; 
+>- Taxas; 
+>- Contribuições de Melhoria; 
+>- Contribuições Sociais; 
+>- Empréstimo Compulsório.
 
 <br>
 - O Estado existe ara efetivar políticas públicas (despesa)
@@ -760,7 +775,7 @@ Lula tomou posse em 2023. Neste ano quais leis orçamentárias estavam em vigor?
 > A entrada do valor nos cofre públicos não tem natureza em receita público
 
 
-##### Classificação de Despesa
+### Classificação de Despesa
 
 A. **Regularidade**
 > 1. Ordinárias: fonte constante, esperada (tributos)
@@ -820,34 +835,46 @@ B. **Aspecto Econômico - Art 12/4320**
 
 - **Classificação da Receita Pública
 	- Em razão de origem, constância, financeira e motivo de entrada
-	1. Quanto a coercitividade
-		 - Originária: Exploração do patrimônio estatal ou atuação direta na economia (estatal) 
-		 - Derivada: Obtenção a partir da exploração do patrimônio do particular (ex. Tributos)
-		 - Transferida: Federalismo financeiro/Repartição do produto tributário entre entes federados (Art 157 a 162/CF - Transferência intergovernamentais; Ex. Imposto de Renda e IPVA)
+	1. Quanto a constância
+		 - **Originária:** Exploração do patrimônio estatal ou atuação direta na economia (estatal) 
+		 - **Derivada**: Obtenção a partir da exploração do patrimônio do particular (ex. Tributos)
+		 - **Transferida**: Federalismo financeiro/Repartição do produto tributário entre entes federados (Art 157 a 162/CF - Transferência intergovernamentais; Ex. Imposto de Renda e IPVA)
 
 - **Federalismo Financeiro**
-	- Competência tributarias próprias (art. 153 a 158)
-	- Transferências (art 157 a 159)
-		1. Constitucionais - participações no produto (1. Diretas; 2. Fundos)
-		2. Legais - Discricionárias/Voluntárias (1. Vinculantes; 2. Livres)
-		- Obs.: Transferência não é empréstimo; vedado pelo art. 35/LRF
-	- Quanto a Regularidade
-		1. Ordinária: Fixa, constante (impostos)
-		2. Extraordinárias: Intermitente (royalties, doações, impostos extraordinários)
+	- Competência *tributarias próprias* (art. 153 a 158)(impostos)
+	- **Transferências** (art 157 a 159)
+		1. *Constitucionais* - participações no produto (1. Diretas; 2. Fundos)
+			- Essas transferências expressam a *solidariedade federativa* e o *federalismo cooperativo*, buscando corrigir brechas *verticais* (diferentes níveis) e *horizontais* (mesmo nível) na arrecadação
+			- Podem ser entregues diretamente com propósito ou sem, ou a fundos de distribuições
+		2. *Legais* - Discricionárias/Voluntárias (1. Vinculantes; 2. Livres)
+		- Obs.: Transferência **não é empréstimo**; vedado pelo art. 35/LRF
+	- Quanto a **Regularidade**
+		1. *Ordinária*: Fixa, constante (impostos)
+		2. *Extraordinárias*: Intermitente (royalties, doações, impostos extraordinários)
 		- **ATENÇÃO** Gasto do governo se pauta na ordinária (boa gestão fiscal)
-	- Quanto a Finalidade
-		1. Fiscal: Fim arrecadatório (imposto de renda)
-		2. Extrafiscal: Fim Regulatório (imposto de Importação)
-	- Quanto à Categoria Econômica
-		1. Corrente: Receita para manutenção da máquina pública (tributos, multa)
-		2. Capital: Investimento e obra pública / aumento do patrimônio estatal (operação de crédito, alienação de bens)
+	- Quanto a **Finalidade**
+		1. *Fiscal*: Fim arrecadatório (imposto de renda)
+		2. *Extrafiscal*: Fim Regulatório (imposto de Importação)
+	- Quanto à **Categoria Econômica** (ou motivo)
+		1. *Corrente*: Receita para manutenção da máquina pública (tributos, multa)
+		2. *Capital*: Investimento e obra pública / aumento do patrimônio estatal (operação de crédito, alienação de bens)
 	- Quanto à competência
 		1. Federal
 		2. Estadual
 		3. Municipal
 
+- Exemplos e fundamentos constitucionais
+	- Art. 157, I, CF  O Estado retém o IR dos servidores estaduais IR retido na fonte). Ao pagar o salário, o Estado retém o imposto e fica com o valor, caracterizando repartição direta via apropriação;
+	- Art. 158, I, CF  O Município retém o IR de seus servidores;
+	- Art. 158, II, CF  O Município fica com 50% do ITR arrecadado em seu território;
+	- Art. 158, III, CF  O Município fica com 50% do IPVA do veículo licenciado em seu território;
+	- Art. 158, IV, CF  O Município recebe 25% do ICMS sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual intermunicipal e de comunicação ⟶ fato gerador
+		- Por meio de fundos
+-----------------
+##### Quanto à Constância
+- A **Classificação** quanto à constância diz respeito à previsibilidade da receita pública, ou seja, à regularidade com que os valores ingressam nos cofres do Estado
 
-
+----------------------------
 # Dívida Pública
 
 - Somatório das obrigações do Estado perante *todos* os seus credores (interno e externo)
@@ -863,8 +890,8 @@ B. **Aspecto Econômico - Art 12/4320**
 > União costuma fornecer garantias quando ente subnacional contrai dívida pública
 
 - Art. 70/CF - Fiscalização dos contratos assumidos para evitar intervenção/moratória/bancarrota 
-	- Dívida Pública Interna: ação do Banco Central
-	- Dívida Pública Externa: ação do Senado e sujeição à organismo internacionais - FMI, BIRD, etc
+	- Dívida Pública **Interna**: ação do Banco Central
+	- Dívida Pública **Externa**: ação do Senado e sujeição à organismo internacionais - FMI, BIRD, etc
 > Brasil se tornou devedor de ambas instituições nos anos 50
 > FMI - 2005 não tem dívida relevante; BIRD - mantém operações de crédito em infraestrutura
 
@@ -896,10 +923,10 @@ B. **Aspecto Econômico - Art 12/4320**
 
 - **Antecipação de Receita Orçamentária - ARO**
 	- Espécie de dívida Flutuante - Art. 38/LRF
-	> →Atende a um insuficiência momentânea de receita que ainda não ingressou
-	>→ Há previsão da receita para o ano vigente / Entrada somente ocorrer em momento futuro
-	>→ Operação de crédito de curto prazo a se saldar no próprio exercício financeiro
-	>→ ARO não almeja criar uma dívida pública
+>→Atende a um insuficiência momentânea de receita que ainda não ingressou
+>→ Há previsão da receita para o ano vigente / Entrada somente ocorrer em momento futuro
+>→ Operação de crédito de curto prazo a se saldar no próprio exercício financeiro
+>→ ARO não almeja criar uma dívida pública
 
 - Dívida de **curto** prazo + Insuficiência de caixa + quitação no ano vigente + Receita Futura certa
 	- Vedada no último ano de mandado
@@ -907,7 +934,7 @@ B. **Aspecto Econômico - Art 12/4320**
 
 - **Vedação de Empréstimo entre entes Federados**
 	- Art. 35 e 36/LRF
-	> Bancos estatais podem financiar segundo regras de mercado (ex: BNDES pode fazer operação de crédito para o Estado do RJ, mas pode fazer para a União)
+> Bancos estatais podem financiar segundo regras de mercado (ex: BNDES pode fazer operação de crédito para o Estado do RJ, mas pode fazer para a União)
 
 *ATENÇÃO*: Pedalada Fiscal no Gov. Dilma
 > → Atraso de pagamento de benefícios sociais via Caixa
@@ -925,7 +952,7 @@ B. **Aspecto Econômico - Art 12/4320**
 
 - Constituição: art 70
 > 1. Legalidade - existência de lei que autoriza o gasto e esteja de acordo com as normas
-> 2. Legetimidade - analisa se o gasto atendeu a sua finalidade
+> 2. Legitimidade - analisa se o gasto atendeu a sua finalidade
 > 3. Economicidade - eficiência da gestão orçamentária 
 
 -  Controle interno (órgãos do poder)
@@ -938,7 +965,7 @@ B. **Aspecto Econômico - Art 12/4320**
 > gestor: responsabilidade solidária 
 > Outros poder devem avisar ao TCU
 
-- **Controle Externo (PL e TCU)**n
+- **Controle Externo (PL e TCU)**
 	1.  Poder Legislativo - Art. 70/CF
 		- Promove o controle com auxílio do TCU
 		- Comissão Mista: Senado e Câmara - art 166, §1/CF (parecer sobre Leis Orçamentárias e Contas Públicas)

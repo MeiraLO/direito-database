@@ -202,8 +202,19 @@ Ou seja, a hipoteca é ineficiente para o adquirente
 loteamento, desmembramento
 lei 6766/79
 
-### Alienação Fiduciária 
-
-
+### Alienação Fiduciária (nova forma de garantia)
+- É uma garantia real
+- O fiduciante recebe a propriedade resoluvel (diferesse da hipoteca já que o devedor mantém a propriedade)
+- Maior segurança para o credor
+- lei 9.514/97
+- instrumento particular ou público (STJ - Particular precisa ter publicidade)
+- Propriedade resoluvel --> Temporária, extinta com a quitação 
+- O devedor é o possuidor direto, o credor é o possuidor indireto e não pode entrar no imóvel ou se utilizar dele.
+- Tem uma execução mais rápida 
+- mandado de segurança 39/230 
+- O credor não pode ficar com o bem após a execução, ele deve leiloa-lo 
+- No caso de Adimplemento: termo de quitação com prazo de 30 dias (sob multa de 5% ao mês do valor do contrato), para apresentar ao cartório, a fim de encerrar o contrato e transferir de volta.
+- No caso de Inadimplemento: O credor deverá pagar as obrigações atreladas ao imóvel deixadas pelo devedor e para a transferência a leilão. 
+- 
 ### Sistema financeiro habitacional e imobiliário
 novas espécies de condomínio e lot
