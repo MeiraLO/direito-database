@@ -118,3 +118,17 @@ A principal diferença está no momento em que a divisão da terra acontece. O l
 Nesta modalidade há a transferência das áreas comuns ao município, a transferência total da terra ao proprietário (não há taxas condominiais etc) e o loteador não vende a propriedade construída como nas incorporações.
 Trata-se portanto de uma forma mais simples e barata de de alienar e vender uma terra com propriedades autônomas, já que o loteador precisa apenas construir os requisitos básicos como o saneamento e ruas. Ou seja, possuí um custo menor, porém uma margem de lucros menores, mas essencialmente, como não há análise discricionária do Município, raramente será rejeitada, tão pouco precisará de grandes recursos e investimentos para sua realização.
 
+### O Distrato no Loteamento
+
+O ponto de partida do regime é a **irretratabilidade do compromisso de compra e venda** (art. 25): uma vez celebrado, o contrato não pode ser desfeito unilateralmente pelo loteador por mera conveniência. Quando o adquirente deixa de pagar, a resolução não é automática — exige-se a constituição em mora, e o contrato só se considera resolvido **30 dias depois**, salvo se o comprador purgar a mora nesse intervalo (art. 32).
+
+Resolvido o contrato, entra em cena o **art. 32-A**, núcleo da Lei 13.786/2018 aplicado ao loteamento: ele define **o que o loteador pode descontar** do valor a ser devolvido ao adquirente. São cinco descontos possíveis, mas dois deles concentram o maior peso prático e por isso aparecem em destaque no slide:
+
+- **Fruição** (inciso I) — cobrada mensalmente, até 0,75% ao mês sobre o valor atualizado do contrato, proporcional ao tempo em que o adquirente teve posse do lote;
+- **Cláusula penal** (inciso II) — que reúne a penalidade contratual, despesas administrativas e eventuais arras, mas com **teto de 10%** do valor atualizado.
+
+Os outros três descontos são mais pontuais e acessórios: **encargos moratórios** sobre as parcelas pagas em atraso (III), **débitos vinculados ao lote** como IPTU e taxas condominiais (IV), e **comissão de corretagem**, quando integrada ao preço (V).
+
+Descontados esses valores, o saldo deve ser devolvido ao adquirente em **até 12 parcelas mensais**, após um período de carência que varia conforme o estágio da obra — 180 dias se as obras ainda estão em andamento, ou 12 meses se já estiverem concluídas (§1º).
+
+Por fim, o slide traz uma proteção importante prevista no **art. 39**: se o loteamento não estiver regularmente registrado, a cláusula de rescisão por inadimplemento do adquirente é **nula de pleno direito**. Isso significa que o loteador que não regularizou seu empreendimento perde o direito de retomar o lote por essa via — um mecanismo que pune a irregularidade do próprio loteador e reforça a proteção do comprador nesses casos.
