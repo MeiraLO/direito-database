@@ -13,7 +13,7 @@ Ana Santa Aparecida - (24) 99908-5938
 • Caso Marineide, responsabilidade civil
 Ela veio pedindo para juizar uma ação de indenização
 Ela sofreu uma mordida de um cachorro, e o cachorro não era vacinado (alegadamente), segundo ela o cachorro estava preso em um lugar desconfortável e um rapaz soltou ele, de forma que ele avançou em cima dela.
-Ela queria ir na UPA com o responsável, ele se rejeitou, o que gerou uma indignação. A assistida alegou ter quebrado o braço nesse movimento e machucado a perna, trazendo uma comprovação de raio X e os protocolos de atendimento. Mas o raio X veio sem laudo ou data, o que dificulda a demanda, já que as partes não são médicos e não há a data para comprovar.
+Ela queria ir na UPA com o responsável, ele se rejeitou, o que gerou uma indignação. A assistida alegou ter quebrado o braço nesse movimento e machucado a perna, trazendo uma comprovação de raio X e os protocolos de atendimento. Mas o raio X veio sem laudo ou data, o que dificulta a demanda, já que as partes não são médicos e não há a data para comprovar.
 As recomendações do doutor foram pedir que a senhora retorne ao ortopedista para requisitar um laudo para o raio X,
 
 Além disso, ela possuí outro interesse a ser demandado. Um membro da família dela é concelheiro de uma empresa, e ela se posicionou como fiadora da empresa em prol dele, a sócia abandonou a empresa e ela não consegue deixar o contrato de fiação sem a assinatura dela.
