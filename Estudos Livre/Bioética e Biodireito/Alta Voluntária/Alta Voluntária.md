@@ -23,7 +23,7 @@
 - O **Novo Estatuto do Paciente** introduz uma perspectiva geral para a fundamentação da Alta Voluntária no seu artigo 14, §1 - que assegura o direito de retirar o consentimento a qualquer tempo em represálias (logo não poderia haver o envolvimento das forças de segurança será apresentado na resolução a seguir) - porém, insto não garante de forma alguma o direito de se retirar do ambiente clinico e não abrange o suficiente para que se possa argumentar que há indubitavelmente a alta voluntária (de certa forma, este direito terá de ser reclamado mediante a jurisprudência futura)
 
 
-Vale ressaltar que em algumas instituições o termo é assinado por familiar que vai se responsabilizar pela alta a pedido, ou seja, o documento não é assinado somente pelo paciente. Fica a indagação: se o paciente é sujeito com autonomia, não deveria se responsabilizar por sua própria decisão?f
+Vale ressaltar que em algumas instituições o termo é assinado por familiar que vai se responsabilizar pela alta a pedido, ou seja, o documento não é assinado somente pelo paciente. Fica a indagação: se o paciente é sujeito com autonomia, não deveria se responsabilizar por sua própria decisão?
 <br>
 ##### ~={yellow}**Resolução 2.232/2019**=~
 - A resolução do CFM Nº 2.232/2019 introduz está modalidade na forma de recusa terapêutica e prevê a "recusa da recusa" por parte do médico no caso do paciente: menor de idade ou de adulto que não esteja no pleno uso de suas faculdades mentais, independentemente de estarem representados ou assistidos por terceiros.
