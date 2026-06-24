@@ -9,6 +9,9 @@ Art. 27. Desrespeitar a integridade física e mental do paciente
 ou utilizar-se de meio que possa alterar sua personalidade ou sua
 consciência em investigação policial ou de qualquer outra natureza
 
-Lei de biosegurança
+Lei de biossegurança
 
 IA emocional
+
+
+

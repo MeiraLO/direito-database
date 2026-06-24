@@ -9,7 +9,7 @@ Tempo de Leitura: **30 min~**
 > regular os direitos e as responsabilidades dos pacientes sob cuidados prestados por serviços de saúde de qualquer natureza ou por profissionais de saúde.
 
 ### Cap I, Disposições Gerais
-- Princípios orientadores da lei (art 2)
+- Nomenclaturas orientadoras da lei (art 2)
 	1. Autodeterminação
 	2. Diretivas antecipadas de vontade
 		- Declaração <u>Escrita</u>, antecipada e expressa da vontade, abordando sobre os cuidados, os procedimentos e os tratamentos que o paciente aceita ou recusa, quando não puder expressar livre e autonomamente a sua vontade (DEVE SER RESPEITADA)
@@ -17,8 +17,18 @@ Tempo de Leitura: **30 min~**
 		-  Designada por escrito em uma diretiva antecipada ou outro documento escrito similar, para quando não puder expressar a sua vontade de forma livre e autônoma
 	4. Consentimento informado
 		- É a vontade livre de coerção externa ou influência subjugante, sobre os cuidados à sua saúde, após ter sido informado de forma clara, objetiva e <u>acessível</u>, sobre todos os aspectos relevantes acerca do seu diagnóstico, prognóstico, tratamento e cuidado em saúde
-	5. Cuidados Paliativos (dignidade pré-morte)
+	5. Cuidados Paliativos
 		- Não visa o prolongamento, nem o encurtamento da vido do paciente. Apenas permitir que ele siga o seu curso natural da forma mais digna e com a melhor qualidade de vida possível (seja em direção a morte ou não, a pedido do paciente ou do médico)
+		- Descrição Conservadora, quando comparado com o da OMS
+
+> **Observação!!** - Os cuidados paliativos não podem ser rejeitados pela *FAMÍLIA*, é um direito exclusivamente do paciente, sendo a família dotada do direito de ser apoiada e assistida, mas não de escolher como o paciente será tratado. 
+> Representante ≠ Familiar
+<br>
+>**Observação 2!!** - A forma como o representante é tratado pela lei difere do entendimento das resoluções: 
+>	1. CFM: Caso um representante seja designado, suas informações serão levadas em consideração pelo médico
+>	2. Lei 13.378: O Paciente tem direito de indicar livremente um representante para decidir por ele os cuidados caso este não consiga faze-lo
+>> Diferença - Considerar X Decidir por ele
+>> É uma ampliação da autonomia
 
 - A lei rege todas as pessoas que trabalham com o objeto tutelado (saúde) e que possuem um relacionamento com o seu cliente na posição de paciente.
 
@@ -31,7 +41,7 @@ Tempo de Leitura: **30 min~**
 - Art. 5, Parágrafo único. Aos pacientes que, por sua condição biológica, psíquica, cultural e social, estejam impedidos de dar o seu consentimento livre e esclarecido, deverão ser garantidos instrumentos para expressar as suas opções ou opor resistência a um procedimento.
 > Quais são esses instrumentos? A lei não especifica, tão pouco exemplifica, devido a imensidão de possibilidades e necessidades de integração, de forma a permitir que os conselhos e o SUS possam estabelecer normas de aplicação conforme a necessidade material. Porém, sem nunca ignorar as vontades do paciente, por mais difíceis que sejam de captar.
 > **→ ~={green}ISSO INCLUI MENORES DE IDADE?**=~  ~={green}**o que qualifica o risco iminente de morte?**=~
->> Conceitualmente, a jurisprudência brasileira irá te dizer que este menor terá que ter os seus interesses considerados apenas
+>> a jurisprudência brasileira irá te dizer que este menor terá que ter os seus interesses considerados apenas
 
 
 
@@ -40,6 +50,7 @@ Tempo de Leitura: **30 min~**
 
 - art 6: Liberdade de escolha de um representante a qualquer momento, via registro em prontuário
 	- Flexibilização da representação já presente no CFM, visa o paciente que pouco sabia de sua situação (física) e que agora deseja ser representado, ou que não deseja mais ser representado por uma pessoa específica, alterando seu representante 
+	- NÃO SE CONFUNDE COM FAMILIAR, DEVE SER EXPRESSO
 
 - Art. 7°. O paciente tem o direito de contar com um acompanhante em consultas e internações, salvo quando o médico ou profissional responsável pelos seus cuidados entender que a presença do acompanhante pode acarretar prejuízo à saúde, à intimidade ou à segurança do paciente ou de outrem.
 	- O paciente pode escolher afastar a preocupação do médico? (com exceção do prejuízo à saúde de terceiros?)
@@ -110,7 +121,7 @@ Tempo de Leitura: **30 min~**
 	-- Veio também como forma de prevenção para a acusação de omissão de socorro
 6. Tentativa de criação de um sistema de igualdade, quase um [[contraditório]], para a relação médico x paciente
 
-### O que faltou? (Críticas) 
+### Críticas 
 1. Pouca ou quase nenhuma regulamentação sobre os cuidados paliativos (apenas através das diretivas)(proteção ao médico principalmente)
 	- Ainda temos que compreender que cuidado paliativo não é necessariamente terminalidade, podendo o paciente requisitar os cuidados para incentivar o conforto de uma doença que o acometa, não podendo o médico rejeitar a ativação da equipe paliativa devido não terminalidade do caso.
 <br>
@@ -143,7 +154,7 @@ Tempo de Leitura: **30 min~**
 <br>
 <br>
 
-##### Medidas que os médicos devem adotar para se proteger
+# Medidas que os médicos devem adotar para se proteger
 
 1. O médico deve manter uma documentação rigorosa
 >• Registrando:
@@ -161,6 +172,9 @@ Tempo de Leitura: **30 min~**
 >>→ COMPREENSÍVEL(!!!)
 >>>→ Deve se ter em mente que outros indivíduos leram o documento, tanto o juiz quanto o paciente devem compreender o registro
 >>→ Se não está registrado, juridicamente não aconteceu. Se ninguém entender, não há valor
+><br>
+> • O Médico deve evitar, se possível, entregar documentos de diretivas de "assinalar" e acompanhar o paciente na produção de suas diretivas.
+>> → Objetivo deste passo é garantir que o paciente
 
 
 <br>
