@@ -63,8 +63,8 @@ Dito isso:
 	- NÃO SE CONFUNDE COM FAMILIAR. O representante é uma pessoa física escolhida expressamente.
 <br>
 - Art. 7°. O paciente tem o direito de contar com um acompanhante em consultas e internações, salvo quando o médico ou profissional responsável pelos seus cuidados entender que a presença do acompanhante pode acarretar prejuízo à saúde, à intimidade ou à segurança do paciente ou de outrem.
-	- O paciente em tem o direito de questionar a decisão do médico de realizar o afastamento.
-	- Não há parâmetros para afastar, nem para impugnar o afastamento.
+> - O paciente tem o direito de questionar a decisão do médico de afastar o seu acompanhante.
+> - Não há parâmetros para afastar, nem para impugnar (rejeitar) o afastamento.
 <br>
 - Art 8°: 
 > O paciente tem direito aos cuidado de qualidade, de pedir a sua transferência de unidade em segurança (respeitado a delimitações de segurança e oportunidade) e aos registros dos atendimentos e procedimentos sejam enviados a nova unidade.
@@ -73,37 +73,45 @@ Dito isso:
 >→ Visa garantir o direito a segurança geral do paciente em todos os sentidos e o direito de questionar sobre essa segurança, seja ambiente, seja insumos, seja os médicos encarregados. Assim como gera o dever do médico de responder honestamente aos questionamentos, compreendendo que o paciente carece dos conhecimentos portados pelo profissional. 
 >→ Ou seja, mesmo em face de perguntas simples e até mesmo bobas, o médico precisa diligentemente responder aos questionamentos, sob risco de violar o direito a decisão informada, . 
 <br>
-- Art. 10°: Durante a relação, não deve ocorrer qualquer tipo de distinção, exclusão, restrição ou preferência que seja baseado em qualquer parâmetro, de forma a restringir direitos.
-	- Caso COVID-19, quanto aos estados de calamidade e a preferência por idade e taxa de recuperação? Foi criado a jurisprudência contrária para a adoção de medidas racionais utilitaristas, que visam a maioria em desfavor do indivíduo, agora está positivado em lei.
-	- → "§2º O paciente tem o direito de ter suas particularidades culturais, religiosas e de outra natureza respeitadas, principalmente quando fizer parte de grupos vulneráveis" -- Caso testemunhas de jeová (e os menores de idade?)
+- Art. 10: Durante a relação, não deve ocorrer qualquer tipo de distinção, exclusão, restrição ou preferência que seja baseado em qualquer parâmetro, de forma a restringir direitos.
+	- Caso COVID-19, quanto aos estados de calamidade e a preferência por idade e taxa de recuperação? Foi criado a jurisprudência contrária para a adoção de medidas racionais utilitaristas, agora também previsto em lei.
+	- → "§2º O paciente tem o direito de ter suas particularidades culturais, religiosas e de outra natureza respeitadas, principalmente quando fizer parte de grupos vulneráveis" -- Caso testemunhas de jeová (com exceção dos menores de idade, em que se pode afastar as decisões dos país)
 <br>
-- Arts 11 a 21° (ler, direitos gerais)
+- Arts 11 ao 18 (direitos gerais)
+	- → Participação ativa
+	- → Informação (para si ou para seu representante)
 	- → Acessibilidade
 		- art 12: §2°, O paciente tem o direito a intérprete ou, no caso da pessoa com deficiência ou incapaz, a meios que assegurem sua acessibilidade.
-	 - → Informação de seu estado, riscos, benefícios, alternativas, pós tratamento, basicamente de tudo que seja sobre si mesmo ou de seu representado. (A lei foi bem minuciosa quanto a isso)
 	- → Decisão total quanto aos próprios procedimentos, mesmo que não recomendados pelo médico.
 	- → Privacidade
-		- Prevenção de ações vexatórias, necessidade de áreas privadas (exceto emergência); recusa de visita e de estudantes ou observadores estranhos ao seus cuidados.
-		- Quanto aos hospitais universitários, podem rejeitar paciente devido ao caráter docente? Caso o paciente tenha sido transferido diretamente ao hospital, não! (polêmico para os médicos)
+		- Prevenção de ações vexatórias, necessidade de áreas privadas (exceto emergência); recusa de visitas e de estudantes ou observadores estranhos ao seus cuidados.
+		- Quanto aos hospitais universitários, podem rejeitar paciente devido ao caráter docente? (polêmico para os médico)
 	→ De retirar o seu consentimento a qualquer momento, sem represália
 	→ A confidencialidade
 		Pode escolher para quem revelar e o quanto revelar (prévia autorização), exceto devido a decisão judicial 
-		→ DEVE OCORRER O MANUSEIO CORRETO DOS DADOS PROVIDENCIADOS AOS MÉDICOS(!!!!), de forma a assegurar a confidencialidade das informações.
-	→ ART 19°: O paciente tem o direito de ter acesso a seu prontuário médico, sem necessitar apresentar justificativa, bem como de obter cópia sem <u>ônus</u> (custos), de solicitar retificação e de exigir que seja mantido em segurança.(!!!)
-		-- Não tem prazo para a entrega? Ridiculamente, não, mas o paciente pode entrar com um mandado de segurança contra o médico (é um processo para assegurar um direito garantido por lei ao paciente, cabendo certa responsabilização e pagamento de perdas e danos, dependendo do caso)
-	→ Art. 20. O paciente tem o direito de ter suas diretivas antecipadas de vontade respeitadas pela família e pelos profissionais de saúde.
-		-- Esta lei agora demanda o respeito incondicional pelas diretivas, independentemente do risco ou da vontade do médico.
-	→ Art. 21. O paciente tem o direito a cuidados paliativos, livre de dor, e de escolher o local de sua morte, nos termos dos regramentos do Sistema Único de Saúde (SUS) ou dos planos de assistência à saúde, conforme o caso.
-		Parágrafo único. Os familiares do paciente têm o direito de serem apoiados para lidar com sua doença.
-		-- A codificação dos cuidados paliativos é de extrema importância para evitar casos de prolongamento da vida e, principalmente, por demandar o apoio a família, que em geral são os mais afetados pela enfermidade.
+		→ DEVE OCORRER O MANUSEIO CORRETO DOS DADOS PROVIDENCIADOS AOS MÉDICOS, de forma a assegurar a confidencialidade das informações.
 <br>
-- Esta lei continua a utilizar o termo risco iminente de morte, em toda sua imprecisão
-	- Este termo está atualmente com um questionamento no Supremo Tribunal Federal *(ADPF 642)*, o questionamento não é direcionado a lei, mas as resoluções e o ordenamento no geral. 
 
+-  Art. 19: O paciente tem o direito de ter acesso a seu prontuário médico, sem necessitar apresentar justificativa, bem como de obter cópia <u>sem ônus</u> (custos), de solicitar retificação e de exigir que seja mantido em segurança.
+>  Não tem prazo para a entrega, mas o paciente pode entrar com um mandado de segurança contra o médico  (Processo para assegurar um direito garantido por lei ao paciente, cabendo certa responsabilização e pagamento de qualquer dano causado, dependendo do caso)
+<br>
 
+- Art. 20. O paciente tem o direito de ter suas diretivas antecipadas de vontade respeitadas pela família e pelos profissionais de saúde.
+> Esta lei agora demanda o respeito incondicional pelas diretivas, independentemente do risco ou da vontade do médico.
+<br>
+
+- Art. 21. O paciente tem o direito a cuidados paliativos, livre de dor, e de escolher o local de sua morte, nos termos dos regramentos do Sistema Único de Saúde (SUS) ou dos planos de assistência à saúde, conforme o caso.
+> Parágrafo único. Os familiares do paciente têm o direito de serem apoiados para lidar com sua doença.
+> - A codificação dos cuidados paliativos é de extrema importância para evitar casos de prolongamento da vida e, principalmente, por demandar o apoio a família, que em geral são os mais afetados pela enfermidade.
+> - Em casos de delegação de responsabilidade dos cuidados aos familiares, eles devem ser bem instruídos, sob risco de responsabilidade legal médica.
+<br>
+- Esta lei utiliza o termo risco de morte, assim como não abandona a ideia de "risco iminente" presente nas resoluções do CFM, o que pode conflitar com ideias apresentadas de autodeterminação.
+	- Este termo está atualmente com um questionamento no Supremo Tribunal Federal ([ADPF 642](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=434205&ori=1)), o questionamento não é direcionado a lei, mas às resoluções e a ideia de risco iminente de morte contra recusa terapêutica. 
+
+<br>
 ### Cap III, Responsabilidade do Paciente
 
-- Art. 22. O paciente, ou a pessoa por ele indicada nos termos do art. 6º desta Lei, é responsável por compartilhar informações sobre doenças passadas, internações e medicamentos dos quais faz uso e outras informações pertinentes com os profissionais de saúde, com vistas a auxiliá-los na condução de seus cuidados.
+- Art. 22. O paciente, ou a pessoa por ele indicada nos termos do art. 6° desta Lei, é responsável por compartilhar informações sobre doenças passadas, internações e medicamentos dos quais faz uso e outras informações pertinentes com os profissionais de saúde, com vistas a auxiliá-los na condução de seus cuidados.
 	Parágrafo único. O paciente, ou a pessoa referida no _caput_, é responsável por:
 	I – seguir as orientações do profissional de saúde quanto ao medicamento prescrito, de modo a finalizar o tratamento na data determinada;
 	II – realizar perguntas e solicitar informações e esclarecimentos adicionais sobre seu estado de saúde ou seu tratamento, quando houver dúvida;
@@ -117,6 +125,7 @@ Dito isso:
 
 - Art. 24. A violação dos direitos do paciente dispostos nesta Lei caracteriza-se como situação contrária aos direitos humanos, nos termos da [Lei nº 12.986, de 2 de junho de 2014](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Lei/L12986.htm).
 	- O que isto significa? Maior vigilância na relação médico-paciente (agora há um rol imenso de indivíduos competentes), assim como a introdução de novas sanções (punições) para a sua violação e, em certos casos, a qualificação penal  poderá ser atribuída.
+	- Na prática? Provavelmente nada irá mudar.
 
 ### Medidas que os médicos devem adotar para se proteger
 
