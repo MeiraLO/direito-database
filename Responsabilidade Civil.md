@@ -10,7 +10,7 @@ Aula 1 ->
 • Teoria da causalidade
 • HISTÓRIA da responsabilidade civil
    - Tábua XVII, sem distinção entre penal e civil e casuística, pouco complexas.
-   - Direito romano, promessa aos deuse, noção de culpa e dano proporcional, remoção do castigo corporal (justiça), análise ética.
+   - Direito romano, promessa aos deuses, noção de culpa e dano proporcional, remoção do castigo corporal (justiça), análise ética.
   - A responsabilidade civil passou criou a culpa, depois pensou no risco, para focar na responsabilidade contratual e na vítima
 • Responsabilidade objetiva (ação) e subjetiva (omissão), responsabilidade administrativa.
 • Causalidade alternativa, a vítima necessita de reparo mas não se identifica o responsável, pode se responsabilizar um conjunto mediato. Foco na vítima, ela necessita da correção do dano, não na culpa. ( um filho que rouba a chave do carro do pai e causa um dano, o pai paga mesmo não tendo culpa )
