@@ -1,10 +1,10 @@
-> Assunto: Solicitação de Esclarecimentos – Procedimento de Renúncia à Propriedade
+> Assunto: Solicitação de Esclarecimentos: Procedimento de Renúncia à Propriedade
 
 Prezados,
 
 O Núcleo de Prática Jurídica da Universidade Federal Fluminense (NPJ-UFF) vem, respeitosamente, solicitar esclarecimentos acerca do procedimento de *Renúncia da Propriedade* de bem imóvel, tendo em vista que representa os interesses de assistida beneficiária do programa Minha Casa Minha Vida, na qual pretende renunciar à propriedade de imóvel situado nesta comarca.
 
-Visando isso, é importante ressaltar que a assistida já quitou integralmente o financiamento perante a Caixa Econômica Federal, possuindo em mãos a certidão de quitação. Contudo, em razão de o imóvel ter sido adquirido mediante alienação fiduciária, a matrícula ainda não consta a assistida como proprietária, sendo necessária a averbação da quitação do débito.
+Ademais, é importante ressaltar que a assistida já quitou integralmente o financiamento perante a Caixa Econômica Federal, possuindo em mãos a certidão de quitação. Contudo, em razão de o imóvel ter sido adquirido mediante alienação fiduciária, a matrícula ainda não consta a assistida como proprietária, sendo necessária a averbação da quitação do débito.
 
 Diante disso, solicitamos a gentileza de esclarecer:
 1) Quais os documentos necessários para a averbação da quitação decorrente da alienação fiduciária (considerando a certidão emitida pela Caixa Econômica Federal);
@@ -15,7 +15,7 @@ Diante disso, solicitamos a gentileza de esclarecer:
 
 Desde já, colocamo-nos à disposição para prestar quaisquer informações complementares que se façam necessárias.
 
-Ademais agradecemos a atenção e aguardamos o retorno.
+Agradecemos a atenção e aguardamos o retorno.
 
 Atenciosamente,
 
@@ -26,7 +26,7 @@ Núcleo de Prática Jurídica – UFF
 -----------------
 
 
-> Tópico: Solicitação de Esclarecimentos – Gratuidade de Emolumentos para Pessoas Hipossuficientes
+> Tópico: Solicitação de Esclarecimentos: Gratuidade de Emolumentos para Pessoas Hipossuficientes
 
 Prezados,
 
@@ -44,7 +44,7 @@ Diante disso, solicitamos a gentileza de esclarecer:
 
 Desde já, colocamo-nos à disposição para prestar quaisquer informações complementares que se façam necessárias.
 
-Ademais agradecemos a atenção e aguardamos o retorno.
+Agradecemos a atenção e aguardamos o retorno.
 
 Atenciosamente,
 
