@@ -274,7 +274,7 @@ Tempo de Leitura: **30 min~**
 - Art. 26°. Deixar de respeitar a vontade de qualquer pessoa, considerada capaz física e mentalmente, em greve de fome, ou alimentá-la compulsoriamente, devendo cientificá-la das prováveis complicações do jejum prolongado e, na hipótese de risco iminente de morte, tratá-la
 	- Agora foram estabelecidos parâmetros e instrumentos para o respeito da vontade incondicional de qualquer pessoa, seja ela incapaz fisicamente ou mentalmente. Para aqueles com algum tipo de deficiência cognitiva, será necessário estabelecer uma "tradução", como forma de acessibilidade (a lei não indica o instrumento, mas estabelece um intérprete ou um instrumento genérico). Para aqueles com alguma incapacidade física, há as diretivas e vontades expressas previamente
 
-- Os artigos 27 e 28 tratam da manutenção da integridade física e mental, da consciência e personalidade que não devem ser alterados (IMPORTANTE PARA OS [[Neurodireitos]]), assim como outras garantias genéricas importadas ao novo estatuto
+- Os artigos 27 e 28 tratam da manutenção da integridade física e mental, da consciência e personalidade que não devem ser alterados (IMPORTANTE PARA OS [[Estudos Livre/Referências e Explicações/Neurodireitos]]), assim como outras garantias genéricas importadas ao novo estatuto
 
 - Art. 41. Abreviar a vida do paciente, ainda que a pedido deste ou de seu representante legal.
 	- → Parágrafo único. Nos casos de doença incurável e terminal, deve o médico oferecer todos os cuidados paliativos disponíveis sem empreender ações diagnósticas ou terapêuticas inúteis ou obstinadas, levando sempre em consideração a vontade expressa do paciente ou, na sua impossibilidade, a de seu representante legal
