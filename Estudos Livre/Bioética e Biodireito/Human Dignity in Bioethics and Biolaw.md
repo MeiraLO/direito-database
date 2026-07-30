@@ -1,5 +1,14 @@
 [Autor: Deryck Beyleveld; Roger Brownword](https://z-lib.fm/book/nQ0Y9yVB0y/human-dignity-in-bioethics-and-biolaw.html)
 #responsabilidade #bioética
+
+#### Palavras
+
+- *agency*
+> Agência
+> A capacidade, condição ou estado de agir ou exercer poder; a habilidade de fazer escolhas e agir de forma independente.
+
+
+
 # **Introdução**
 	 A Princípio, antes de citar as vertentes descritas pelos autores, vale lembrar que        a dignidade humana é, em base, considerar o humano como começo e fim, não há       destinação ou valor econômico. Dito isto, partimos para o começo do livro.
 
