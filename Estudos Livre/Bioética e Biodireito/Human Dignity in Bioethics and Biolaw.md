@@ -10,7 +10,7 @@
 
 
 # **Introdução**
-	 A Princípio, antes de citar as vertentes descritas pelos autores, vale lembrar que        a dignidade humana é, em base, considerar o humano como começo e fim, não há       destinação ou valor econômico. Dito isto, partimos para o começo do livro.
+> A Princípio, antes de citar as vertentes descritas pelos autores, vale lembrar que        a dignidade humana é, em base, considerar o humano como começo e fim, não há       destinação ou valor econômico. Dito isto, partimos para o começo do livro.
 
 Os autores propões duas correntes de Direitos humanos, os direito enquanto empoderamento (estimulantes) e  os que tratam como restrição (limite), que segundo o autor são opostos (pg 1). A primeira versão, adota pela ONU em sua carta, trata os direito humanos como forma de empoderar a vida humana, eles seriam um direito natural que reforçam a autonomia. Já na segunda trata os direitos humanos como restrição, como um dever, uma obrigação "[[Civil VI - Obrigações| Propter Rem]] ao direito a vida", positivada, é a visão adotada pelo Conselho Europeu de direitos humanos e Biodireito. Ou seja, o primeiro afeta o particular da ação e o segundo afeta os terceiros à ação.
 
