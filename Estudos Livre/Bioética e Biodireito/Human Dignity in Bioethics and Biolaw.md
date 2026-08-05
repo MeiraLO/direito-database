@@ -1,4 +1,4 @@
-[Autor: Deryck Beyleveld; Roger Brownword](https://z-lib.fm/book/nQ0Y9yVB0y/human-dignity-in-bioethics-and-biolaw.html)
+[Autor: Deryck Beyleveld; Roger Brownsword](https://z-lib.fm/book/nQ0Y9yVB0y/human-dignity-in-bioethics-and-biolaw.html)
 #responsabilidade #bioética
 
 #### Palavras
