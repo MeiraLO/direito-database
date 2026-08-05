@@ -1,0 +1,115 @@
+{
+  "id": "7d773d1f-31f3-4ae6-a13f-52b54c060533",
+  "title": "/help",
+  "messages": [
+    {
+      "id": "f07c5b2d-ae9c-4c16-913b-ea7675f0e75e",
+      "role": "user",
+      "content": "/help",
+      "timestamp": 1784726650097
+    },
+    {
+      "id": "fd15e7e8-157d-453c-a274-92e10abeeca2",
+      "role": "assistant",
+      "content": "**General commands**\n**/new** — Start a new conversation\n**/clear** — Clear current conversation\n**/history** — Show conversation history\n**/flashcard** — Generate flashcard Q&A cards\n**/summary** — Generate learning session summary\n**/map** — Generate knowledge concept map\n**/plan** — Generate phased learning plan\n**/review** — Start spaced repetition review\n**/checkup** — Generate a quiz to test knowledge\n**/stats** — Show learning statistics dashboard\n**/mistakes** — View and manage error notebook\n**/buddy** — Enter study buddy mode for a topic\n\n**Learning methods**\n**/guide** — Study Guide：Generate core concepts, pitfalls, exercises and connections from material\n**/explain** — Confusion Terminator：Explain confusing concepts in 3 different ways\n**/gap** — Gap Finder：Audit knowledge gaps, logic breaks and prerequisites\n**/quiz** — Socratic Quiz：Multi-round quiz with instant feedback and increasing difficulty\n**/predict** — Exam Predictor：Predict exam focus points and build concept networks\n**/podcast** — Audio Partner：Generate podcast-style dialogue scripts\n**/feynman** — Feynman Test：User explains concepts, AI evaluates understanding depth\n**/mock** — Mock Exam：Generate a full exam (multiple choice + short answer + essay)\n\n**@filename** — Reference a vault file as context",
+      "toolCalls": [],
+      "thinkingBlocks": [],
+      "timestamp": 1784726650112
+    },
+    {
+      "id": "972f7300-7aec-4bc3-89e1-bfd189aecc69",
+      "role": "user",
+      "content": "你是一位苏格拉底式考官。请基于- [ ] Comparative and superlative (pag 14 e 188)\n- [ ] Pronuncia de Adjectives with \"lly\"\n- [ ] damn reported speech and reporting verbs\n- [ ] Conditionals\n- [ ] *possessive*\n- [ ] hypothetical clauses\n- [ ] conditionals\n- [ ] pg 62-63\n- [ ] pg 94-97\n- [ ] pg 112\n- [ ] pg 124\n- [ ] pg 154\n- [ ] word formation\n- [ ] FUCKING PARTICIPLES\n- [ ] I wish/if Only\n- [ ] past modals of deduction\n- [ ] Despite and In Spite of\n- [ ] Cleft Sentences\n- [ ] Passives\n- [ ] Gerund v. Infinitive\n\n- Notes for class:\n- [ ] try to use different words to impress (ex: pg 63, ex 3)\n- [ ] identification of word class (key word formation)\n- [ ] exercises for reported speech \n- [ ] Tests and forcing me to use some different forms of english\n- [ ] Why can't I say \"Despite of\"\n------------------\n\nT.1 - pg 62\n\nIn modern society, jobs are extremely specialized, so it is complicated to compare professions that perform one important thing or another that perform multiple not so important tasks. For example, during the process of building a house, an architect can plan how the house will look, but will need an engineer to plan on how to build it and a builder to actually build it, so in this one process, there are 3 roles being performed, that may very well be subdivided even more. Considering this, I believe rapid response personnel are to be the most important jobs, as they work in various places with little time to plan everything, making the people behind these services invaluable, since the situation won't allow anyone other than those already there to perform these actions.\nAs for the sportspeople, we actually need to make the conversation clear on which ones we are discussing, since not everyone involved in sports receive a considerable amount of money and it is really unequal among athletes. A good example of this inequality is in the difference of payment of male and female athletes, but not only in this relation, but also between sports, as a football player probably receives more than a snowboarder. In reality, things are not as simple as they may look at first glance, since most of the money athletes make, are from sponsorship's, doing commercials and sponsoring sports equipment, because of that, it's hard to argue against the value of that, since the amount of money they can make, is from their influence and image as a top athlete and how many people regard them as someone of high value. For that reason, the discrepancy of the top athletes is huge from the athletes on the bottom, which barely make any money to even make do.\nConsidering everything said, I don't think these athletes are overpaid or that the money they receive would go to, for example, emergency response personnel, as they make money equal to the amount of people watching the sport they work in, buying products they are sponsored by and generally following them in social media. In another words, their money comes from how much we, the consumers, give them importance.\n\n\nT.2 - pg. 63\n\nIntroducing regular exercises into routine is an important matter to everyone, even if we don't want to believe, our bodies were not built for modern society, one that doesn't demand anything from our body, but a lot from our brain. Considering that, exercise can help people who are studying and working hard in a lot of different ways.\nOne thing that is constantly misunderstood by the general public, is that exercising is a thing made to only tire our bodies, to stress it, so by these means, it would be terrible for people who are already extremely tired by their routine. But this is not true at all! Exercises can help alleviate muscle stress and with that giving a sensation of relief throughout the week - even if it can be tiring after the exercise. But not only that, for people with tiring routines, it can propose an even better experience, since it can help their brain to relax, by utilizing different parts then the everyday routine, together with the constant release of chemicals during the exercise, these people may help their brain to relax and better prepare itself for the next tiresome day.\nIn addition to that, exercising utilizes much more pent up energy, without demanding our brain, so it can also help with the most important habit a person can have: a good night of sleep. A tired body and a relaxed brain gives the best night of sleep, which in turn helps the body to heal and the mind to orient itself.\nTherefor, exercising is not only recommended for everyone with a heavy routine, but actually necessary, as it can propose a lot of things your body needs to recover and be ready for the next challenge.逐题出题，引导学生深度思考。\n\n【交互规则】\n1. **每次只出一道题**，等待学生回答后再反馈。\n2. **反馈模式**：先肯定对的部分，再纠正错误，然后出下一题。\n3. **难度递进**：从基础理解→应用→分析→综合，逐步提升。\n4. **含陷阱题**：在适当阶段设置容易犯错的陷阱题。\n5. **迁移题**：最后出一道将理论放到新情境的综合题。\n\n请在第一轮先通读材料，然后从最基础的概念开始出题。\n\n用户请求：Inglês",
+      "timestamp": 1784726687703
+    },
+    {
+      "id": "a8cb1a7f-af09-4fb5-b239-4d7fdbf0b684",
+      "role": "assistant",
+      "content": "\n\n**Error**: API error 400: {\"error\":{\"message\":\"`max_tokens` must be less than or equal to `32768`, the maximum value for `max_tokens` is less than the `context_window` for this model\",\"type\":\"invalid_request_error\",\"param\":\"max_tokens\"}}\n",
+      "toolCalls": [],
+      "thinkingBlocks": [],
+      "timestamp": 1784726687747
+    },
+    {
+      "id": "0746d73f-cab6-4c76-9865-8a441d304590",
+      "role": "user",
+      "content": "/help",
+      "timestamp": 1784726729358
+    },
+    {
+      "id": "69b8d053-18ec-45f4-9581-542fb358f5a0",
+      "role": "assistant",
+      "content": "**General commands**\n**/new** — Start a new conversation\n**/clear** — Clear current conversation\n**/history** — Show conversation history\n**/flashcard** — Generate flashcard Q&A cards\n**/summary** — Generate learning session summary\n**/map** — Generate knowledge concept map\n**/plan** — Generate phased learning plan\n**/review** — Start spaced repetition review\n**/checkup** — Generate a quiz to test knowledge\n**/stats** — Show learning statistics dashboard\n**/mistakes** — View and manage error notebook\n**/buddy** — Enter study buddy mode for a topic\n\n**Learning methods**\n**/guide** — Study Guide：Generate core concepts, pitfalls, exercises and connections from material\n**/explain** — Confusion Terminator：Explain confusing concepts in 3 different ways\n**/gap** — Gap Finder：Audit knowledge gaps, logic breaks and prerequisites\n**/quiz** — Socratic Quiz：Multi-round quiz with instant feedback and increasing difficulty\n**/predict** — Exam Predictor：Predict exam focus points and build concept networks\n**/podcast** — Audio Partner：Generate podcast-style dialogue scripts\n**/feynman** — Feynman Test：User explains concepts, AI evaluates understanding depth\n**/mock** — Mock Exam：Generate a full exam (multiple choice + short answer + essay)\n\n**@filename** — Reference a vault file as context",
+      "toolCalls": [],
+      "thinkingBlocks": [],
+      "timestamp": 1784726729406
+    },
+    {
+      "id": "32ced533-abaa-433b-bebd-93b68d55fddb",
+      "role": "user",
+      "content": "/checkup @Inglês/Things to fix.md",
+      "timestamp": 1784726760517
+    },
+    {
+      "id": "b2d74577-291c-4029-8dd5-f2ee4f29b243",
+      "role": "assistant",
+      "content": "\n\n✅ Quiz saved → learning/quizzes/_Ingl_s_Things_to_fix_md-2026-07-22.md",
+      "toolCalls": [],
+      "thinkingBlocks": [],
+      "timestamp": 1784726760596
+    },
+    {
+      "id": "44f1aaf6-8fdb-462b-8ad7-1eb16c16b40a",
+      "role": "user",
+      "content": "Why are you not generating anything",
+      "timestamp": 1784726789027
+    },
+    {
+      "id": "1f295dc6-5f46-403b-a764-0316408f16cb",
+      "role": "assistant",
+      "content": "\n\n**Error**: API error 404: {\"error\":{\"message\":\"The model `gemini-2.5-flash-lite` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
+      "toolCalls": [],
+      "thinkingBlocks": [],
+      "timestamp": 1784726789109
+    },
+    {
+      "id": "bcc7a99b-6791-4178-982f-1535c1cffcff",
+      "role": "user",
+      "content": "/checkup @Inglês/Things to fix.md",
+      "timestamp": 1784726832518
+    },
+    {
+      "id": "9afd819a-4399-4445-902f-6d3af85590f1",
+      "role": "assistant",
+      "content": "\n\n✅ Quiz saved → learning/quizzes/_Ingl_s_Things_to_fix_md-2026-07-22.md",
+      "toolCalls": [],
+      "thinkingBlocks": [],
+      "timestamp": 1784726832602
+    },
+    {
+      "id": "d075e3cd-aefe-4d7a-8a48-56807c95d52c",
+      "role": "user",
+      "content": "help me, why are you not working",
+      "timestamp": 1784726846611
+    },
+    {
+      "id": "bc436322-8a65-4759-892c-a9ce4f8e4a3c",
+      "role": "assistant",
+      "content": "\n\n**Error**: API error 400: {\"error\":{\"message\":\"`max_tokens` must be less than or equal to `131072`, the maximum value for `max_tokens` is less than the `context_window` for this model\",\"type\":\"invalid_request_error\",\"param\":\"max_tokens\"}}\n",
+      "toolCalls": [],
+      "thinkingBlocks": [],
+      "timestamp": 1784726846655
+    }
+  ],
+  "providerId": "openai-compat",
+  "model": "llama-3.1-8b-instant",
+  "createdAt": 1784726650097,
+  "updatedAt": 1784726846806,
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "contextWindow": 128000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
