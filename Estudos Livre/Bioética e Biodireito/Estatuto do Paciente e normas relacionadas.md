@@ -148,7 +148,7 @@ Tempo de Leitura: **30 min~**
 <br>
 # Medidas que os médicos devem adotar para se proteger
 
-1. O médico deve manter uma documentação rigorosa
+1. **O médico deve manter uma documentação rigorosa**
 >• Registrando:
 >>→ Explicações dadas ao paciente
 >>→ Riscos informados
@@ -184,7 +184,7 @@ Tempo de Leitura: **30 min~**
 	- → Sempre esconder informações que possam viabilizar o reconhecimento do paciente
 	- → Caso precise de alguma forma compartilhar alguma informação, peça permissão EXPRESSA do paciente e, sempre que possível, tenha uma forma de comprovar a confirmação, seja por assinatura, seja por print de conversas (por exemplo), seja por gravações
 <br> 
-5. Protocolos de segurança
+5. **Protocolos de segurança**
 	1. Higienização
 	2. Identificação do paciente
 	3. Checagem de procedimentos
@@ -295,12 +295,12 @@ Tempo de Leitura: **30 min~**
 ### Alta Voluntária
 
 - O Código de Ética da Medicina traz o seguinte artigo:
-> Art. 26 (é vedado ao médico) ~={red}Deixar de respeitar a vontade=~ de qualquer pessoa, considerada ~={red}capaz física e mentalmente=~, em greve de fome, ou alimentá-la compulsoriamente, devendo cientificá-la das prováveis complicações do jejum prolongado e, na hipótese de risco iminente de morte, tratá-la.
->> Ou seja, a recusa do pedido de alta voluntária só pode ocorrer devido a ~={pink}risco iminente de morte.=~
+> Art. 26 (é vedado ao médico) Deixar de respeitar a vontade de qualquer pessoa, considerada capaz física e mentalmente, em greve de fome, ou alimentá-la compulsoriamente, devendo cientificá-la das prováveis complicações do jejum prolongado e, na hipótese de risco iminente de morte, tratá-la.
+>> Ou seja, a recusa do pedido de alta voluntária só pode ocorrer devido a risco iminente de morte.
 <br>
 - O **Novo Estatuto do Paciente** introduz uma perspectiva geral para a fundamentação da Alta Voluntária no seu artigo 14, §1 - que assegura o direito de retirar o consentimento a qualquer tempo em represálias (logo não poderia haver o envolvimento das forças de segurança será apresentado na resolução a seguir) - porém, insto não garante de forma alguma o direito de se retirar do ambiente clinico e não abrange o suficiente para que se possa argumentar que há indubitavelmente a alta voluntária (de certa forma, este direito terá de ser reclamado mediante a jurisprudência futura)
 
 
-Vale ressaltar que em algumas instituições o termo é assinado por familiar que vai se responsabilizar pela alta a pedido, ou seja, o documento não é assinado somente pelo paciente. Fica a indagação: se o paciente é sujeito com autonomia, não deveria se responsabilizar por sua própria decisão?f
+Vale ressaltar que em algumas instituições o termo é assinado por familiar que vai se responsabilizar pela alta a pedido, ou seja, o documento não é assinado somente pelo paciente. Fica a indagação: se o paciente é sujeito com autonomia, não deveria se responsabilizar por sua própria decisão?
 <br>
 

@@ -93,7 +93,7 @@ Dito isso:
 <br>
 
 -  **Art. 19:** O paciente tem o direito de ter acesso a seu prontuário médico, sem necessitar apresentar justificativa, bem como de obter cópia <u>sem ônus</u> (custos), de solicitar retificação e de exigir que seja mantido em segurança.
->  Não tem prazo para a entrega, mas o paciente pode entrar com um mandado de segurança contra o médico  (Processo para assegurar um direito garantido por lei ao paciente, cabendo certa responsabilização e pagamento de qualquer dano causado, dependendo do caso)
+>  Não tem prazo para a entrega, mas o paciente pode entrar com um mandado de segurança contra o médico  (Processo para assegurar um direito garantido por lei ao paciente, cabendo certa responsabilização e pagamento de qualquer dano causado, dependendo do caso) se o médico atuar pelo SUS. Ou um processo civil comum contra médicos que atuam no ambito privado.
 <br>
 
 - **Art. 20:** O paciente tem o direito de ter suas diretivas antecipadas de vontade respeitadas pela família e pelos profissionais de saúde.
@@ -103,7 +103,7 @@ Dito isso:
 - **Art. 21:** O paciente tem o direito a cuidados paliativos, livre de dor, e de escolher o local de sua morte, nos termos dos regramentos do Sistema Único de Saúde (SUS) ou dos planos de assistência à saúde, conforme o caso.
 > Parágrafo único. Os familiares do paciente têm o direito de serem apoiados para lidar com sua doença.
 > - A codificação dos cuidados paliativos é de extrema importância para evitar casos de prolongamento da vida e, principalmente, por demandar o apoio a família, que em geral são os mais afetados pela enfermidade.
-> - Em casos de delegação de responsabilidade dos cuidados aos familiares, eles devem ser bem instruídos, sob risco de responsabilidade legal médica.
+> - Em casos de delegação de responsabilidade dos cuidados aos familiares, eles devem ser bem instruídos, sob risco de responsabilidade legal do médico.
 <br>
 - Esta lei utiliza o termo risco de morte, assim como não abandona a ideia de "risco iminente" presente nas resoluções do CFM, o que pode conflitar com ideias apresentadas de autodeterminação.
 	- Este termo está atualmente com um questionamento no Supremo Tribunal Federal ([ADPF 642](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=434205&ori=1)), o questionamento não é direcionado a lei, mas às resoluções e a ideia de risco iminente de morte contra recusa terapêutica. 
@@ -143,7 +143,7 @@ Dito isso:
 >>→ Atualizado
 >>→ Legível
 >>→ COMPREENSÍVEL(!!!)
->>>→ Deve se ter em mente que outros indivíduos leram o documento, tanto o juiz quanto o paciente devem compreender o registro
+>>>→ Deve se ter em mente que outros indivíduos lerão o documento, tanto o juiz quanto o paciente devem compreender o registro
 >>→ Se não está registrado, juridicamente não aconteceu. Se ninguém entender, não há valor
 <br>
 
@@ -151,7 +151,7 @@ Dito isso:
 > • O Médico deve evitar, se possível, entregar documentos de diretivas de "assinalar" e acompanhar o paciente na produção de suas diretivas.
 >> → Objetivo deste passo é garantir que o paciente tenha sua autonomia preservada
 >> → Evitar documentos vazios ou com intenções erradas
-> • As diretivas devem ser questionadas ao paciente quanto a sua existência, anexadas ao prontuário e seguidas rigorosamente.
+> • Os pacientes devem ser questionados da existência de diretivas, anexadas ao prontuário e seguidas rigorosamente.
 <br>
 3. **Respeito a autonomia do paciente**
 > Deve ocorrer independentemente de discordância.
@@ -175,7 +175,7 @@ Dito isso:
 	→ falta de informação
 	→ ausência de consentimento
 	→ erro de comunicação
-	→ Responsabilização mesmo sem erro técnico, apenas por falha no direito do paciente não orientado
+	→ Responsabilização mesmo sem erro técnico, apenas por falha do paciente não orientado
 	- Atenção! - Se a anotação dos procedimentos já eram importante antes, agora elas se tornaram essenciais! O bom profissional da saúde é aquele com redundância documental, de forma a garantir o bom sucesso do pré procedimento, procedimento e pós procedimento. Para tal, é necessário que se tenha toda a documentação das ações performadas pelo médico. A criação de "templates" para cada tipo de procedimento, visando otimizar o tempo da realização dessas atividade é recomendado, alterando apenas as nuances de cada caso
 	→ O médico não corre risco apenas para um processo! O direito do paciente agora é considerado uma violação dos direitos humanos no âmbito da [Lei nº 12.986, de 2 de junho de 2014](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Lei/L12986.htm). Podendo o ofensor sofrer sanções muito mais graves do que a mera responsabilização pecuniária
 
@@ -185,7 +185,7 @@ Dito isso:
 
 A lei representa um avanço na interpretação dos direitos dos pacientes no Brasil, porém acaba consolidando princípios que já existiam dispersos em resoluções do CFM, limitando-se a inovar em poucas áreas de forma econômica.
 
-Outras normas e resoluções do CFM não foram revogadas, o que em certas ocasiões, podem gerar confusões interpretativas para os profissionais. Um exemplo é a distinção entre o papel do representante conforme o CFM (cujas informações são "consideradas" pelo médico) e conforme a lei (que lhe atribui poder de "decidir"). Essa diferença semântica tem peso prático significativo e que deve ser alterado pelo Conselhos Federais e Regionais.
+Outras normas e resoluções do CFM não foram revogadas, o que em certas ocasiões podem gerar confusões interpretativas para os profissionais. Um exemplo é a distinção entre o papel do representante conforme o CFM (cujas informações são "consideradas" pelo médico) e conforme a lei (que lhe atribui poder de "decidir"). Essa diferença semântica tem peso prático significativo e que deve ser alterado pelo Conselhos Federais e Regionais.
 
 As lacunas mais relevantes apontadas são a ausência de regulamentação específica sobre o acesso às diretivas antecipadas pelo médico (algo que Portugal resolve com um registro nacional), a falta de prazo para entrega do prontuário, a ausência do direito à não informação como contraponto ao dever de informar, a regulamentação insuficiente dos cuidados paliativos e o esquecimento da Alta Voluntária.
 
@@ -201,15 +201,15 @@ Por fim, apesar de ser uma lei nova, seu conteúdo é comparável ao que países
 <br>
 3. Seria interessante definir um prazo para a manutenção do prontuário pelo prestador de serviços de saúde, antes que ele possa descartar (países baixos 15 anos ou tempo razoável ao procedimento)
 <br>
-4. A lei trata apenas exclusivamente da relação médico-paciente, de forma que não estabelece uma delimitação entre o médico e o ambiente clínico (hospital), que pode por muitas vezes se confundir.
-	- A legislação Holandesa, por exemplo, não se refere a médicos, apenas a provedores de serviços de saúde. Assim garantindo outras proteções ao ambiente clínico e ao médico.
+4. A lei trata exclusivamente da relação médico-paciente, de forma que não estabelece uma delimitação entre o médico e o ambiente clínico (hospital), que pode por muitas vezes se confundir.
+	- A legislação Holandesa, por exemplo, não se refere a médicos, apenas a provedores de serviços de saúde. Assim garantindo uma interpretação mais abrangente.
 <br>
 5. Faltou uma proteção contra a renuncia infundada de pacientes, para prevenir o abandono em meio a procedimentos. (CFM)
 <br>
 6. Esta lei é muito básica e me parece se atrelar ao que deveria ser o óbvio, como na própria justificativa da PL, a grande maioria dos países já possuíam textos similares a décadas. A forma como tratamos as diretivas de vontade, está similar aos EUA na década de 60.
 <br>
 7. No direito a informação, poderia ter sido adicionado o direito a não informação (o direito de não saber)
->  O Direito Holandês traz um artigo bem interessante para a privação de informações para pacientes em estado critico, devendo ser informado ao seu representante caso este o tenha. Esta privação é apenas uma retenção momentânea e não deve ser utilizada para privar uma informação mediante uma tomada de decisão, apenas visa a forma e momento que ela vai ser passada.
+>  Comitantemente, o Direito Holandês também traz um artigo bem interessante para a privação de informações para pacientes em estado critico, devendo ser informado ao seu representante caso este o tenha. Esta privação é apenas uma retenção momentânea ou contingênciamento e não deve ser utilizada para privar uma informação mediante uma tomada de decisão, apenas visa a forma e momento que ela vai ser passada.
 
 8. O CEM traz o seguinte artigo que poderia ser trabalhado na lei:
 >  Art. 34  (é vedado ao médico) Deixar de informar ao paciente o diagnóstico, o prognóstico, os riscos e os objetivos do tratamento, salvo quando a comunicação direta possa lhe provocar dano, devendo, nesse caso, fazer a comunicação a seu representante legal
