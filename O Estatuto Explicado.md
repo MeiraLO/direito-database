@@ -209,17 +209,17 @@ Por fim, apesar de ser uma lei nova, seu conteúdo é comparável ao que países
 6. Esta lei é muito básica e me parece se atrelar ao que deveria ser o óbvio, como na própria justificativa da PL, a grande maioria dos países já possuíam textos similares a décadas. A forma como tratamos as diretivas de vontade, está similar aos EUA na década de 60.
 <br>
 7. No direito a informação, poderia ter sido adicionado o direito a não informação (o direito de não saber)
->  Comitantemente, o Direito Holandês também traz um artigo bem interessante para a privação de informações para pacientes em estado critico, devendo ser informado ao seu representante caso este o tenha. Esta privação é apenas uma retenção momentânea ou contingênciamento e não deve ser utilizada para privar uma informação mediante uma tomada de decisão, apenas visa a forma e momento que ela vai ser passada.
-
-8. O CEM traz o seguinte artigo que poderia ser trabalhado na lei:
->  Art. 34  (é vedado ao médico) Deixar de informar ao paciente o diagnóstico, o prognóstico, os riscos e os objetivos do tratamento, salvo quando a comunicação direta possa lhe provocar dano, devendo, nesse caso, fazer a comunicação a seu representante legal
+> → Comitantemente, o Direito Holandês também traz um artigo bem interessante para a privação de informações para pacientes em estado critico, devendo ser informado ao seu representante caso este o tenha. Esta privação é apenas uma retenção momentânea ou contingênciamento e não deve ser utilizada para privar uma informação mediante uma tomada de decisão, apenas visa a forma e momento que ela vai ser passada.
+> → O CEM traz o seguinte artigo que poderia ser trabalhado na lei:
+>  Art. 34  (é vedado ao médico) Deixar de informar ao paciente o diagnóstico, o prognóstico, os riscos e os objetivos do tratamento, salvo quando a comunicação direta possa lhe provocar dano, devendo, nesse caso, fazer a comunicação a seu representante legal.
+>  → Ambas expressão uma preocupação com o saber, que por muitas vezes pode ser prejudicial. O problema é que o diabo está nos detalhes e, neste caso, como o médico deve contingênciar informações que podem causar mal ao paciente, sem que sua autonomia seja desrespeitada
 <br>
 ##### Diferenças para o PL
 
 - Art 2 havia um inciso VI:
 	VI – grupo vulnerável: Pessoas que por sua condição biológica ou psíquica, como crianças, idosos incapacitados, indivíduos com sofrimento mental grave, estão impedidas de dar o seu consentimento livre e esclarecido ou que por sua condição social, como povos indígenas, quilombolas, indivíduos em situação de rua, tem dificuldades de cunho cultural e social para expressar as suas opções ou de opor resistência a um procedimento que não estão de acordo
-		QUE ABSURDO, bem excluído
-		Substituído pelo paragrafo único: Aos pacientes que, por sua condição biológica, psíquica, cultural e social, estejam impedidos de dar o seu consentimento livre e esclarecido, deverão ser garantidos instrumentos para expressar as suas opções ou opor resistência a um procedimento.
+> QUE ABSURDO, bem excluído. Acho que não é preciso explicar o porquê.
+> Substituído pelo paragrafo único: Aos pacientes que, por sua condição biológica, psíquica, cultural e social, estejam impedidos de dar o seu consentimento livre e esclarecido, deverão ser garantidos instrumentos para expressar as suas opções ou opor resistência a um procedimento.
 
 - Art 10: Incluiu a palavra "qualquer"
 
