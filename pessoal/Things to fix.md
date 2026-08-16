@@ -1,24 +1,26 @@
-- [ ] Comparative and superlative (pag 14 e 188)
-- [ ] Pronuncia de Adjectives with "lly"
+- [x] Comparative and superlative (pag 14 e 188)
 - [ ] damn reported speech and reporting verbs
 - [x] Conditionals
 - [x] *possessive*
 - [ ] *hypothetical clauses*
-- [x] conditionals
-- [ ] pg 94-97 - 233
-- [ ] pg 124
+- [ ] conditionals
+- [x] pg 94-97 - 233
+- [x] *pg 124*
 - [ ] pg 154
 - [ ] *word formation*
-- [ ] FUCKING PARTICIPLES
-- [ ] I wish/if Only
-- [ ] past modals of deduction
-- [ ] Despite and In Spite of
+- [x] FUCKING PARTICIPLES
+- [x] I wish/if Only
+- [x] past modals of deduction
+- [x] Despite and In Spite of
 - [ ] Cleft Sentences
-- [ ] Passives
+- [ ] Passivesenthuseam
 - [ ] Gerund v. Infinitive
+- [ ] times of the day
+- [x] countable/uncountable (many/much) (much = especify "time") (many ways)
 
 - Notes for class:
-- [ ] I was trying to call my German teacher an oddball
+- [ ] word similar to "entertain"
+- [ ] news singular
 ------------------
 
 Much =/= Many (Uncountable/Countable)

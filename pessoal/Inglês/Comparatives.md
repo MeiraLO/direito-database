@@ -1,3 +1,8 @@
+
+Adjective
+- Big → bigger or biggest
+
+
 | Adverb                  | Register                           | Example                                                           |
 | ----------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | **Much**                | strong, neutral-to-formal          | This case is **much more complex** than the last one.             |

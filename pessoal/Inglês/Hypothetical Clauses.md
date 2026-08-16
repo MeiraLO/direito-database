@@ -1,4 +1,4 @@
-## 1. The four core conditionals
+ ## 1. The four core conditionals
 
 |Type|Structure|Use|Example|
 |---|---|---|---|

@@ -126,3 +126,32 @@
 >→ Especificação técnica mais usada: vedação ao venire contra factum proprium (proibição de comportamento contraditório)
 >→ Exemplos: o STF impediu a impugnação de regime de bens antes admitido pelo próprio cônjuge (RE 86.787/RS); o STJ vedou a alteração de registro após anos de silêncio proposital sobre a paternidade biológica (REsp 1.087.163/RJ)
 
+→ relações concomitantes: uma pessoa não sabe da outra. Impedimento, mas relação estabelecida em boa fé. Há decisões no sentido da divisão
+
+A família democrática: Igualdade isonômica, liberdade e solidariedade - o modelo que substitui a antiga família patriarcal, hierarquizada e institucional (Maria Celina Bodin de Moraes).
+
+>[!important] Função **Instrumental** da família
+> é um instrumento da proteção humana. É um meio e não um fim
+
+`Art. 1.593`
+>O parentesco é material ou civil, concorme resulte de consanguinidade ou outra origem.
+
+- **Características de famílias**
+> 1. Socioafetividade
+> 2. Eudemonista
+> 3. anaparental
+
+- Qual entidade familiar é essa? (matrimonial / união estável / monoparental / homoafetiva / anaparental — ou nenhuma do rol expresso)
+- Qual o fundamento? (art. 226 e parágrafos, ou construção jurisprudencial, para os casos "fora do rol")
+
+Marta e Cecília são irmãs, têm 68 e 71 anos, nunca se casaram e moram juntas há mais de 30 anos, dividindo despesas e cuidados uma da outra.  
+  
+Roberto se separou da esposa há dois anos e cria sozinho seus dois filhos pequenos, que moram com ele em regime de guarda unilateral.  
+  
+Ana e Beatriz são casadas há quatro anos e têm um filho adotivo de 5 anos, registrado em nome das duas.  
+  
+Pedro e Júlia vivem juntos há três anos, dividem o mesmo teto e as contas da casa, têm um filho em comum, mas nunca formalizaram casamento.  
+  
+Dona Lúcia, viúva, cria os três netos desde que a filha morreu, há cinco anos; os netos não têm contato com o pai.  
+  
+Fernando é solteiro e sem filhos; seu sobrinho de 22 anos, órfão de pai e mãe, mora com ele desde os 16 anos.
