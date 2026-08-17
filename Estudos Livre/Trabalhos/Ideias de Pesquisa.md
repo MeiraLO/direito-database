@@ -2,3 +2,4 @@
 https://jornal.usp.br/institucional/novo-bioterio-da-usp-criara-suinos-para-producao-de-orgaos-para-transplante-em-humanos/
 2) neurodireitos - teoricamente serão inseridos no Novo código civil - e 2 tecnologias despertam interesse bioético e jurídico: os implantes eBCI (leitura cerebral) e os dispositivos DBS (neuromoduladores) que modificam os impulsos cerebrais. Esses tópicos são muito interessantes o novo código civil quer garantir (a integridade cerebral e a privacidade dos pensamentos).  São boas discussões. 
 3) A seleção genética de embriões via FIV para eliminar doenças genéticas. Outro tema interessantíssimo
+4) Responsabilidade civil por erro de diagnóstico assistido por IA
