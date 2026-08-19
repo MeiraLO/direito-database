@@ -7,28 +7,20 @@
 - [x] pg 94-97 - 233
 - [x] *pg 124*
 - [ ] pg 154
-- [ ] *word formation*
+- [ ] *key word transformation*
 - [x] FUCKING PARTICIPLES
 - [x] I wish/if Only
 - [x] past modals of deduction
 - [x] Despite and In Spite of
 - [ ] Cleft Sentences
-- [ ] Passivesenthuseam
+- [ ] Passives
 - [ ] Gerund v. Infinitive
 - [ ] times of the day
 - [x] countable/uncountable (many/much) (much = especify "time") (many ways)
 
 - Notes for class:
-- [ ] word similar to "entertain"
-- [ ] news singular
-------------------
-
-Much =/= Many (Uncountable/Countable)
-
-Fulfillment
-
-
-
+- [ ] Telling x Saying
+- [ ] key word transformation
 --------
 
 Paper 1 Part 6 (pg 124)
