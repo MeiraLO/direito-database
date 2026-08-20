@@ -192,3 +192,5 @@ Fernando é solteiro e sem filhos; seu sobrinho de 22 anos, órfão de pai e mã
 
 - **Na CF de 1988, o concubinato puro passa a ser a União Estável**, Enquanto o impuro segue sem ser entidade familiar nos moldes do art. 1727/CC 
 	- Arti 1727: As relações não eventuais entre o homem e a mulher, impedidos de casar-se, constituem concubinato.
+	- Art. 1.723, CC: É reconhecida como entidade familiar a união estável entre o homem e a mulher, configurada na convivência pública, contínua e duradoura e estabelecida com o objetivo de constituição de família.”
+
