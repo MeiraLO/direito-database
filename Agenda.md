@@ -1,4 +1,4 @@
-- [ ] 18/08 - Fichamento Leo 1
+- [x] 18/08 - Fichamento Leo 1
 - [ ] 08/09 - Fichamento Leo 2
 - [ ] 31/08 - **Prova Empresárial**
 - [ ] 14/09 - **Prova Deontologia (1)**

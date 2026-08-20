@@ -141,8 +141,8 @@ A família democrática: Igualdade isonômica, liberdade e solidariedade - o mod
 > 2. Eudemonista
 > 3. anaparental
 
-- Qual entidade familiar é essa? (matrimonial / união estável / monoparental / homoafetiva / anaparental — ou nenhuma do rol expresso)
-- Qual o fundamento? (art. 226 e parágrafos, ou construção jurisprudencial, para os casos "fora do rol")
+- **Qual entidade familiar é essa? (matrimonial / união estável / monoparental / homoafetiva / anaparental — ou nenhuma do rol expresso)
+- **Qual o fundamento? (art. 226 e parágrafos, ou construção jurisprudencial, para os casos "fora do rol")**
 
 Marta e Cecília são irmãs, têm 68 e 71 anos, nunca se casaram e moram juntas há mais de 30 anos, dividindo despesas e cuidados uma da outra.  
   
@@ -155,3 +155,40 @@ Pedro e Júlia vivem juntos há três anos, dividem o mesmo teto e as contas da 
 Dona Lúcia, viúva, cria os três netos desde que a filha morreu, há cinco anos; os netos não têm contato com o pai.  
   
 Fernando é solteiro e sem filhos; seu sobrinho de 22 anos, órfão de pai e mãe, mora com ele desde os 16 anos.
+
+--------------
+
+## Conceito de família
+
+- **Artigo 226**: A família como base da sociedade, possuí especial proteção do estado
+	- O dto de fam. é aberto, inclusivo e não discriminatório
+
+
+
+#### Concubinato à União estável
+
+- Código Civil de 1916: Família = casamento; sem o casamento, era concubinato, portanto mera sociedade de fato, com efeitos obrigacionais.
+
+- A Súmula 380/STF alterou este raciocínio:
+> Comprovada a existência de sociedade de fato entre os concubinos, é cabível a sua dissolução judicial, com a partilha do patrimônio adquirido pelo esforço comum.
+
+- A Súmula 382/STF ampliou 
+> A vida em comum sob o mesmo teto, “more uxório”, não é indispensável à caracterização do concubinato.
+
+
+##### Concubinato PURO X IMPURO
+
+- *Puro*
+	1. Vira União Estável (entidade familiar)
+	2. Pessoas viúvas, solteiras, separadas de fato ou divorciadas
+	3. ações processadas na vara de família
+
+- *Impuro*
+	1. Permanece sociedade de fato (Súmula 380/STF)
+	2. Pessoa Casada e não separada (adulterino), Impedimento de parentesco ou de crime
+	3. Ações processadas na vara cívil
+
+
+
+- **Na CF de 1988, o concubinato puro passa a ser a União Estável**, Enquanto o impuro segue sem ser entidade familiar nos moldes do art. 1727/CC 
+	- Arti 1727: As relações não eventuais entre o homem e a mulher, impedidos de casar-se, constituem concubinato.

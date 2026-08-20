@@ -28,6 +28,20 @@ Doutrina recomendada: Didier Jr e Elpídio Donizetti
 	2. Cumprimento definitivo
 
 
+### Competência 
+
+- O artigo 576 do CPC/73 dispunha sobre a execução de título executivo extrajudicial, no qual seria realizado perante juizo competente. Com a jurisprudencia estabelecendo que, em regra, a execução se da no foro em que o pagamento se dá, ou caso opte, pelo foro de eleição ou domicilio do réu.
+- **Já no CPC/2015, aumentou-se o rol de locais competêntes**:
+	- *Regras Gerais*
+		1. Domicílio do executado
+		2. de eleição
+		3. de situação dos bens sujeiros à execução
+		4. do mesmo lugar que praticou o ato ou em que ocorreu o fato de origem do título
+	- *Regras Específicas*
+		1. Devedor com mais de um domicílio (qualquer um)
+		2. Devedor com domicílio incerto: Pode propor no local em que ele for encontrado ou do domicílio do exequente
+		3. Pluralidade de devedores: pode escolher um foro de qualquer um
+
 
 # Ponto 1
 ---
