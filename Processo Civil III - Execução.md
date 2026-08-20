@@ -1,14 +1,15 @@
-professor: Matheus Monteiro (UFF) 
-tags: #ProcessoCivil, #Execução, #TutelaExecutiva 
-Doutrina recomendada: Didier Jr
+professor: Matheus Monteiro 
+#ProcessoCivil, #Execução, #TutelaExecutiva 
+Doutrina recomendada: Didier Jr e Elpídio Donizetti
 
 
 - **Conceito da Fase de Execução**
-	1. Executar é satisfazer uma proteção devida
+	1. Executar é *satisfazer uma proteção devida* (satisfazer o credor)
 	2. A função executiva opera no mundo dos fatos, englobando atos judiciais agressores da esfera jurídica do executado (Transformação do mundo físico)
-	3. Não é um processo de fim. A execução é um rito de meio (interesse na ação em si, não no resultado)
-	4. Processo de Coação
-	5. Toda ação na qual não há discussão, apenas a demanda do cumprimento de algo, é uma ação de execução. (cumprimento de um título, contrato)
+	3. *Não tem como fim a* *satisfação de um direito do executado*, o máximo de satisfação que ele pode obter é a extinção do processo
+	4. Não é um processo de fim. A execução é um rito de meio (interesse na ação em si, não no resultado)
+	5. *Processo de Coação*
+	6. Toda ação na qual não há discussão, **apenas a demanda do cumprimento de algo**, é uma ação de execução. (cumprimento de um título, contrato)
 
 
 ### Classificação
@@ -198,7 +199,7 @@ O material trata a efetividade como um verdadeiro **direito fundamental à tutel
 
 Também chamado por Abelha (2015) de princípio do menor sacrifício possível ou da menor gravosidade da execução. Para Didier Jr. et al. (2017, p. 78; 2020, p. 80), trata-se de uma cláusula geral destinada a impedir o abuso do direito pelo exequente.
 
-Fundamento normativo — art. 805 do CPC: havendo mais de um meio para promover a execução, o juiz determinará que se faça pelo modo menos gravoso para o executado; cabe, porém, ao executado que alegar ser a medida executiva mais gravosa o ônus de indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos já determinados.
+Fundamento normativo — *art. 805 do CPC*: havendo mais de um meio para promover a execução, o juiz determinará que se faça pelo modo menos gravoso para o executado; cabe, porém, ao executado que alegar ser a medida executiva mais gravosa o ônus de indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos já determinados.
 
 O princípio destina-se a evitar abuso de direito, má-fé e execução desnecessariamente onerosa ao executado, aplicando-se a qualquer espécie de execução — funcionando, segundo o material, como verdadeiro **meio** de controle da atividade executiva, e não como mero enunciado abstrato.
 
