@@ -337,24 +337,14 @@ Fundamento normativo — arts. 513 e 771 do CPC. O cumprimento de sentença ser�
 
 ---
 
-## Referências citadas no material (fontes utilizadas neste resumo)
+## Referências
 
 - ASSIS, Araken de. _Manual da Execução_. 2016.
 - ABELHA, Marcelo. _Manual de Execução Civil_. 2015.
-- DIDIER JR., Fredie et al. _Curso de Direito Processual Civil: Execução_, v. 5. 2017 e 2020.
+- DIDIER JR., Fredie et al. _Curso de Direito Processual Civil: Execução_, v. 5. 2020.
 - DIDIER JR., Fredie; FERNANDEZ, Leandro. _Introdução à Justiça Multiportas: Sistema de solução de problemas jurídicos e o perfil do acesso à Justiça no Brasil_. 1ª ed. São Paulo: JusPodivm, 2024, p. 237-268.
-- NEVES, Daniel Amorim Assumpção. _Manual de Direito Processual Civil_. 2016 e 2020.
+- NEVES, Daniel Amorim Assumpção. _Manual de Direito Processual Civil_.  2020.
 - THEODORO JR., Humberto. _Curso de Direito Processual Civil_. 2012.
-- Legislação: Código de Processo Civil (Lei nº 13.105/2015); Código de Processo Civil de 1973 (Lei nº 5.869/1973, dispositivos remanescentes sobre insolvência civil); Código Civil (Lei nº 10.406/2002); Código de Processo Penal.
-- Jurisprudência: STF, ADI 5941 (Rel. Min. Luiz Fux); STJ, RHC 97.876.
 
-
-
-*Parte D — Microcaso integrador*
-*Uma empresa obteve decisão judicial que reconheceu obrigação de outra empresa entregar equipamento específico. A decisão tornou-se exigível, mas a devedora não entrega o bem. Durante o cumprimento, surge controvérsia incidental sobre a forma de intimação e o juízo determina, nos limites legais, providências para obtenção de informações necessárias à efetivação. Em até 1.500 caracteres: (a) identifique a crise jurídica e a espécie de direito material em jogo; (b) indique por que se trata de tutela executiva e qual a via executiva adequada; (c) explique por que a decisão de questão incidental não descaracteriza a execução; e (d) relacione iniciativa da tutela executiva, poderes do juiz e limites da atividade executiva.*
-
-A crise jurídica decorre do inadimplemento de obrigação de dar coisa certa, sendo a espécie de direito material, o direito obrigacional. Ao tratar de um cumprimento de uma decisão judicial, compreende-se que a tutela em jogo é a executiva, já que busca satisfazer uma demanda prática já reconhecida. Já a via adequada, será o cumprimento de uma busca e apreensão como cumprimento de sentença para entregar coisa certa (vide artigo 538 CPC), logo um modo sub-rogatório (direto) de execução.
-Por outro lado, não há o que se debater quanto a descacterização da tutela executiva devido a resolução de controvérsia incidental, uma vez que está dentro das capacidades do juízo a resolução de questões incidentais e intrumentais, não sendo lícito apenas a discução cognitiva.
-A iniciativa da tutela executiva cabe ao credor, respeitando o princípio da inércia da jurisdição. Contudo, uma vez iniciada, os poderes do juiz tornam-se amplos para garantir a efetividade da decisão (art. 139, IV, CPC), permitindo-lhe ordenar providências para obter informações necessárias. Esses poderes sofrem limites na atividade executiva, que deve respeitar o princípio da menor onerosidade ao devedor, a legalidade e as garantias do devido processo legal e contraditório.
 
 
