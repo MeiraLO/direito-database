@@ -205,6 +205,8 @@ Abelha (2015) também destaca que o interesse do exequente em ver satisfeita a t
 
 ### 6.2 Princípio da efetividade
 
+O autor tem *direito precisamente aquilo que lhe é devido*, nada a mais
+
 Fundamento normativo: art. 4º do CPC (direito das partes de obter, em prazo razoável, a solução integral do mérito, incluída a atividade satisfativa) e art. 797 (a execução realiza-se no interesse do exequente, que adquire, pela penhora, direito de preferência sobre os bens penhorados, ressalvado o caso de insolvência do devedor, em que há concurso universal).
 
 O material trata a efetividade como um verdadeiro **direito fundamental à tutela executiva**, do qual decorrem consequências práticas (Guerra, 2003; Didier Jr. et al., 2017, p. 65; 2020, p. 68): interpretação tendente à maior efetividade possível, controle de constitucionalidade específico sobre normas que a restrinjam, e poder-dever do juiz de adotar os meios executivos necessários à prestação integral da tutela.
@@ -219,7 +221,7 @@ O princípio destina-se a evitar abuso de direito, má-fé e execução desneces
 
 ### 6.4 Princípio da responsabilidade patrimonial
 
-Sintetizado pela máxima "toda execução é real". Fundamento normativo — art. 789 do CPC: o devedor (ou terceiro responsável) responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições legais.
+Sintetizado pela máxima "**toda execução é real**". Fundamento normativo — art. 789 do CPC: o devedor (ou terceiro responsável) responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições legais.
 
 A responsabilidade executiva desdobra-se em: (a) coerção pessoal; e (b) sujeição patrimonial, esta última efetivada, por exemplo, por meio da penhora e da busca e apreensão de bens. O material registra que autores como Neves (2016; 2020, p. 1051), Assis (2016) e Didier Jr. et al. (2017, p. 70-71; 2020, p. 70-71) reconhecem essa regra como verdadeiro princípio da execução.
 
@@ -266,6 +268,10 @@ O material relaciona, ainda com base em Didier Jr. et al. (2017, p. 85-86; 2020,
 ### 6.13 Livre iniciativa e necessidade de requerimento
 
 O cumprimento de sentença, em regra, depende de requerimento do exequente (princípio dispositivo/da inércia da jurisdição civil): assim ocorre no cumprimento de quantia (provisório e definitivo, arts. 513, §1º, e 523), nos alimentos (art. 528) e contra a Fazenda Pública (art. 534). Excepcionam essa regra as obrigações de entregar coisa (art. 538 — expedição de mandado independentemente de requerimento) e de fazer/não fazer (art. 536 — o juiz pode agir de ofício ou a requerimento).
+
+### Princípio da Disponibilidade da Execução
+
+o credor não está obrigado a promover a execução do crédito do qual é titular e, uma vez instaurado o processo executivo, pode “desistir de toda a execução ou de apenas alguma medida executiva” (art. 775)
 
 ---
 

@@ -22,4 +22,5 @@ Lista de afazeres
 - [x] mandei email do TCC
 - [ ] Terminar de estudar o ponto 1 PC
 - [ ] Inglês
-- [ ] procurar mais um tema para o blog
+- [ ] Fazer tema para o blog
+- [ ] Terminar insta
