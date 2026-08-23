@@ -1,41 +1,19 @@
-- [x] 18/08 - Fichamento Leo 1
-- [ ] 08/09 - Fichamento Leo 2
-- [ ] 31/08 - **Prova Empresárial**
-- [ ] 14/09 - **Prova Deontologia (1)**
-- [ ] 18/09 - *TT1 de Processo Civil*
-- [ ] 18/09 - **Prova de Processo civil (1)**
-- [ ] 22/09 - **Prova (1) Leo**
-- [ ] 24/09 - **Prova de Civil (1)**
-- [ ] 28/09 - *Atividade prática Empresárial*
-- [ ] 06/10 - Fichamento Leo 3
-- [ ] 02/11 - **Prova Deontologia (2)**
-- [ ] 03/11 - Fichamento Leo 4
-- [ ] 06/11 - *TT2 de Processo Civil*
-- [ ] 06/11 - **Prova de Processo Civil (2)**
-- [ ] 12/11 - **Prova de Civil (2)**
-- [ ] 17/11 - *Prova 2 Leo*
-------------
 
+## Sumário
 
-Lista de afazeres
-
-- [x] mandei email do TCC
-- [ ] Terminar de estudar o ponto 1 PC
-- [ ] Inglês
-- [ ] Fazer tema para o blog
-- [ ] Terminar insta
-
-
-------------
-
-
-# Plano de Estudos — Cambridge C1 Advanced (CAE)
-
-> Objetivo: prova entre **outubro e novembro de 2026** Speaking já coberto pelas aulas do Preply — este plano foca em **Reading & Use of English**, **Writing**, **Listening** (reforço) e nos pontos fracos de gramática já identificados. Encaixe na rotina: **Ter a Dom, 21:00–22:00** (segunda está ocupada com Empresarial I até 21h). 6 sessões/semana × 1h = 6h semanais de estudo dedicado.
+ [1. Como a prova é estruturada|(#1. Como a prova é estruturada)]
+- [2. Seus pontos fracos mapeados](#2-seus-pontos-fracos-mapeados)
+- [3. Estrutura das 3 fases](#3-estrutura-das-3-fases)
+- [4. Grade semanal (modelo fixo, repete todo mês)](#4-grade-semanal-modelo-fixo-repete-todo-m%C3%AAs)
+- [5. Fase 1 — Semanas 1–4 (Fundação)](#5-fase-1--semanas-14-funda%C3%A7%C3%A3o)
+- [6. Fase 2 — Semanas 5–8 (Consolidação)](#6-fase-2--semanas-58-consolida%C3%A7%C3%A3o)
+- [7. Fase 3 — Até a prova (Simulado)](#7-fase-3--at%C3%A9-a-prova-simulado)
+- [8. Recursos sugeridos](#8-recursos-sugeridos)
+- [9. Acompanhamento](#9-acompanhamento)
 
 ---
 
-## 1. Como a prova é estruturada (referência rápida)
+## 1. Como a prova é estruturada
 
 |Parte|Nome|Duração|Peso|
 |---|---|---|---|
