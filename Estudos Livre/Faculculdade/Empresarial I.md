@@ -15,18 +15,17 @@
 		- Cooperativa
 		- Comandita por ações
 
-- **Titulos de utilidade pública**
+- **Títulos de utilidade pública**
 	- Isenção de recolhimento de imposto
-	1. ISS (Camara dos Vereadores)
+	1. ISS (Câmara dos Vereadores)
 	2. ICMS (Estadual)
 	3. IR (Federal)
 
 
-- Ong / NBC
+- ONG / NBC
 
 - Balanço Social
 
 - lei 9.790/99
 - OSCIP
 - SCONV
--  
