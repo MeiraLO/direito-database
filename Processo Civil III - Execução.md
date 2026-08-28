@@ -2,6 +2,10 @@ professor: Matheus Monteiro
 #ProcessoCivil, #Execução, #TutelaExecutiva 
 Doutrina recomendada: Didier Jr e Elpídio Donizetti
 
+> [!question]
+> 1. Técnicas executivas
+
+
 
 - **Conceito da Fase de Execução**
 	1. Executar é *satisfazer uma proteção devida* (satisfazer o credor)
