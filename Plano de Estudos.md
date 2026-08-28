@@ -25,11 +25,11 @@
 **Reading & Use of English** tem 8 partes:
 
 - Partes 1–4: _Use of English_ (cloze múltipla escolha, cloze aberto, word formation, key word transformation)
-- Partes 5–8: _Reading_ (múltipla escolha, gapped text, múltipla escolha longa, multiple matching)
+- Partes 5–8: _Reading_ (múltipla escolha, gapped text, múltipla escolha longa, **multiple matching**)
 
 **Writing** tem 2 partes:
 
-- Parte 1: Essay (obrigatória, argumentativa, baseada em texto-estímulo)
+- Parte 1: Essay (obrigatória, ==argumentativa==, baseada em texto-estímulo)
 - Parte 2: escolha entre e-mail/carta formal, review, report ou proposal
 
 ---
@@ -155,3 +155,5 @@ Sugestão de checklist simples para marcar no Obsidian a cada semana:
 - [ ] Domingo — Listening + revisão feitos
 
 Revisar a cada 4 semanas: quais dos 4 pontos gramaticais ainda aparecem nos erros? Ajustar a ênfase da sexta-feira de acordo.
+
+

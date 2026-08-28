@@ -6,6 +6,8 @@
 > O resultado dessa perspectiva são conceitos de família não antes compreendidos.
 > → STJ: Irmãos solteiros que residem juntos também constituem unidade familiar, protegida pela impenhorabilidade do bem de família (resp. 159.851/SP)
 <br>
+
+
 ## Direito pessoal x Direito patrimonial de Família
 
 - **O direito pessoal ou existencial** → Normas cogentes, que não podem ser afastadas pelas partes (configuram normas de *ordem pública*)
@@ -144,8 +146,10 @@ A família democrática: Igualdade isonômica, liberdade e solidariedade - o mod
 - **Qual entidade familiar é essa? (matrimonial / união estável / monoparental / homoafetiva / anaparental — ou nenhuma do rol expresso)
 - **Qual o fundamento? (art. 226 e parágrafos, ou construção jurisprudencial, para os casos "fora do rol")**
 
-Marta e Cecília são irmãs, têm 68 e 71 anos, nunca se casaram e moram juntas há mais de 30 anos, dividindo despesas e cuidados uma da outra.  
-  
+Marta e Cecília são irmãs, têm 68 e 71 anos, nunca se casaram e moram juntas há mais de 30 anos, 
+dividindo despesas e cuidados uma da outra.  
+  - dsasd
+	  - 232132
 Roberto se separou da esposa há dois anos e cria sozinho seus dois filhos pequenos, que moram com ele em regime de guarda unilateral.  
   
 Ana e Beatriz são casadas há quatro anos e têm um filho adotivo de 5 anos, registrado em nome das duas.  
@@ -192,5 +196,5 @@ Fernando é solteiro e sem filhos; seu sobrinho de 22 anos, órfão de pai e mã
 
 - **Na CF de 1988, o concubinato puro passa a ser a União Estável**, Enquanto o impuro segue sem ser entidade familiar nos moldes do art. 1727/CC 
 	- Arti 1727: As relações não eventuais entre o homem e a mulher, impedidos de casar-se, constituem concubinato.
-	- Art. 1.723, CC: É reconhecida como entidade familiar a união estável entre o homem e a mulher, configurada na convivência pública, contínua e duradoura e estabelecida com o objetivo de constituição de família.”
+	- ==Art. 1.723==, CC: É reconhecida como entidade familiar a união estável entre o *homem* e a mulher, **configurada** na convivência pública, contínua e duradoura e estabelecida com o objetivo de constituição de família.”
 

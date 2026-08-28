@@ -19,8 +19,10 @@
 - [x] countable/uncountable (many/much) (much = especify "time") (many ways)
 
 - Notes for class:
-- [ ] Telling x Saying
-- [ ] key word transformation
+- [x] Telling x Saying
+- [x] key word transformation
 --------
 
 Paper 1 Part 6 (pg 124)
+
+#indent ==firsts word==
