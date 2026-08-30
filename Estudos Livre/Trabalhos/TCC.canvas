@@ -4,18 +4,20 @@
 		{"id":"65c2631e39fae0e6","type":"file","file":"Estudos Livre/Trabalhos/TCC.md","x":-831,"y":-680,"width":338,"height":260,"color":"4"},
 		{"id":"d797d4c0a4d45a10","x":-783,"y":-1120,"width":250,"height":321,"color":"#0d0d0d","type":"text","text":"Neurodireitos - Roxo\nCivil - Azul\nMoral e ética - Marrom\nDoutrina - Laranja\nDúvida - Amarelo"},
 		{"id":"49bc0920b732bc8f","type":"text","text":"Novo Código Civil","x":-2040,"y":-51,"width":250,"height":50,"color":"5"},
-		{"id":"0c402f620ae66777","x":-1370,"y":31,"width":250,"height":60,"color":"#642617","type":"text","text":"Moralidade"},
-		{"id":"bd2869debc40ed4a","x":-1830,"y":466,"width":250,"height":50,"color":"#4c6588","type":"text","text":"Integridade Mental"},
-		{"id":"692abc171557079c","x":-1450,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Proteção contra vieses"},
 		{"id":"33130e02b171a92c","x":-3050,"y":446,"width":250,"height":90,"color":"#4c6588","type":"text","text":"Justo acesso à amplação e melhora de capacidades mentais"},
 		{"id":"656f5b894f762ea6","x":-2750,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Privacidade (mental)"},
 		{"id":"8e29ac87c2c184cf","x":-2450,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Identidade Pessoal"},
 		{"id":"69429a59440c3ede","x":-2290,"y":280,"width":250,"height":57,"color":"#537ab2","type":"text","text":"Abrangência de Direitos Legal"},
 		{"id":"0d9fb4303638648c","x":-2165,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Livre Arbítrio"},
-		{"id":"8569b1b9ebb6b5d7","x":-1080,"y":280,"width":250,"height":60,"color":"#832a2a","type":"text","text":"Princípio da Consistência Genérica"},
 		{"id":"19eb34e167905c0f","x":-360,"y":-480,"width":400,"height":400,"color":"#9c3cc8","type":"file","file":"Estudos Livre/Trabalhos/Neurodireitos.md"},
 		{"id":"ce953e64c05fe5de","type":"text","text":"Takis Vidalis","x":-160,"y":100,"width":250,"height":60,"color":"3"},
-		{"id":"638fa801403536f0","x":-740,"y":202,"width":250,"height":216,"color":"#fdf50d","type":"text","text":"Conceito\n\n"}
+		{"id":"638fa801403536f0","x":-740,"y":202,"width":250,"height":216,"color":"#fdf50d","type":"text","text":"Conceito\n\n"},
+		{"id":"0c402f620ae66777","x":-1300,"y":142,"width":250,"height":60,"color":"#642617","type":"text","text":"Moralidade"},
+		{"id":"8569b1b9ebb6b5d7","x":-865,"y":660,"width":250,"height":60,"color":"#832a2a","type":"text","text":"Princípio da Consistência Genérica"},
+		{"id":"889c7235107f2e50","x":-1175,"y":660,"width":250,"height":60,"color":"#932525","type":"text","text":"Miguel Reale"},
+		{"id":"bd2869debc40ed4a","x":-1880,"y":471,"width":250,"height":50,"color":"#4c6588","type":"text","text":"Integridade Mental"},
+		{"id":"692abc171557079c","x":-1600,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Proteção contra vieses"},
+		{"id":"a745ccc5be0c5123","x":-586,"y":882,"width":250,"height":60,"color":"#643a3a","type":"text","text":"Propriedade sobre o próprio corpo"}
 	],
 	"edges":[
 		{"id":"9fd9ea96e87756a4","fromNode":"65c2631e39fae0e6","fromSide":"bottom","toNode":"7522350f89d0910f","toSide":"top","color":"#292929"},
@@ -34,6 +36,8 @@
 		{"id":"f82342db411ac00e","fromNode":"69429a59440c3ede","fromSide":"bottom","toNode":"692abc171557079c","toSide":"top","color":"#4c6588"},
 		{"id":"cfdebc959206d379","fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"8569b1b9ebb6b5d7","toSide":"top"},
 		{"id":"7d8ddab4fa70f343","fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"8569b1b9ebb6b5d7","toSide":"top","color":"#652525"},
-		{"id":"5465f3a652e2506b","fromNode":"7522350f89d0910f","fromSide":"bottom","toNode":"638fa801403536f0","toSide":"top","color":"#f8f012","label":"O que é?"}
+		{"id":"5465f3a652e2506b","fromNode":"7522350f89d0910f","fromSide":"bottom","toNode":"638fa801403536f0","toSide":"top","color":"#f8f012","label":"O que é?"},
+		{"id":"3dcad839bae17d62","fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"889c7235107f2e50","toSide":"top","color":"#674219"},
+		{"id":"8122869885d69d1a","fromNode":"8569b1b9ebb6b5d7","fromSide":"bottom","toNode":"a745ccc5be0c5123","toSide":"top","color":"#783636"}
 	]
 }
