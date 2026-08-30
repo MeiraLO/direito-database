@@ -48,7 +48,7 @@ Doutrina recomendada: Didier Jr e Elpídio Donizetti
 
 
 # Ponto 1
----
+
 ## 1. Conhecimento e Execução
 
 ### 1.1 Função cognitiva x função executiva

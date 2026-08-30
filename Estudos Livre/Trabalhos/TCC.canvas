@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"7522350f89d0910f","type":"text","text":"Neurodireitos","x":-740,"y":-168,"width":155,"height":60,"color":"#5c11a7"},
+		{"id":"65c2631e39fae0e6","type":"file","file":"Estudos Livre/Trabalhos/TCC.md","x":-831,"y":-680,"width":338,"height":260,"color":"4"},
+		{"id":"d797d4c0a4d45a10","x":-783,"y":-1120,"width":250,"height":321,"color":"#0d0d0d","type":"text","text":"Neurodireitos - Roxo\nCivil - Azul\nMoral e ética - Marrom\nDoutrina - Laranja\nDúvida - Amarelo"},
+		{"id":"49bc0920b732bc8f","type":"text","text":"Novo Código Civil","x":-2040,"y":-51,"width":250,"height":50,"color":"5"},
+		{"id":"0c402f620ae66777","x":-1370,"y":31,"width":250,"height":60,"color":"#642617","type":"text","text":"Moralidade"},
+		{"id":"bd2869debc40ed4a","x":-1830,"y":466,"width":250,"height":50,"color":"#4c6588","type":"text","text":"Integridade Mental"},
+		{"id":"692abc171557079c","x":-1450,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Proteção contra vieses"},
+		{"id":"33130e02b171a92c","x":-3050,"y":446,"width":250,"height":90,"color":"#4c6588","type":"text","text":"Justo acesso à amplação e melhora de capacidades mentais"},
+		{"id":"656f5b894f762ea6","x":-2750,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Privacidade (mental)"},
+		{"id":"8e29ac87c2c184cf","x":-2450,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Identidade Pessoal"},
+		{"id":"69429a59440c3ede","x":-2290,"y":280,"width":250,"height":57,"color":"#537ab2","type":"text","text":"Abrangência de Direitos Legal"},
+		{"id":"0d9fb4303638648c","x":-2165,"y":461,"width":250,"height":60,"color":"#4c6588","type":"text","text":"Livre Arbítrio"},
+		{"id":"8569b1b9ebb6b5d7","x":-1080,"y":280,"width":250,"height":60,"color":"#832a2a","type":"text","text":"Princípio da Consistência Genérica"},
+		{"id":"19eb34e167905c0f","x":-360,"y":-480,"width":400,"height":400,"color":"#9c3cc8","type":"file","file":"Estudos Livre/Trabalhos/Neurodireitos.md"},
+		{"id":"ce953e64c05fe5de","type":"text","text":"Takis Vidalis","x":-160,"y":100,"width":250,"height":60,"color":"3"},
+		{"id":"638fa801403536f0","x":-740,"y":202,"width":250,"height":216,"color":"#fdf50d","type":"text","text":"Conceito\n\n"}
+	],
+	"edges":[
+		{"id":"9fd9ea96e87756a4","fromNode":"65c2631e39fae0e6","fromSide":"bottom","toNode":"7522350f89d0910f","toSide":"top","color":"#292929"},
+		{"id":"1890505d2796c792","fromNode":"7522350f89d0910f","fromSide":"bottom","toNode":"ce953e64c05fe5de","toSide":"top","color":"3"},
+		{"id":"ac4d666fd13e614c","fromNode":"7522350f89d0910f","fromSide":"right","toNode":"19eb34e167905c0f","toSide":"left","fromEnd":"arrow","color":"#c617de"},
+		{"id":"2c447e548c97cab2","fromNode":"7522350f89d0910f","fromSide":"bottom","toNode":"49bc0920b732bc8f","toSide":"top","color":"5"},
+		{"id":"b8285202b97d5734","fromNode":"69429a59440c3ede","fromSide":"bottom","toNode":"656f5b894f762ea6","toSide":"top","color":"#4c6588"},
+		{"id":"83e5e7140393a7d2","fromNode":"69429a59440c3ede","fromSide":"bottom","toNode":"0d9fb4303638648c","toSide":"top","color":"#4c6588"},
+		{"id":"45e259be8028a9f6","fromNode":"69429a59440c3ede","fromSide":"bottom","toNode":"33130e02b171a92c","toSide":"top","color":"#4c6588"},
+		{"id":"045cffddeb8becc5","fromNode":"49bc0920b732bc8f","fromSide":"bottom","toNode":"69429a59440c3ede","toSide":"top","color":"5"},
+		{"id":"302ae474c3cea35c","fromNode":"7522350f89d0910f","fromSide":"bottom","toNode":"0c402f620ae66777","toSide":"top","color":"#55330c"},
+		{"id":"fcc01f874e4ad52c","fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"69429a59440c3ede","toSide":"top","color":"#621f0e"},
+		{"id":"12e80f38f9733055","fromNode":"65c2631e39fae0e6","fromSide":"top","toNode":"d797d4c0a4d45a10","toSide":"bottom","color":"#0a0a0a"},
+		{"id":"8ca4b27b97d22286","fromNode":"69429a59440c3ede","fromSide":"bottom","toNode":"8e29ac87c2c184cf","toSide":"top","color":"#4c6588"},
+		{"id":"705edd486e72e589","fromNode":"69429a59440c3ede","fromSide":"bottom","toNode":"bd2869debc40ed4a","toSide":"top","color":"#4c6588"},
+		{"id":"f82342db411ac00e","fromNode":"69429a59440c3ede","fromSide":"bottom","toNode":"692abc171557079c","toSide":"top","color":"#4c6588"},
+		{"id":"cfdebc959206d379","fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"8569b1b9ebb6b5d7","toSide":"top"},
+		{"id":"7d8ddab4fa70f343","fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"8569b1b9ebb6b5d7","toSide":"top","color":"#652525"},
+		{"id":"5465f3a652e2506b","fromNode":"7522350f89d0910f","fromSide":"bottom","toNode":"638fa801403536f0","toSide":"top","color":"#f8f012","label":"O que é?"}
+	]
+}
