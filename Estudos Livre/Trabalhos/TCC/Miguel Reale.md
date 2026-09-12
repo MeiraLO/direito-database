@@ -1,0 +1,3 @@
+- **REALE, Miguel. _Teoria Tridimensional do Direito_.** São Paulo: Saraiva. — Obra central para sustentar a tríade fato-valor-norma citada no seu sumário. Reale começou a desenvolvê-la em _Fundamentos do Direito_ (1940) e a consolidou como teoria em 1968.
+- **REALE, Miguel. _Lições Preliminares de Direito_.** São Paulo: Saraiva. — Texto introdutório mais didático, útil para apresentar a teoria tridimensional ao leitor não especializado logo na introdução do TCC.
+- **REALE, Miguel. _Filosofia do Direito_.** São Paulo: Saraiva. — Aprofunda a relação entre valor, cultura e experiência jurídica (o "culturalismo jurídico" de Reale), reforçando a ponte entre moralidade e Direito.
