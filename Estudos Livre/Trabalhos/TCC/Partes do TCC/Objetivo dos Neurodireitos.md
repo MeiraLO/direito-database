@@ -6,3 +6,4 @@ O desenvolvimento de tecnologias de diagnóstico e mapeamento cerebral - assim c
 
 
 Por conseguinte, essa celeridade de produção resultou em uma defazagem jurídica em que o direito se mostra, na melhor das hipóteses incompleto, e na pior ultrapassado e ineficaz.
+k
