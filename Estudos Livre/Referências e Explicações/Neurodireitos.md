@@ -1,2 +1,2 @@
-[[Estudos Livre/Trabalhos/Neurodireitos|Neurodireitos]]
+[[Estudos Livre/Trabalhos/TCC/Neurodireitos|Neurodireitos]]
 
