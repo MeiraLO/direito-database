@@ -364,5 +364,6 @@ Fundamento normativo — arts. 513 e 771 do CPC. O cumprimento de sentença ser�
 - Liquidação por arbitramento e procedimento comum
 - casos de suspensão da execução (art. 921)
 - Embargos à execução
-
+- litisconsórcio na execução e intervenção de terceiros
+- fidelidade da liquidação ao título executório (art. 508)
 
