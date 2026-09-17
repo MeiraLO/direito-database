@@ -356,6 +356,10 @@ Fundamento normativo — arts. 513 e 771 do CPC. O cumprimento de sentença ser�
 - NEVES, Daniel Amorim Assumpção. _Manual de Direito Processual Civil_.  2020.
 - THEODORO JR., Humberto. _Curso de Direito Processual Civil_. 2012.
 
+-----
+# Incluir no texto
 
+- Responsábilidade patrimonial
+- Definição de liquidação
 
 
