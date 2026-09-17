@@ -360,6 +360,9 @@ Fundamento normativo — arts. 513 e 771 do CPC. O cumprimento de sentença ser�
 # Incluir no texto
 
 - Responsábilidade patrimonial
-- Definição de liquidação
+- Definição de liquidação (original e secundário)
+- Liquidação por arbitramento e procedimento comum
+- casos de suspensão da execução (art. 921)
+- Embargos à execução
 
 
