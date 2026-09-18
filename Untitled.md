@@ -1,14 +1,8 @@
-DIREITO PROCESSUAL CIVIL III — 2026.2  
-TRABALHO TEMÁTICO 01 (TT1)  
-Liquidação, Responsabilidade Patrimonial, Suspensão e Extinção  
-Prof. Dr. Matheus Monteiro  
-  
-Pontuação: 1,0 ponto (Avaliação 1) | Prazo: até às 23h59 de 18/09/2026  
-  
-INSTRUÇÕES OBRIGATÓRIAS:  
-1. Realização individual ou em grupo de até 4 integrantes (com envio individual obrigatório por cada membro no formulário).  
-2. Responder às 10 questões teóricas e aos 2 microcasos diretamente no Google Forms.  
-3. Anexar obrigatoriamente no formulário o arquivo editável .docx contendo o Fichamento Doutrinário (mín. 20 páginas), Pesquisa Jurisprudencial (2 STJ e 2 TJRJ) e Mapa de Rastreabilidade, preenchido estritamente sobre o Modelo de Anexo fornecido.  
-4. Padrão de nomeação obrigatório do anexo: TT1_CPCIII_MATRICULA_NOME_SOBRENOME.docx  
-  
-Consulte as Orientações e o Modelo de Anexo anexados a esta publicação e acesse o formulário no link abaixo:
+Capacidade de conhecimento médico =/= a dimensão psicológico acerca de si mesma
+lei italiana bloqueia apenas órgãos essênciais (imoralidade do ato)
+limitações que visam impedir a liberdade irrestrita que pode causar danos sociais
+a pessoa não é proprietária sobre o seu próprio corpo.
+a dimensão material do corpo humano X a dimenção espiritual do corpo X liberdade da pessoa humana
+O professor defende uma relação necessária entre a liberdade da pessoa sobre o seu corpo em balaço com a dignidade da própria pessoa, uma vez que a liberdade não é contrária a dignidade, sendo esta a proibição
+
+concepção contratualista do "empowerment". Dignidade como pressuposto da liberdade

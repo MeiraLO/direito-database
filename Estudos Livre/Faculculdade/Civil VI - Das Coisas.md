@@ -52,8 +52,9 @@ Os Direitos reais são perpétuos enquanto o bem durar ou enquanto sua posse nã
 
 ##### Direitos Mistos 
 
-• **Obrigação Propter rem**
+- **Obrigação Propter rem**
 > Uma obrigação que decorre da relação entre o indivíduo e um bem em determinado momento (*ambulat cum domino*). Por exemplo, quem tem um carro (bem) tem que pagar IPVA (obrigação), o dever de pagar surge da titularidade, logo também segue o próximo titular no caso de uma transação.
+
 
 • **Ônus reais**
 >são direitos sobre coisa alheia que constituem um gravames

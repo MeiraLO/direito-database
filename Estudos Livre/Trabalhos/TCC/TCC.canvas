@@ -1,35 +1,6 @@
 {
 	"nodes":[
 		{"id":"f9d7020c2cdc4522","type":"group","x":-3960,"y":160,"width":1740,"height":296,"color":"#537ab7","label":"Legislação"},
-		{"id":"889c7235107f2e50","type":"text","text":"Miguel Reale","x":-4932,"y":286,"width":250,"height":60,"color":"#932525"},
-		{"id":"8569b1b9ebb6b5d7","type":"text","text":"Princípio da Consistência Genérica","x":-4622,"y":286,"width":250,"height":60,"color":"#832a2a"},
-		{"id":"a745ccc5be0c5123","type":"text","text":"Propriedade sobre o próprio corpo","x":-4343,"y":508,"width":250,"height":60,"color":"#643a3a"},
-		{
-			"id":"55ab8daf7c146c9c",
-			"type":"text",
-			"text":"**Dados Cerebrais e sua utilidade**\n",
-			"styleAttributes":{},
-			"x":-5280,
-			"y":-140,
-			"width":260,
-			"height":200,
-			"color":"#d02edc"
-		},
-		{"id":"ce953e64c05fe5de","type":"text","text":"Takis Vidalis","x":-5020,"y":-430,"width":250,"height":60,"color":"3"},
-		{"id":"5ae78d652e525a82","type":"file","file":"Estudos Livre/Trabalhos/TCC/Partes do TCC/Sumário.md","x":-4580,"y":-897,"width":400,"height":400,"color":"4"},
-		{"id":"d797d4c0a4d45a10","type":"text","text":"Neurodireitos - Roxo\nCivil - Azul\nMoral e ética - Marrom\nDoutrina - Laranja\nDúvida - Amarelo\nPartes do texto - Verde","x":-3160,"y":-1361,"width":250,"height":321,"color":"#0d0d0d"},
-		{
-			"id":"c540db9931f9ab56",
-			"type":"text",
-			"text":"**Ideias de títulos**\n\nQUEM É DONO DA SUA MENTE?\nNeurodireitos, identidade humana e os limites éticos da intervenção tecnológica no novo Código Civil\n\n-----\n\nPENSO, LOGO EXISTO. MAS QUEM CONTROLA O MEU PENSAMENTO? (ou QUEM PENSA POR MIM?)\nNeurodireitos, autonomia e preservação da identidade humana\n\n----\n\nO QUE A MENTE NÃO REVELA, O DIREITO PROTEGE?\nNeurodireitos, privacidade mental e identidade humana\n\n------\n\nEM TERRA DE NEUROTECNOLOGIA, QUEM CONTROLA A MENTE?\n\n------\n\nQUEM PENSA POR VOCÊ?\nNeurodireitos, autonomia e os limites éticos da intervenção neurotecnológica",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4093,
-			"y":-1644,
-			"width":473,
-			"height":565,
-			"color":"4"
-		},
-		{"id":"dbb0823e81e9bdd4","type":"text","text":"**TO-DO**\n- Ler Livro Springer\n- Definir Conceito\n- Ler a teoria ","x":-4040,"y":-1008,"width":250,"height":222,"color":"#171717"},
 		{
 			"id":"5b915cce895a8d5c",
 			"type":"text",
@@ -42,9 +13,26 @@
 			"color":"4"
 		},
 		{"id":"7522350f89d0910f","type":"text","text":"Neurodireitos","x":-3147,"y":-400,"width":155,"height":60,"color":"#5c11a7"},
-		{"id":"19eb34e167905c0f","type":"file","file":"Estudos Livre/Trabalhos/TCC/Neurodireitos.md","x":-2680,"y":-740,"width":400,"height":400,"color":"#9c3cc8"},
 		{"id":"65c2631e39fae0e6","type":"file","file":"Estudos Livre/Trabalhos/TCC/TCC.md","x":-3248,"y":-827,"width":338,"height":260,"color":"4"},
-		{"id":"ad1bda3b33f2b16d","type":"file","file":"Estudos Livre/Trabalhos/TCC/Partes do TCC/Referências TCC.md","x":-2720,"y":-1260,"width":400,"height":400,"color":"4"},
+		{"id":"0c402f620ae66777","type":"text","text":"Moralidade","x":-3981,"y":-110,"width":250,"height":60,"color":"#642617"},
+		{"id":"33130e02b171a92c","type":"text","text":"Justo acesso à amplação e melhora de capacidades mentais","x":-3920,"y":346,"width":250,"height":90,"color":"#4c6588"},
+		{"id":"656f5b894f762ea6","type":"text","text":"Privacidade (mental)","x":-3620,"y":361,"width":250,"height":60,"color":"#4c6588"},
+		{"id":"8e29ac87c2c184cf","type":"text","text":"Identidade Pessoal","x":-3320,"y":361,"width":250,"height":60,"color":"#4c6588"},
+		{"id":"bd2869debc40ed4a","type":"text","text":"Integridade Mental","x":-2480,"y":361,"width":250,"height":50,"color":"#4c6588"},
+		{"id":"49bc0920b732bc8f","type":"text","text":"Novo Código Civil","x":-3194,"y":-50,"width":250,"height":60,"color":"5"},
+		{"id":"d797d4c0a4d45a10","type":"text","text":"Neurodireitos - Roxo\nCivil - Azul\nMoral e ética - Marrom\nDoutrina - Laranja\nDúvida - Amarelo\nPartes do texto - Verde","x":-3160,"y":-1361,"width":250,"height":321,"color":"#0d0d0d"},
+		{
+			"id":"c540db9931f9ab56",
+			"type":"text",
+			"text":"**Ideias de títulos**\n\nQUEM É DONO DA SUA MENTE?\nNeurodireitos, identidade humana e os limites éticos da intervenção tecnológica no novo Código Civil\n\n-----\n\nPENSO, LOGO EXISTO. MAS QUEM CONTROLA O MEU PENSAMENTO? (ou QUEM PENSA POR MIM?)\nNeurodireitos, autonomia e preservação da identidade humana\n\n----\n\nO QUE A MENTE NÃO REVELA, O DIREITO PROTEGE?\nNeurodireitos, privacidade mental e identidade humana\n\n------\n\nEM TERRA DE NEUROTECNOLOGIA, QUEM CONTROLA A MENTE?\n\n------\n\nQUEM PENSA POR VOCÊ?\nNeurodireitos, autonomia e os limites éticos da intervenção neurotecnológica",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4093,
+			"y":-1644,
+			"width":473,
+			"height":565,
+			"color":"4"
+		},
+		{"id":"19eb34e167905c0f","type":"file","file":"Estudos Livre/Trabalhos/TCC/Neurodireitos.md","x":-2680,"y":-740,"width":400,"height":400,"color":"#9c3cc8"},
 		{"id":"7f81e4ffebd47b00","type":"file","file":"Estudos Livre/Trabalhos/TCC/Sujestões de Ref. TCC.md","x":-2060,"y":-1300,"width":580,"height":480,"color":"3"},
 		{
 			"id":"638fa801403536f0",
@@ -60,16 +48,39 @@
 			"color":"#f8f008"
 		},
 		{"id":"22ffc1711f44759a","type":"file","file":"Estudos Livre/Trabalhos/TCC/Partes do TCC/Conceito.md","x":-2280,"y":-130,"width":355,"height":220,"color":"#f8f008"},
-		{"id":"0c402f620ae66777","type":"text","text":"Moralidade","x":-3981,"y":-110,"width":250,"height":60,"color":"#642617"},
 		{"id":"65b575a0e3efb8bf","type":"file","file":"Estudos Livre/Trabalhos/TCC/Partes do TCC/Objetivo dos Neurodireitos.md","x":-2260,"y":-396,"width":400,"height":216,"color":"#f8f008"},
-		{"id":"33130e02b171a92c","type":"text","text":"Justo acesso à amplação e melhora de capacidades mentais","x":-3920,"y":346,"width":250,"height":90,"color":"#4c6588"},
-		{"id":"656f5b894f762ea6","type":"text","text":"Privacidade (mental)","x":-3620,"y":361,"width":250,"height":60,"color":"#4c6588"},
-		{"id":"8e29ac87c2c184cf","type":"text","text":"Identidade Pessoal","x":-3320,"y":361,"width":250,"height":60,"color":"#4c6588"},
-		{"id":"bd2869debc40ed4a","type":"text","text":"Integridade Mental","x":-2480,"y":361,"width":250,"height":50,"color":"#4c6588"},
-		{"id":"49bc0920b732bc8f","type":"text","text":"Novo Código Civil","x":-3194,"y":-50,"width":250,"height":60,"color":"5"},
 		{"id":"69429a59440c3ede","type":"text","text":"Abrangência de Direitos Legal","x":-3160,"y":180,"width":250,"height":77,"color":"#537ab2"},
 		{"id":"692abc171557079c","type":"text","text":"Proteção contra vieses","x":-3035,"y":361,"width":250,"height":60,"color":"#4c6588"},
 		{"id":"0d9fb4303638648c","type":"text","text":"Livre Arbítrio","x":-2760,"y":361,"width":250,"height":60,"color":"#4c6588"},
+		{"id":"889c7235107f2e50","type":"text","text":"Miguel Reale","x":-4932,"y":286,"width":250,"height":60,"color":"#932525"},
+		{"id":"8569b1b9ebb6b5d7","type":"text","text":"Princípio da Consistência Genérica","x":-4622,"y":286,"width":250,"height":60,"color":"#832a2a"},
+		{"id":"a745ccc5be0c5123","type":"text","text":"Propriedade sobre o próprio corpo","x":-4343,"y":508,"width":250,"height":60,"color":"#643a3a"},
+		{"id":"ce953e64c05fe5de","type":"text","text":"Takis Vidalis","x":-5020,"y":-430,"width":250,"height":60,"color":"3"},
+		{"id":"5ae78d652e525a82","type":"file","file":"Estudos Livre/Trabalhos/TCC/Partes do TCC/Sumário.md","x":-4580,"y":-897,"width":400,"height":400,"color":"4"},
+		{"id":"dbb0823e81e9bdd4","type":"text","text":"**TO-DO**\n- Ler Livro Springer\n- Definir Conceito\n- Ler a teoria ","x":-4040,"y":-1008,"width":250,"height":222,"color":"#171717"},
+		{"id":"ad1bda3b33f2b16d","type":"file","file":"Estudos Livre/Trabalhos/TCC/Partes do TCC/Referências TCC.md","x":-2720,"y":-1260,"width":400,"height":400,"color":"4"},
+		{
+			"id":"55ab8daf7c146c9c",
+			"type":"text",
+			"text":"**Dados Cerebrais e sua utilidade**\n",
+			"styleAttributes":{},
+			"x":-5280,
+			"y":-140,
+			"width":260,
+			"height":200,
+			"color":"#d02edc"
+		},
+		{
+			"id":"d663f444834aeb43",
+			"type":"text",
+			"text":"Ownership of the body\nperspectiva material e espiritual\ndiferenças entre o que se entende médicamente e o que se entende de si",
+			"styleAttributes":{},
+			"x":-5460,
+			"y":300,
+			"width":260,
+			"height":208,
+			"color":"#932525"
+		},
 		{
 			"id":"6ba62f35996ee529",
 			"type":"text",
@@ -97,7 +108,7 @@
 			"color":"#0a0a0a"
 		},
 		{"id":"cfdebc959206d379","fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"8569b1b9ebb6b5d7","toSide":"top"},
-		{"id":"7d8ddab4fa70f343","fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"8569b1b9ebb6b5d7","toSide":"top","color":"#652525"},
+		{"id":"7d8ddab4fa70f343","fromFloating":false,"fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"8569b1b9ebb6b5d7","toSide":"top","color":"#652525"},
 		{"id":"5465f3a652e2506b","toFloating":false,"fromNode":"7522350f89d0910f","fromSide":"bottom","toNode":"638fa801403536f0","toSide":"top","color":"#f8f012","label":"O que é?"},
 		{"id":"3dcad839bae17d62","fromFloating":false,"fromNode":"0c402f620ae66777","fromSide":"bottom","toNode":"889c7235107f2e50","toSide":"top","color":"#674219"},
 		{"id":"8122869885d69d1a","fromNode":"8569b1b9ebb6b5d7","fromSide":"bottom","toNode":"a745ccc5be0c5123","toSide":"top","color":"#783636"},
@@ -224,6 +235,16 @@
 			"toNode":"22ffc1711f44759a",
 			"toSide":"left",
 			"color":"#f8f008"
+		},
+		{
+			"id":"22a20463e344f8e0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0c402f620ae66777",
+			"fromSide":"bottom",
+			"toNode":"d663f444834aeb43",
+			"toSide":"top",
+			"color":"#932525"
 		}
 	],
 	"metadata":{
