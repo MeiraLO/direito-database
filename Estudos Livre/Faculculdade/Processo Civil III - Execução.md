@@ -346,7 +346,145 @@ Fundamento normativo — arts. 520, 776 e 777 do CPC, com apoio doutrinário em 
 Fundamento normativo — arts. 513 e 771 do CPC. O cumprimento de sentença será feito segundo as regras do próprio Título, observando-se, no que couber e conforme a natureza da obrigação, o disposto no Livro do processo de execução (art. 513); reciprocamente, as disposições do Livro da execução aplicam-se, no que couber, aos procedimentos especiais de execução, aos atos executivos do cumprimento de sentença e aos efeitos de atos ou fatos a que a lei atribuir força executiva, aplicando-se subsidiariamente à execução as disposições do processo de conhecimento e do cumprimento de sentença (art. 771, parágrafo único). Marcelo Abelha (2015) denomina essa regra de princípio da subsidiariedade recíproca entre os Livros I e II da Parte Especial do CPC.
 
 ---
+## 9. Responsabilidade patrimonial
 
+A responsabilidade patrimonial consiste no **vínculo de natureza processual que sujeita os bens de uma pessoa, devedora ou não, à execução** (Donizetti, 2020). No direito brasileiro, salvo na hipótese de prisão por dívida de alimentos, a execução recai sobre o patrimônio, e não sobre a pessoa do devedor — daí a máxima **"toda execução é real"** (item 6.4, acima).
+
+Fundamento normativo — **art. 789 do CPC**: o devedor responde com todos os bens **presentes** (os que integram seu patrimônio no ajuizamento da execução) **e futuros** (os adquiridos no curso dela), até a extinção da obrigação, ainda que pela prescrição, ressalvadas as restrições legais (bens impenhoráveis, art. 833; Lei nº 8.009/1990).
+
+### 9.1 Responsabilidade originária
+
+É a regra: responde pela dívida, com bens presentes e futuros, apenas quem figura como **devedor** — o vencido no processo de conhecimento ou aquele que consta como obrigado no título extrajudicial (Donizetti, 2020).
+
+### 9.2 Responsabilidade secundária (art. 790)
+
+Excepcionalmente, a execução pode atingir o patrimônio de quem **não figura como devedor** — às vezes nem sequer foi citado. O art. 790 elenca as hipóteses, sujeitando à execução os bens:
+
+1. do **sucessor a título singular**, na execução fundada em direito real ou obrigação reipersecutória (quem adquire a coisa litigiosa no curso do processo);
+2. do **sócio**, nos termos da lei — em regra os bens particulares dos sócios não respondem pelas dívidas da sociedade (art. 795), salvo solidariedade natural ou extraordinária (decorrente de violação do contrato ou gestão abusiva), o que remete à teoria da desconsideração da personalidade jurídica;
+3. do **devedor, ainda que em poder de terceiros**;
+4. do **cônjuge ou companheiro**, quando seus bens próprios ou a meação respondem pela dívida (em regra, só respondem os bens do cônjuge que contraiu a dívida; havendo dívida em benefício da família, respondem os bens de ambos);
+5. dos **bens alienados ou gravados em fraude à execução** (art. 792) — o negócio é considerado ineficaz perante o credor, e o bem, ainda que já pertencente ao adquirente, pode ser penhorado como se a alienação não tivesse ocorrido;
+6. dos bens cuja alienação tenha sido **anulada por fraude contra credores** (ação pauliana, art. 158 e ss. do CC), que exige diminuição patrimonial capaz de gerar insolvência (_eventus damni_) e a intenção de causar dano (_consilium fraudis_);
+7. do **responsável, nos casos de desconsideração da personalidade jurídica** (inciso incluído pelo CPC/2015, em harmonia com os arts. 133 e ss.).
+
+**Fraude à execução × fraude contra credores** (Donizetti, 2020): embora próximas — ambas exigem, em regra, _eventus damni_ e _consilium fraudis_ —, distinguem-se quanto ao meio de arguição (a fraude contra credores depende de ação pauliana autônoma; a fraude à execução pode ser reconhecida nos próprios autos ou em embargos de terceiro) e, segundo o entendimento mais atual, também quanto ao efeito: em ambos os casos o ato não é desfeito, mas apenas declarado ineficaz perante o exequente. Antes de declarar a fraude, o juiz deve intimar o terceiro adquirente para, querendo, opor embargos de terceiro (art. 792, §4º).
+
+## 10. Liquidação de sentença (arts. 509 a 512)
+
+### 10.1 Conceito e natureza jurídica
+
+**Sentença ilíquida** é aquela que, embora certifique a relação jurídica (torna certa a obrigação), não determina o valor devido nem individualiza o objeto da condenação (Donizetti, 2020). A liquidação é a fase (ou processo autônomo incidental) que tem por finalidade **fixar o _quantum debeatur_** ou individuar o objeto da obrigação — nunca discutir ou modificar o que já foi decidido (art. 509, §4º).
+
+Há divergência doutrinária quanto à natureza da decisão que julga a liquidação: para uma corrente é **meramente declaratória** (a obrigação já existiria, líquida em potência, desde o título); para outra, **constitutiva** (a decisão cria situação jurídica nova, tornando certo o que era incerto). Neves (2020) adere à segunda corrente, por entender mais coerente com a possibilidade de a decisão de liquidação ser rescindida por ação rescisória e transitar em julgado materialmente.
+
+A iliquidez pode ser **total** (nenhum elemento do _quantum_ foi fixado) ou **parcial** — hipótese em que o credor pode, simultaneamente, executar o capítulo líquido e liquidar o capítulo ilíquido (art. 509, §1º).
+
+### 10.2 Determinação do valor por cálculo do credor (não é liquidação)
+
+Quando o valor da condenação depender apenas de **cálculo aritmético**, não há liquidação: o credor apresenta a memória discriminada e atualizada do cálculo já no pedido de cumprimento de sentença (art. 509, §2º), cabendo ao devedor impugnar o valor, se for o caso.
+
+### 10.3 Liquidação na pendência de recurso
+
+O art. 512 permite a liquidação **mesmo pendente recurso**, ainda que recebido no efeito suspensivo (Neves, 2020; Donizetti, 2020). Fica ressalvado, porém, que o recebimento do recurso no efeito suspensivo obsta apenas o **cumprimento provisório**, não a liquidação em si: liquidada antecipadamente a sentença, o credor só poderá executar provisoriamente se o recurso pendente não tiver efeito suspensivo.
+
+### 10.4 Espécies de liquidação
+
+O CPC/2015 extinguiu a "liquidação por cálculo aritmético" do CPC/1973 (por não ser tecnicamente liquidação) e manteve apenas duas espécies (art. 509, I e II):
+
+**a) Liquidação por arbitramento** — cabível quando (i) determinada pela sentença ou convencionada pelas partes, ou (ii) a natureza do objeto da liquidação o exigir (ex.: apurar redução de capacidade laborativa). Aplicam-se as normas da prova pericial (art. 510); somente se as partes não fornecerem elementos suficientes para o juiz decidir de plano é que se nomeia perito.
+
+**b) Liquidação pelo procedimento comum** — cabível quando for necessário **alegar e provar fato novo** (art. 509, II), entendido como fato não considerado expressamente na sentença, mas compreendido na generalidade do dispositivo (ex.: apurar gastos médicos e lucros cessantes decorrentes de acidente já reconhecido na sentença). É a espécie mais complexa, por envolver instrução e contraditório mais amplos (Neves, 2020, item 24.13.3).
+
+Em ambas as espécies, a intimação do requerido faz-se, de regra, na pessoa do advogado; o devedor revel sem advogado constituído não precisa ser intimado, mas pode intervir por advogado a qualquer momento (Donizetti, 2020).
+
+### 10.5 Regra da fidelidade ao título executivo (art. 509, §4º)
+
+> **Observação de revisão:** o item indicado nas anotações originais como "art. 508" corresponde, na verdade, à **eficácia preclusiva da coisa julgada** (todas as alegações e defesas dedutíveis são consideradas repelidas — Donizetti, 2020, item 9.7). A regra da fidelidade da liquidação ao título executivo está no **art. 509, §4º**.
+
+A liquidação tem como único objetivo a fixação do _quantum debeatur_ (ou a individuação do objeto), sendo **vedada a discussão de matéria alheia** a esse objetivo, ainda que sob a forma de tentativa de rediscutir ou modificar a sentença que julgou o mérito (Neves, 2020, item 24.12). A doutrina chama essa regra de **"fidelidade ao título executivo"**. Não é absoluta: admite-se, excepcionalmente, incluir na liquidação matéria não posta na fase de conhecimento, desde que logicamente compreendida no que restou decidido (interpretação lógica, e não meramente gramatical, da sentença).
+
+### 10.6 Decisão que julga a liquidação: natureza e recurso
+
+A decisão que julga a liquidação tem **natureza de decisão interlocutória** (e não de sentença), sujeita a **agravo de instrumento** (art. 1.015, parágrafo único do CPC; Neves, 2020, item 24.6; Donizetti, 2020, item 10.4). O agravo, em regra, não tem efeito suspensivo, de modo que a execução pode prosseguir independentemente do seu julgamento, salvo concessão de efeito suspensivo pelo relator.
+
+Finalizada a liquidação, o credor pode promover o cumprimento — **definitivo**, se a sentença já transitou em julgado (art. 523), ou **provisório**, se ainda pendente recurso sem efeito suspensivo (art. 520). Não são devidos honorários na liquidação (exceto os já fixados na sentença), diferentemente do que ocorre na fase de cumprimento (Donizetti, 2020).
+
+## 11. Suspensão e extinção da execução (art. 921 e ss.)
+
+### 11.1 Suspensão da execução (art. 921)
+
+O CPC prevê hipóteses de **suspensão própria** (toda a execução é suspensa) e **imprópria** (só alguns atos são suspensos, prosseguindo os demais) — Neves, 2020, item 56.1. As causas gerais de suspensão do art. 313 aplicam-se, no que couber, à execução (art. 921, I); as demais hipóteses do art. 921 são específicas:
+
+- **defesa típica do executado** (embargos ou impugnação recebidos com efeito suspensivo — inciso II);
+- **prescrição intercorrente**, tratada abaixo (inciso III);
+- **não localização do executado ou de bens penhoráveis** (inciso III, com a redação dada pela Lei nº 14.195/2021);
+- **ausência de interessados na aquisição de bem penhorado** em hasta pública, quando o exequente não indicar outros bens nem requerer a adjudicação (inciso IV);
+- **moratória legal** (inciso V — ex.: parcelamento previsto no art. 916, que gera suspensão imprópria, pois apenas o procedimento principal é suspenso).
+
+### 11.2 Prescrição intercorrente
+
+A Lei nº 14.195/2021 alterou substancialmente a matéria. O prazo de suspensão de **um ano** tem início automaticamente com a não localização do executado ou de bens penhoráveis (art. 921, §4º), independendo de decisão judicial — inovação em relação à exigência doutrinária anterior de intimação do exequente (Neves, 2020, item 56.2.3). Findo o prazo de suspensão sem localização, começa a correr a **prescrição intercorrente**, que é interrompida por citação, intimação ou constrição de bens do executado, e que só pode ocorrer **uma única vez** (art. 921, §§4º-A e 5º). Antes de decretar a extinção por prescrição intercorrente, o juiz deve intimar as partes para manifestação em 15 dias (art. 921, §5º); a nulidade decorrente do descumprimento desse procedimento só será decretada mediante prova de efetivo prejuízo.
+
+### 11.3 Extinção da execução
+
+As hipóteses estão previstas nos arts. 924 e 925: (I) indeferimento da petição inicial; (II) satisfação da obrigação; (III) extinção total da obrigação por qualquer outro meio que não o pagamento (ex.: novação, compensação, transação); (IV) renúncia do credor; (V) prescrição intercorrente. O rol do inciso III é meramente exemplificativo, o que torna dispensáveis, na prática, os incisos IV e V (Neves, 2020, item 56.3). A extinção só produz efeitos quando declarada por sentença (art. 925), recorrível por apelação.
+
+## 12. Litisconsórcio na execução e intervenção de terceiros
+
+### 12.1 Litisconsórcio na execução
+
+É **plenamente possível** (Donizetti, 2020) — basta lembrar a hipótese, corriqueira, de vários credores ou devedores constando do mesmo título. Pode ser **inicial** (desde a propositura) ou **superveniente** por sucessão de partes (ex.: morte do devedor no curso da execução, com sucessão pelos herdeiros); fora da sucessão, **não se admite litisconsórcio ulterior sem correspondência no título exequendo** — o devedor solidário só integra a execução se o credor lhe opuser título no qual figure como obrigado.
+
+Em regra o litisconsórcio na execução é **facultativo**; excepcionalmente é **necessário**, por disposição de lei (ex.: art. 73, §1º — marido e mulher como litisconsortes passivos necessários em certas hipóteses) ou pela natureza da relação jurídica (ex.: execução contra sócios de sociedade dissolvida). Pode ainda ser **simples** (o proveito da execução não precisa ser uniforme para todos) ou **unitário** (o resultado é necessariamente idêntico para todos os litisconsortes de um mesmo polo — ex.: execução de obrigação indivisível, ou de entrega de imóvel indivisível pertencente a mais de uma pessoa).
+
+### 12.2 Intervenção de terceiros no processo de execução
+
+Por incompatibilidade com a estrutura da execução (que não comporta acertamento de lide), **não se admitem denunciação da lide e chamamento ao processo** (Donizetti, 2020).
+
+Quanto à **assistência**, há divergência: parte da doutrina (com base na literalidade do dispositivo, que a vincula à obtenção de sentença favorável) nega seu cabimento na execução; outra parte — à qual adere Donizetti, citando Pontes de Miranda, Araken de Assis e Dinamarco — admite a assistência sempre que haja **interesse jurídico** (e não meramente econômico) apto a ser atingido pelo resultado da execução, com fundamento na aplicação subsidiária das normas do processo de conhecimento (art. 771, parágrafo único). O assistente, contudo, não pode discutir o crédito ou o título, atuando apenas nos limites das decisões executivas capazes de atingir sua esfera de direitos.
+
+O **incidente de desconsideração da personalidade jurídica** (arts. 133 a 137) é expressamente cabível em qualquer fase do processo de conhecimento, no cumprimento de sentença e na execução de título extrajudicial (art. 134). Traços do procedimento: (i) não há desconsideração de ofício; (ii) exige-se prévia citação do sócio (ou da pessoa jurídica, na desconsideração inversa), com observância do contraditório, ressalvadas medidas cautelares urgentes; (iii) a instauração do incidente, em regra, suspende a execução, salvo se requerida já na petição inicial; (iv) a decisão é interlocutória, agravável (art. 1.015, IV).
+
+## 13. Embargos à execução
+
+### 13.1 Conceito e natureza jurídica
+
+Os **embargos do executado** constituem **ação autônoma de conhecimento**, de natureza **constitutiva**, cuja finalidade é desconstituir ou depurar o título que lastreia a execução (ou o próprio ato expropriatório) — não se trata de mera defesa ou incidente (Donizetti, 2020, item 1). Embora processados em apenso, mantêm autonomia processual (inclusive de prazo).
+
+### 13.2 Embargabilidade da execução
+
+Tratando-se de **título judicial**, em regra não há execução autônoma, mas cumprimento de sentença — logo, a defesa cabível é a **impugnação** (art. 525), e não os embargos. Já a execução fundada em **título extrajudicial** é sempre embargável, independentemente da natureza da obrigação (pagar, entregar coisa, fazer ou não fazer), porque nesse caso não houve contraditório prévio sobre o objeto da obrigação.
+
+Diferenças entre embargos e impugnação (Donizetti, 2020): os embargos formam **processo autônomo** (a impugnação é incidental); da sentença que julga os embargos cabe **apelação** (da decisão da impugnação, em regra, agravo de instrumento); as matérias arguíveis nos embargos são **mais amplas** (art. 917, VI — qualquer matéria lícita em processo de conhecimento); em nenhum dos dois é exigida prévia garantia do juízo.
+
+### 13.3 Legitimidade e prazo
+
+Tem legitimidade para embargar quem figura no **polo passivo da execução** (não basta constar como devedor no título). O prazo é de **15 dias**, contado de forma **autônoma e individual** para cada executado (art. 231), salvo para cônjuges/companheiros citados conjuntamente, cujo prazo comum corre da juntada do último comprovante de citação (art. 915, §1º). Não se aplica aos embargos o prazo em dobro do art. 229. O terceiro estranho à execução não embarga: seu remédio são os **embargos de terceiro** (art. 674).
+
+### 13.4 Matérias arguíveis nos embargos à execução (art. 917)
+
+O rol é amplo: (I) inexequibilidade do título ou inexigibilidade da obrigação; (II) penhora incorreta ou avaliação errônea; (III) excesso de execução ou cumulação indevida de execuções — exigindo, quando for o único fundamento, a apresentação de demonstrativo de cálculo do valor que o executado entende correto (art. 917, §§3º e 4º), sob pena de rejeição liminar apenas quanto a esse fundamento; (IV) retenção por benfeitorias; (V) incompetência, impedimento ou suspeição do juízo; (VI) **qualquer matéria que seria lícito deduzir como defesa em processo de conhecimento** — é essa amplitude que distingue os embargos da impugnação ao cumprimento de sentença.
+
+## 14. Execuções em espécie (arts. 797 a 913)
+
+Conforme a natureza da obrigação constante do título, o CPC disciplina três grandes modalidades, além das execuções especiais (Fazenda Pública, alimentos, fiscal) que são espécies do gênero "por quantia certa" (Donizetti, 2020, introdução ao capítulo).
+
+### 14.1 Execução para entrega de coisa (arts. 806 a 813)
+
+Desdobra-se em **entrega de coisa certa** e **entrega de coisa incerta**. O devedor é citado para satisfazer a obrigação em 15 dias, sob pena de multa diária (sistema **misto de coerção e sub-rogação**); decorrido o prazo sem cumprimento (ou rejeitados/sem efeito suspensivo eventuais embargos), procede-se ao **desapossamento** — busca e apreensão (bem móvel) ou imissão na posse (bem imóvel). Impossibilitada a entrega (perda, deterioração, não localização), a execução **converte-se em execução por quantia certa**, mediante liquidação do valor da coisa e das perdas e danos (art. 809). Na entrega de coisa incerta, exige-se prévia **concentração** (escolha) da coisa, cabendo a escolha a quem o título determinar ou, no silêncio, ao devedor (art. 244 do CC).
+
+### 14.2 Execução das obrigações de fazer e de não fazer (arts. 814 a 823)
+
+Essas regras aplicam-se apenas a títulos **extrajudiciais** (nos títulos judiciais, incide o regime do art. 536 do cumprimento de sentença). O devedor é citado sob pena de multa diária (_astreinte_) fixada já no despacho inicial, independentemente de previsão no título. Distinguem-se as obrigações de **prestação fungível** (pode ser satisfeita por terceiro à custa do devedor) e **não fungível** (só o devedor pode cumpri-la, sob pena de conversão em perdas e danos — art. 821). Na obrigação de **não fazer**, se a prestação negativa violada for **instantânea** (irreversível), resolve-se diretamente em perdas e danos; se **permanente**, admite execução específica (desfazimento, inclusive por terceiro) ou conversão em perdas e danos (art. 823).
+
+### 14.3 Execução por quantia certa (arts. 824 a 909)
+
+Fundada na obrigação de dar dinheiro — coisa fungível por excelência —, visa à **expropriação de bens do executado**. Distingue-se conforme o devedor seja **solvente** (regulamentação minuciosa, que serve de fonte subsidiária às demais espécies) ou **insolvente** (regime do CPC/1973 até edição de lei específica — item 5.2, acima). O procedimento desenvolve-se classicamente em quatro fases: **proposição** (ajuizamento), **apreensão de bens** (penhora, eventualmente precedida de arresto), **expropriação** (adjudicação, alienação ou usufruto) e **pagamento** (Donizetti, 2020, item 4.1).
+
+
+
+------------
 ## Referências
 
 - ASSIS, Araken de. _Manual da Execução_. 2016.
@@ -357,14 +495,6 @@ Fundamento normativo — arts. 513 e 771 do CPC. O cumprimento de sentença ser�
 - THEODORO JR., Humberto. _Curso de Direito Processual Civil_. 2012.
 
 -----
-# Incluir no texto
 
-- Responsábilidade patrimonial
-- Definição de liquidação (original e secundário)
-- Liquidação da sentença (arbitramento e procedimento comum) (liquidação com recurso)
-- casos de suspensão da execução (art. 921)
-- Embargos à execução
-- litisconsórcio na execução e intervenção de terceiros
-- fidelidade da liquidação ao título executório (art. 508)
-- Execuções em espécie
-
+1. C
+2. 
