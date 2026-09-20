@@ -203,3 +203,97 @@
 |CED 8º|Advocacia pública sob a ótica ética|
 |CED 9º–26|Relação advogado–cliente (contrato, conflitos, mandato)|
 |CED 35–38|Sigilo profissional|
+
+## Colocar no texto
+1 São CINCO as EXCEÇÕES das Atividades Privativas do advogado a postulação em juízo nos caos de Hábeas Corpus (em qualquer instancia ou Tribunal); nos J.E.Cíveis (até 20 salários mínimos); na Justiça do Trabalho (exceto no TST); na Justiça de PAZ e no Juizado Especial Federal (até o limite do valor da alçada = 60 salários mínimos).OBS: fase de conciliação e preliminar no Jecrim não precisa da presença de Advogado.
+
+  
+2 São ainda consideradas atividades privativas do advogado as atividades de Assessoria, Consultoria e Direção Jurídica. As funções de diretoria e gerência jurídicas em qualquer empresa pública, privada ou paraestatal, inclusive em instituições financeiras só pode ser realizada pelo advogado.
+
+  
+3 Considera-se efetivo exercício da atividade de advocacia a participação anual mínima em cinco atos privativos, em causas ou questões distintas e a comprovação do efetivo exercício faz-se mediante a certidão expedida por cartórios ou secretarias judiciais; cópia autenticada de atos privativos; certidão expedida pelo órgão público no qual o advogado exerça função privativa do seu ofício, indicando os atos praticados.
+
+  
+4 A prática de atos privativos de advocacia, por profissionais e sociedades não inscritos na OAB, constitui exercício ilegal da profissão, sendo proibida a prestação de serviços de assessoria e consultoria jurídicas para terceiros, em sociedades que não possam ser registradas na OAB.
+
+  
+5 O visto do advogado em atos constitutivos de pessoas jurídicas, indispensável ao registro e arquivamento nos órgãos competentes, deve resultar da efetiva constatação, pelo profissional que os examinar, de que os respectivos instrumentos preenchem as exigências legais pertinentes e não precisam do visto as microempresas e Empresas de pequeno Porte (EPP).
+
+  
+6 No seu ministério privado, o advogado presta serviço público e exerce função social e no processo judicial, o advogado contribui, na postulação de decisão favorável ao seu constituinte, ao convencimento do julgador, e seus atos constituem múnus público.
+
+  
+7 O advogado, no exercício da profissão, deve manter independência em qualquer circunstância e nenhum receio de desagradar a magistrado ou a qualquer autoridade, nem de incorrer em impopularidade, deve deter o advogado no exercício da profissão.
+
+  
+8 É PROIBIDO (defeso) ao advogado funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador ou cliente.
+
+  
+9 São NULOS os atos praticados por advogado que está suspenso; praticado por advogado impedido quando no âmbito do impedimento; licenciado da atividade; e ainda o que passa a exercer atividade incompatível, bem como os praticados por NÃO INSCRITOS.
+
+  
+10 No exercício da profissão, o advogado é inviolável por seus atos e manifestações, mas sua imunidade profissional não abrange o desacato e a calúnia. Apenas Injúria e difamação SEM excessos!!!
+
+11 A jornada de trabalho do advogado empregado, no exercício da profissão, não poderá exceder a duração diária de quatro horas contínuas e a de vinte horas semanais, salvo acordo ou convenção coletiva ou em caso de dedicação exclusiva. Neste caso (dedicação exclusiva), serão remuneradas como extraordinárias as horas trabalhadas que excederem a jornada normal de oito horas diárias.
+
+  
+12 As horas trabalhadas que excederem a jornada normal são remuneradas por um adicional não inferior a cem por cento sobre o valor da hora normal, mesmo havendo contrato escrito.
+
+  
+13 As horas trabalhadas no período das vinte horas de um dia até as cinco horas do dia seguinte são remuneradas como noturnas, acrescidas do adicional de vinte e cinco por cento.
+
+  
+14 A relação de emprego não retira a isenção técnica nem reduz a independência profissional inerentes à advocacia e o advogado empregado não está obrigado à prestação de serviços profissionais de interesse pessoal dos empregadores, fora da relação de emprego.
+
+  
+15 O advogado postula em juízo e fora dele fazendo prova do mandato (procuração), mas pode atuar sem o mesmo por 15 dias (prorrogável por mais 15) em caso de urgência, TÃO SOMENTE em casos judiciais, pois extrajudicialmente é necessária a apresentação incontinenti do instrumento conferido pelo cliente.
+
+  
+16 a RENÚNCIA É DEZ!!!! Pois são dez os dias que deve o advogado ainda ficar responsável pelo cliente, salvo se antes dos 10 dias for substituído.
+
+  
+17 A RENÚNCIA é ato privativo do advogado e independe da comunicação do motivo, sendo necessário a ciência inequívoca do cliente, que pode ser realizada por carta com aviso de recebimento (A.R.).
+
+  
+18 Na revogação do mandato por vontade do cliente não desobriga do pagamento do advogado dos HONORÁRIOS CONVENCIONADOS. Ainda, é direito do advogado receber quanto lhe seja devido em eventual verba honorária de sucumbência. A sucumbência, por sua vez, é devida ao advogado proporcionalmente.
+
+  
+19 As procurações devem ser outorgadas individualmente aos advogados e se integrantes de sociedade de advogados deve ainda indicar a sociedade de que façam parte.
+
+  
+20 O advogado substabelecido, com reserva de poderes, não pode cobrar honorários sem a intervenção daquele que lhe conferiu o substabelecimento e substabelecido com reserva de poderes deve ajustar antecipadamente seus honorários com o substabelecente.
+
+  
+21 O substabelecimento do mandato, com reserva de poderes, é ato pessoal do advogado da causa, porém o substabelecimento do mandato sem reservas de poderes exige o prévio e inequívoco conhecimento do cliente.
+
+22 Mesmo sem procuração é direito do advogado comunicar-se com seus clientes, pessoal e reservadamente, quando estes se acharem presos, detidos ou recolhidos em estabelecimentos civis ou militares, ainda que considerados incomunicáveis.
+
+  
+23 Mesmo sem procuração é direito do advogado examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, quando não estejam sujeitos a sigilo, assegurada a obtenção de cópias, podendo tomar apontamentos.
+
+  
+24 Mesmo sem procuração é direito do advogado examinar em qualquer repartição policial, autos de flagrante e de inquérito, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos.
+
+  
+25 Mesmo sem procuração é direito do advogado retirar autos de processos findos pelo prazo de dez dias;
+
+  
+26 O advogado tem direito a presença de representante da OAB para lavratura do Auto de Prisão em Flagrante por motivo ligado ao exercício da advocacia e também quando houver determinação judicial de busca e apreensão em seu escritório ou local de trabalho. A OAB deve encaminhar o representante em tempo hábil e, se mantiver-se inerte, os atos poderão ser realizados e serão considerados válidos.
+
+27 Os integrantes da advocacia pública são elegíveis e podem integrar qualquer órgão da OAB e por praticarem a atividade privativa prevista no Art. 1º do Estatuto, sujeitam-se ao regime do Estatuto, deste Regulamento Geral e do Código de Ética e Disciplina, inclusive quanto às infrações e sanções disciplinares.
+
+28 Exercem a advocacia pública os integrantes da Advocacia-Geral da União, da Defensoria Pública e das Procuradorias e Consultorias Jurídicas dos Estados, do Distrito Federal, dos Municípios, das autarquias e das fundações públicas, estando obrigados à inscrição na OAB, para o exercício de suas atividades.
+
+29 Os Procuradores Gerais, Advogados Gerais, Defensores Gerais e dirigentes de órgãos jurídicos da Administração Pública direta, indireta e fundacional, bem como os advogados públicos contratados no regime de dedicação exclusiva são exclusivamente legitimados para o exercício da advocacia vinculada à função púbica exercida.
+
+30 O estagiário inscrito na OAB pode praticar isoladamente, sob a responsabilidade do advogado, os atos de retirar e devolver autos em cartório, assinando a respectiva carga; obter junto aos escrivães e chefes de secretarias certidões de peças ou autos de processos em curso ou findos e assinar petições de juntada de documentos a processos judiciais ou administrativos. Para o exercício de atos extrajudiciais, o estagiário pode comparecer isoladamente, quando receber autorização ou substabelecimento do advogado.
+
+31 A incompatibilidade é a proibição total; o impedimento é a proibição parcial para o exercício da advocacia e só diz respeito a ATIVIDADES/CARGOS/FUNÇÕES profissionais.
+
+32 A incompatibilidade pode ser TEMPORÁRIA (causa licenciamento) ou DEFINITIVA (cancelamento) e permanece mesmo que o ocupante do cargo ou função deixe de exercê-lo temporariamente.
+
+33 São impedidos os membros do Poder Legislativo, em seus diferentes níveis, contra ou a favor das pessoas jurídicas de direito público, empresas públicas, sociedades de economia mista, fundações públicas, entidades paraestatais ou empresas concessionárias ou permissionárias de serviço público, mas se estes forem membros (ou substitutos legais) na Mesa Diretora da Casa Legislativa a que pertençam, estarão incompatibilizados para o exercício da advocacia.
+
+34 No caso dos membros de órgãos do Poder Judiciário estão excluídos os Membros da Justiça Eleitoral e os juízes suplentes não remunerados por força de ADIN. Os membros (inclusive servidores) do Ministério Público.
+
+35 Todo servidor público é, no mínimo, impedido; os servidores públicos que não estejam expressamente listados nos incisos do art.28 não poderão advogar contra a fazenda que os remunera, tão somente (exceto os docentes de cursos jurídicos, que permanecem livres para o exercício da atividade).
