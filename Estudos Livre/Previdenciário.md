@@ -49,18 +49,32 @@ A Seguridade Social é um conjunto integrado de ações de iniciativa dos Podere
 
 *(Ref. "5. Princípios da Previdência Social.pdf")*
 
-### 1. Princípio da Solidariedade (O mais cobrado!)
+### 1. Princípio da Solidariedade (O coração da Seguridade Social!)
 
-* **Conceito:** O financiamento é responsabilidade de *toda a sociedade* (pacto intergeracional), e não uma poupança individual. Não há proporção matemática exata entre o que se paga e o que se recebe.
+O Princípio da Solidariedade é o alicerce fundamental de todo o sistema. Ele afasta a lógica do seguro privado e estabelece a previdência como um pacto social.
 
-* **Aplicações Práticas (Jurisprudência):**
-
-  * *Aposentado que retorna ao trabalho:* Deve continuar pagando a contribuição previdenciária, mesmo sem receber novo benefício por isso. O STF julga constitucional baseado na solidariedade.
-
-  * *Empresa sem empregados (automatizada):* Deve pagar CSLL e COFINS. A tributação recai sobre o faturamento/lucro para equilibrar o sistema, não dependendo apenas da folha de salários.
-
-  * *Bancos (Alíquotas diferenciadas):* É constitucional cobrar mais de instituições financeiras, unindo Solidariedade, Equidade no custeio e Capacidade Contributiva.
-
+- **A Lógica do Sistema (Repartição Simples vs. Capitalização):**
+    
+    - _Capitalização (Conta Individual):_ Seria como uma poupança onde você guarda o _seu_ dinheiro para o _seu_ futuro. O Brasil **não** adota essa regra geral para a previdência pública.
+    - _Repartição Simples (Caixa Único):_ O regime adotado - em regra - no Brasil. Os trabalhadores ativos de hoje pagam as aposentadorias dos inativos (**Pacto Intergeracional**). Quando os ativos atuais se aposentarem, serão sustentados pela próxima geração.
+<br>
+- **Consequência Financeira (Ausência de Sinalagma Perfeito):** Não há uma correspondência matemática exata entre o que você paga e o que recebe. Um segurado pode contribuir por apenas um dia, sofrer um acidente e receber aposentadoria por invalidez para o resto da vida, financiada pela coletividade.
+<br>
+- **Fundamentos Constitucionais:**
+    
+    - Art. 3º, I, da CRFB/88: Constitui objetivo da República construir uma sociedade livre, justa e **solidária**.
+    - Art. 195 da CRFB/88: A seguridade social será financiada por **toda a sociedade**.
+<br>
+- **Aplicações Práticas (Como cai em prova - Jurisprudência do STF):**
+    
+    - **O aposentado que retorna ao trabalho:** Ele é obrigado a continuar pagando a contribuição previdenciária. Por quê? Porque ele não contribui para ter um "retorno" para si mesmo, mas sim para financiar o sistema como um todo. Foi com base na solidariedade que o STF decidiu que a **"desaposentação" é inconstitucional** (ele não pode pedir recálculo do benefício usando essas novas contribuições).
+        
+    - **A empresa sem empregados (Automação):** Uma fábrica 100% automatizada não tem "folha de salários" para tributar. Contudo, ela continua obrigada a financiar a seguridade através de tributos sobre o seu Faturamento (COFINS) e Lucro (CSLL). O dever de solidariedade alcança todos.
+        
+    - **Bancos pagam mais (Alíquotas majoradas):** Instituições financeiras pagam contribuições mais altas. A solidariedade caminha junto com a _Capacidade Contributiva_ e a _Equidade no Custeio_: quem ganha mais ou oferece maior risco à economia, contribui mais para o equilíbrio do todo.
+        
+    - **Sustento da Saúde e Assistência:** As suas contribuições ajudam a pagar o SUS e o BPC (LOAS) de pessoas que, muitas vezes, nunca puderam contribuir com 1 centavo para o sistema. É a solidariedade social em sua forma mais pura.
+<br>
 ### 2. Princípio da Universalidade da Cobertura e do Atendimento
 
 * **Objetiva (Cobertura):** Quais riscos cobrir (doença, velhice, morte).
