@@ -75,14 +75,39 @@ O Princípio da Solidariedade é o alicerce fundamental de todo o sistema. Ele a
         
     - **Sustento da Saúde e Assistência:** As suas contribuições ajudam a pagar o SUS e o BPC (LOAS) de pessoas que, muitas vezes, nunca puderam contribuir com 1 centavo para o sistema. É a solidariedade social em sua forma mais pura.
 <br>
-### 2. Princípio da Universalidade da Cobertura e do Atendimento
+### 2. Princípio da Universalidade da Cobertura e do Atendimento (Art. 194, I, CRFB/88)
 
-* **Objetiva (Cobertura):** Quais riscos cobrir (doença, velhice, morte).
+Trata-se do vetor de **máxima inclusão social** da Seguridade Social. Ele determina que o sistema deve buscar proteger o maior número possível de contingências (riscos) e alcançar a totalidade das pessoas no território nacional.
 
-* **Subjetiva (Atendimento):** Quem proteger (todas as pessoas no território nacional).
-
-* *Conflito com o Caráter Contributivo:* A jurisprudência flexibiliza a regra para proteger os vulneráveis (ex: análise de critérios socioeconômicos para concessão de aposentadoria por invalidez, além do critério apenas médico).
-
+- **A Dupla Dimensão do Princípio:**
+    
+    - **1. Universalidade da Cobertura (Dimensão Objetiva ou Material):**
+        
+        - _O que cobre?_ Diz respeito aos **fatos geradores de necessidade social** (as contingências ou riscos sociais).
+            
+        - O Estado deve prever proteção jurídica e financeira contra eventos como: velhice, incapacidade laboral (doença/invalidez), morte, maternidade, desemprego involuntário, reclusão e vulnerabilidade econômica.
+            
+    - **2. Universalidade do Atendimento (Dimensão Subjetiva ou Pessoal):**
+        
+        - _Quem protege?_ Diz respeito ao **universo de beneficiários**.
+            
+        - A meta é garantir que **todas as pessoas** residentes no país (nacionais ou estrangeiros) tenham acesso à rede de proteção social quando enfrentarem uma contingência.
+            
+- **Como a Universalidade se comporta no Tripé da Seguridade Social?**
+    
+    - **Na Saúde (Art. 196):** Universalidade **plena e incondicionada**. É para todos (universalidade de atendimento) cobrindo qualquer mal ou prevenção (universalidade de cobertura), independentemente de contribuição.
+        
+    - **Na Assistência Social (Art. 203):** Universalidade de atendimento **condicionada à necessidade**. Qualquer pessoa sob situação de vulnerabilidade/hipossuficiência pode ser atendida, sem necessidade de contribuição prévia.
+        
+    - **Na Previdência Social (Art. 201):** Universalidade de cobertura ampla, porém com atendimento **condicionado à contribuição e à filiação**. O sistema cobre diversos riscos, mas exige que a pessoa esteja filiada e contribuindo (ou em período de graça).
+        
+- **Tensões e Mitigações Práticas (Pontos de Atenção para a Prova):**
+    
+    - **Universalidade vs. Seletividade e Distribuatividade (Art. 194, II):** Como os recursos orçamentários do Estado são limitados (Reserva do Possível), o legislador utiliza o Princípio da Seletividade para escolher as contingências mais prioritárias e a Distribuatividade para direcionar mais apoio a quem tem menos renda (ex: Salário-Família e Auxílio-Reclusão são devidos apenas a segurados de baixa renda).
+        
+    - **O Caso do Segurado Especial (Agricultor Familiar):** Uma importante harmonização do sistema! Para que a exigência de contribuição financeira direta não excluísse os trabalhadores rurais de subsistência (o que violaria a universalidade do atendimento), a CRFB/88 permite que o segurado especial comprove apenas o exercício da atividade rural para ter acesso aos benefícios do RGPS, com custeio baseado sobre a comercialização da produção.
+        
+    - **Flexibilização Judicial nos Casos de Incapacidade:** Na concessão de Aposentadoria por Incapacidade Permanente ou Auxílio por Incapacidade Temporária, o Judiciário aplica a dimensão social e a universalidade para avaliar não só o laudo médico, mas o **contexto socioeconômico e cultural** do segurado (ex: um trabalhador braçal com baixa instrução que perde a mobilidade de uma mão tem uma incapacidade funcional muito maior do que um intelectual na mesma condição).
 ### 3. Limites: Reserva do Possível vs. Mínimo Existencial
 
 * **Reserva Orçamentária/Reserva do Possível:** O Estado alega que só pode concretizar direitos se houver dinheiro.
