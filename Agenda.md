@@ -35,3 +35,13 @@ Lista de afazeres
 - [[Plano de Estudos#6. Consolidação|Consolidação]]
 - [[Plano de Estudos#7. Simulado|Simulado]]
 - [[Plano de Estudos#8. Recursos|Recursos]]
+
+
+third person singular
+
+s in the end of the verb
+
+write what is wrong
+
+that and then
+
