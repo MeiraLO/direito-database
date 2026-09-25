@@ -5,7 +5,7 @@
 - [x] 18/09 - *TT1 de Processo Civil*
 - [x] 18/09 - **Prova de Processo civil (1)**
 - [ ] 22/09 - **Prova (1) Leo**
-- [ ] 22/09 - **Prova de Previdenciário**
+- [x] 22/09 - **Prova de Previdenciário**
 - [ ] 24/09 - **Prova de Civil (1)**
 - [ ] 28/09 - *Atividade prática Empresárial*
 - [ ] 06/10 - Fichamento Leo 3
@@ -35,3 +35,13 @@ Lista de afazeres
 - [[Plano de Estudos#6. Consolidação|Consolidação]]
 - [[Plano de Estudos#7. Simulado|Simulado]]
 - [[Plano de Estudos#8. Recursos|Recursos]]
+
+
+third person singular
+
+s in the end of the verb
+
+write what is wrong
+
+that and then
+
