@@ -496,5 +496,3 @@ Fundada na obrigação de dar dinheiro — coisa fungível por excelência —, 
 
 -----
 
-1. C
-2. 
