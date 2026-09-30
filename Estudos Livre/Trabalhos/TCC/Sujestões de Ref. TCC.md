@@ -141,9 +141,11 @@
 
 ---
 
-## Observações metodológicas
+## Observações metodológicas e adições
 
-1. **Sobre "Takes Vitalis"**: não foi possível identificar esse nome/obra com segurança em nenhuma busca. Pode ser um erro de grafia, tradução ou memória de algum autor mencionado em aula/leitura (por exemplo, poderia ser uma confusão com "Tristan Harris", "Vitalik" [Buterin, de outra área] ou algum autor menos indexado). Se você lembrar do contexto em que ouviu/leu esse nome, será mais fácil localizá-lo com precisão.
+1. Adicionar o Takis Vidalis "The emergence of biolaw"
 2. **Sobre o encadeamento sugerido no seu próprio sumário** (moralidade → pessoa → agência → mente → neurotecnologia → neurodireitos → novo Código Civil → limites éticos): a bibliografia acima já foi organizada exatamente nessa lógica argumentativa, evitando que o capítulo 1 vire uma "reunião de autores".
 3. **Atualidade do tema**: vale registrar no TCC que a **Recomendação da UNESCO sobre a Ética da Neurotecnologia** só foi adotada em novembro de 2025 — ou seja, é posterior à maior parte da literatura anterior sobre o tema e deve ser tratada como o "estado da arte" regulatório internacional mais recente, o que é, inclusive, um ótimo argumento de relevância/originalidade para a banca.
 4. Como o anteprojeto do novo Código Civil ainda é muito recente e pouco comentado em livro, boa parte da sua análise do capítulo 4 provavelmente terá que se apoiar em fontes primárias (o próprio texto do anteprojeto, pareceres de comissões, notícias jurídicas especializadas) mais do que em doutrina consolidada — o que é normal e esperado para um tema de fronteira como este.
+5. Adicionar referências ao grupo "Morningside" e ao Rafael Yuste
+6. Adicionar Referências ao Neil Levy
