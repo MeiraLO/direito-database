@@ -4,6 +4,7 @@
 - **REALE, Miguel. _Teoria Tridimensional do Direito_.** São Paulo: Saraiva. — Obra central para sustentar a tríade fato-valor-norma citada no seu sumário. Reale começou a desenvolvê-la em _Fundamentos do Direito_ (1940) e a consolidou como teoria em 1968.
 - **BITTAR, Eduardo C. B.; ALMEIDA, Guilherme Assis de. _Curso de Filosofia do Direito_.** São Paulo: Atlas. — Bom apoio para situar Reale dentro do debate mais amplo Direito/Moral (positivismo x jusnaturalismo x tridimensionalismo).
 - **SARLET, Ingo Wolfgang. _Dignidade da Pessoa Humana e Direitos Fundamentais na Constituição Federal de 1988_.** Porto Alegre: Livraria do Advogado. — Referência obrigatória em qualquer TCC brasileiro que trate de dignidade da pessoa humana como fundamento normativo.
+- **Neil Levy**. *Neuroethics challenges for the 21st century* - Compreensão do panorama moral
 
 ### 1.2 A pessoa humana como fundamento do Direito Civil
 
