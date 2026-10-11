@@ -25,7 +25,7 @@
 * aplicação do princípio à proteção da integridade física e mental;
 * contribuição de Gewirth para a Bioética e o Biodireito.
 
-> Aqui você cria a **ponte filosófico-moral** que depois permitirá perguntar: *se determinadas tecnologias podem interferir diretamente nas condições mentais que permitem ao indivíduo agir, escolher e reconhecer-se como sujeito, que tipo de proteção jurídica é moralmente necessária?*
+>  **ponte filosófico-moral** que depois permitirá perguntar: *se determinadas tecnologias podem interferir diretamente nas condições mentais que permitem ao indivíduo agir, escolher e reconhecer-se como sujeito, que tipo de proteção jurídica é moralmente necessária?*
 
 ---
 
@@ -100,7 +100,7 @@ Isso permite trabalhar autores internacionais de neuroética e neurodireitos sem
 
 **4.5 Os limites da positivação dos neurodireitos no Direito Civil**
 
-Aqui eu colocaria **especificamente o texto do novo Código Civil que você estiver analisando**, dispositivo por dispositivo. Isso evita que o capítulo fique abstrato.
+**Especificamente o texto do novo Código Civil que você estiver analisando**, dispositivo por dispositivo. Isso evita que o capítulo fique abstrato.
 
 Você pode perguntar:
 
@@ -157,19 +157,12 @@ Aqui eu faria a **síntese crítica do TCC**, em vez de simplesmente terminar de
 
 ### Eu faria uma mudança importante na sua ideia original
 
-Eu **não colocaria Miguel Reale, Gewirth, neurodireitos, Bioética e os autores internacionais todos no mesmo capítulo teórico**. Isso deixaria o trabalho com aparência de uma reunião de autores.
 
-A lógica poderia ser esta:
+A lógica é:
 
 **Moralidade → pessoa → agência → mente → neurotecnologia → neurodireitos → novo Código Civil → limites éticos da proteção.**
 
 Ou seja:
-
-> **Reale** ajuda a discutir a relação entre fato, valor e norma.
-> **Gewirth** fornece um fundamento ético centrado na agência, liberdade e bem-estar.
-> **Bioética** fornece os princípios para lidar com a intervenção tecnológica sobre o ser humano.
-> **Neuroética/neurodireitos** mostram por que as tecnologias cerebrais exigem novas respostas jurídicas.
-> **Direito Civil** responde à questão de como essa proteção deve ser incorporada juridicamente.
 
 Isso dá ao TCC uma **linha argumentativa**, em vez de cinco revisões bibliográficas independentes.
 
