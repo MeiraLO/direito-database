@@ -2,7 +2,7 @@
 ### 1.1 Direito, moralidade e proteção da pessoa humana
 
 - **REALE, Miguel. _Teoria Tridimensional do Direito_.** São Paulo: Saraiva. — Obra central para sustentar a tríade fato-valor-norma citada no seu sumário. Reale começou a desenvolvê-la em _Fundamentos do Direito_ (1940) e a consolidou como teoria em 1968.
-- **BITTAR, Eduardo C. B.; ALMEIDA, Guilherme Assis de. _Curso de Filosofia do Direito_.** São Paulo: Atlas. — Bom apoio para situar Reale dentro do debate mais amplo Direito/Moral (positivismo x jusnaturalismo x tridimensionalismo).
+- **Yuste, R., Goering, S., Arcas, B. et al.** *Four ethical priorities for neurotechnologies and AI*. Nature 551, 159–163 (2017). [https://doi.org/10.1038/551159a](https://doi.org/10.1038/551159a)
 - **SARLET, Ingo Wolfgang. _Dignidade da Pessoa Humana e Direitos Fundamentais na Constituição Federal de 1988_.** Porto Alegre: Livraria do Advogado. — Referência obrigatória em qualquer TCC brasileiro que trate de dignidade da pessoa humana como fundamento normativo.
 - **Neil Levy**. *Neuroethics challenges for the 21st century* - Compreensão do panorama moral
 
@@ -16,7 +16,7 @@
 - **BITTAR, Carlos Alberto. _Os Direitos da Personalidade_.** Rio de Janeiro: Forense Universitária. — Obra clássica brasileira sobre o tema, ainda citada como base doutrinária.
 - **GARCIA, Enéas Costa. _Direito Geral da Personalidade no Sistema Jurídico Brasileiro_.** São Paulo: Juarez de Oliveira. — Discute diretamente a questão que seu capítulo 4.4 levanta: cláusula geral de personalidade vs. rol de direitos específicos.
 
-### 1.3 A fundamentação ética dos direitos humanos e o Princípio da Consistência Genérica (Gewirth)
+### 1.3 A fundamentação ética dos direitos humanos → neurodireitos
 
 - **GEWIRTH, Alan. _Reason and Morality_.** Chicago: University of Chicago Press, 1978. — A obra original em que Gewirth formula o Princípio da Consistência Genérica (PGC), a partir da ideia de que todo agente, para agir com propósito, precisa reivindicar liberdade e bem-estar como bens genéricos — é a fonte primária indispensável do seu capítulo 1.3.
 - **GEWIRTH, Alan. _Human Rights: Essays on Justification and Applications_.** Chicago: University of Chicago Press, 1982. — Aplicações do PGC a direitos humanos específicos.
