@@ -15,6 +15,7 @@ Principais exemplos:
     - Problema: o que a comparação entre Synchron e o EEG de caminhoneiros revela sobre o que o direito deve proteger ao proteger a agência?
     - Hipótese: uma mesma tecnologia pode ampliar ou restringir a agência, então a proteção deve se ancorar na agência.
     - Metodologia: pesquisa bibliográfica e documental, com dois casos como ponto de partida e comparação normativa.
+    - For all neural data, the ability to opt out of sharing should be the default choice, and assiduously protected. People readily give up their privacy rights to commercial providers of services, such as Internet browsing, social media or entertainment, without fully understanding what they are surrendering. A default of opting out would mean that neural data are treated in the same way that organs or tissues are in most countries. Individuals would need to explicitly opt in to share neural data from any device. This would involve a safe and secure process, including a consent procedure that clearly specifies who will use the data, for what purposes and for how long.
 2. **Caso 1: Synchron (0,8).** O conceito de agência surge do próprio caso.
     - Descrição curta: o implante capta a intenção motora e a converte em comando digital.
     - Pergunta que o caso levanta: entre a intenção e o ato há um decodificador, então de quem é a ação decodificada?
