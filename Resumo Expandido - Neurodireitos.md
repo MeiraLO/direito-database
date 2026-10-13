@@ -11,7 +11,7 @@ Principais exemplos:
 
 **Desenvolvimento (cerca de 2,4 páginas)**
 
-1. **Apresentação do estudo (0,3).** O modelo exige aqui problema, hipótese, objetivo, metodologia e justificativa.
+1. **Apresentação do estudo (0,3).** O modelo exige hipótese, objetivo, metodologia e justificativa.
     - Problema: o que a comparação entre Synchron e o EEG de caminhoneiros revela sobre o que o direito deve proteger ao proteger a agência?
     - Hipótese: uma mesma tecnologia pode ampliar ou restringir a agência, então a proteção deve se ancorar na agência.
     - Metodologia: pesquisa bibliográfica e documental, com dois casos como ponto de partida e comparação normativa.
