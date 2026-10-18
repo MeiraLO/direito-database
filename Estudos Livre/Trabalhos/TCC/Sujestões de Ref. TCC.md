@@ -1,30 +1,36 @@
 
 ### 1.1 Direito, moralidade e proteção da pessoa humana
 
-- **REALE, Miguel. _Teoria Tridimensional do Direito_.** São Paulo: Saraiva. — Obra central para sustentar a tríade fato-valor-norma citada no seu sumário. Reale começou a desenvolvê-la em _Fundamentos do Direito_ (1940) e a consolidou como teoria em 1968.
+- ==🟡**REALE, Miguel. _Teoria Tridimensional do Direito_.** São Paulo: Saraiva. --- possível==
 - **Yuste, R., Goering, S., Arcas, B. et al.** *Four ethical priorities for neurotechnologies and AI*. Nature 551, 159–163 (2017). [https://doi.org/10.1038/551159a](https://doi.org/10.1038/551159a)
-- **SARLET, Ingo Wolfgang. _Dignidade da Pessoa Humana e Direitos Fundamentais na Constituição Federal de 1988_.** Porto Alegre: Livraria do Advogado. — Referência obrigatória em qualquer TCC brasileiro que trate de dignidade da pessoa humana como fundamento normativo.
+- ==🟢**SARLET, Ingo Wolfgang. _Dignidade da Pessoa Humana e Direitos Fundamentais na Constituição Federal de 1988_.** Porto Alegre: Livraria do Advogado.==
 - **Neil Levy**. *Neuroethics challenges for the 21st century* - Compreensão do panorama moral
+- ==🟢**GEWIRTH, Alan. _Reason and Morality_.** Chicago: University of Chicago Press, 1978==
 
+
+>[!info] Fundamentação básica: Pessoa humana = digna de especial proteção
 ### 1.2 A pessoa humana como fundamento do Direito Civil
 
-- **TEPEDINO, Gustavo. _Temas de Direito Civil_.** Rio de Janeiro: Renovar. — Um dos textos fundadores da "constitucionalização do Direito Civil" no Brasil; Tepedino e Maria Celina Bodin de Moraes trouxeram ao Brasil, a partir de estudos com Pietro Perlingieri na Itália, a leitura civil-constitucional que supera a concepção patrimonialista clássica.
-- **MORAES, Maria Celina Bodin de. _Danos à Pessoa Humana: uma leitura civil-constitucional dos danos morais_.** Rio de Janeiro: Renovar. — Desenvolve a cláusula geral de tutela da pessoa humana e os quatro postulados da dignidade (igualdade, integridade psicofísica, liberdade, solidariedade) — muito aproveitável no capítulo 1.2 e depois no 5.
-- **MORAES, Maria Celina Bodin de. _Na Medida da Pessoa Humana: estudos de direito civil-constitucional_.** Rio de Janeiro: Processo, 2019.
-- **PERLINGIERI, Pietro. _Perfis do Direito Civil: Introdução ao Direito Civil Constitucional_.** Rio de Janeiro: Renovar. — Matriz italiana da constitucionalização do Direito Civil brasileiro; essencial para sustentar teoricamente a "superação da concepção patrimonialista".
-- **SCHREIBER, Anderson. _Direitos da Personalidade_.** São Paulo: Atlas. — Obra brasileira de referência (Prêmio Melhor Livro Jurídico – Feira do Livro de Porto Alegre, 2011) que discute justamente a expansão dos direitos da personalidade diante de novas tecnologias — conecta muito bem com os capítulos 2, 3 e 4.
-- **BITTAR, Carlos Alberto. _Os Direitos da Personalidade_.** Rio de Janeiro: Forense Universitária. — Obra clássica brasileira sobre o tema, ainda citada como base doutrinária.
-- **GARCIA, Enéas Costa. _Direito Geral da Personalidade no Sistema Jurídico Brasileiro_.** São Paulo: Juarez de Oliveira. — Discute diretamente a questão que seu capítulo 4.4 levanta: cláusula geral de personalidade vs. rol de direitos específicos.
+- **TEPEDINO, Gustavo. _Temas de Direito Civil_.** Rio de Janeiro: Renovar. 
+- ==🟠**MORAES, Maria Celina Bodin de. _Danos à Pessoa Humana: uma leitura civil-constitucional dos danos morais_.** Rio de Janeiro: Renovar. --- Verificar, incerto aplicabilidade==
+- ==🟠**MORAES, Maria Celina Bodin de. _Na Medida da Pessoa Humana: estudos de direito civil-constitucional_.** Rio de Janeiro: Processo, 2019.== -- possível substituto para o anterior caso inaplicavél
+- ==🔴**PERLINGIERI, Pietro. _Perfis do Direito Civil: Introdução ao Direito Civil Constitucional_.** Rio de Janeiro: Renovar. — Matriz italiana da constitucionalização do Direito Civil brasileiro; essencial para sustentar teoricamente a "superação da concepção patrimonialista". --- recomendação da IA, incerteza absoluta (não lido)==
+- ==🟡**SCHREIBER, Anderson. _Direitos da Personalidade_.** São Paulo: Atlas. ---aplicavél apenas se eu entrar na aba da personalidade. provavelmente não== 
+- ==🟡**BITTAR, Carlos Alberto. _Os Direitos da Personalidade_.** Rio de Janeiro: Forense Universitária. --- substituto do anterior, mesma informação==
+- **GARCIA, Enéas Costa. _Direito Geral da Personalidade no Sistema Jurídico Brasileiro_.** São Paulo: Juarez de Oliveira. --- puramente para utilizar no capítulo 4.4
+
+>[!info] Nenhuma dessas referências é importante, a realidade é que qualquer uma serve e nenhuma serve. Utilidade limitada à um capítulo extremamente chato e protocolar.
 
 ### 1.3 A fundamentação ética dos direitos humanos → neurodireitos
 
-- **GEWIRTH, Alan. _Reason and Morality_.** Chicago: University of Chicago Press, 1978. — A obra original em que Gewirth formula o Princípio da Consistência Genérica (PGC), a partir da ideia de que todo agente, para agir com propósito, precisa reivindicar liberdade e bem-estar como bens genéricos — é a fonte primária indispensável do seu capítulo 1.3.
-- **GEWIRTH, Alan. _Human Rights: Essays on Justification and Applications_.** Chicago: University of Chicago Press, 1982. — Aplicações do PGC a direitos humanos específicos.
-- **GEWIRTH, Alan. _Self-Fulfillment_.** Princeton: Princeton University Press, 1998. — Última obra de Gewirth, útil se quiser discutir autorrealização e integridade da agência (conecta com liberdade cognitiva no capítulo 2).
-- **BEYLEVELD, Deryck. _The Dialectical Necessity of Morality: An Analysis and Defense of Alan Gewirth's Argument to the Principle of Generic Consistency_.** Chicago: University of Chicago Press, 1991. — A principal defesa sistemática e reconstrução lógica do argumento de Gewirth; muito citada quando se quer mostrar que o PGC resiste às críticas.
-- **BEYLEVELD, Deryck; BROWNSWORD, Roger. _Human Dignity in Bioethics and Biolaw_.** Oxford: Oxford University Press, 2001. — É o texto que você já havia localizado (nota [2] do seu documento); conecta diretamente Gewirth/PGC à Bioética e ao Biodireito, funcionando como ponte perfeita para o capítulo 2.
-- **STEINER, Hillel; DENEEN, Patrick J. (orgs.). _Gewirth's Ethical Rationalism: Critical Essays with a Reply by Alan Gewirth_.** Chicago: University of Chicago Press, 1984. — Coletânea de críticas e respostas, útil para uma seção sobre limites/controvérsias do PGC.
+- ==🔵**GEWIRTH, Alan. _Reason and Morality_.** Chicago: University of Chicago Press, 1978. --- Preferência pessoal para moral e ética==
+- ==🟢**GEWIRTH, Alan. _Human Rights: Essays on Justification and Applications_.** Chicago: University of Chicago Press, 1982. --- Aplicações do PGC a direitos humanos específicos. --- ainda não li, mas li os ==
+- ==🟢**GEWIRTH, Alan. _Self-Fulfillment_.** Princeton: Princeton University Press, 1998. ---  útil para discutir autorrealização e integridade da agência (liberdade cognitiva no capítulo 2).==
+- ==🟠**BEYLEVELD, Deryck. _The Dialectical Necessity of Morality: An Analysis and Defense of Alan Gewirth's Argument to the Principle of Generic Consistency_.** Chicago: University of Chicago Press, 1991. --- útil apenas para caso não consiga fazer a ponte Gewirth → direito==
+- ==🔵**BEYLEVELD, Deryck; BROWNSWORD, Roger. _Human Dignity in Bioethics and Biolaw_.** Oxford: Oxford University Press, 2001. --- outra preferência pessoal.==
 
+>[!info] Ainda não tive tempo de buscar uma referência diferente para esta parte, então ficou apenas as que eu já tinha. Planejo adicionar referências a mais.
+ 
 ---
 
 ## 2. Neurotecnologias, Bioética e o surgimento dos neurodireitos
