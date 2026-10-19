@@ -1,3 +1,4 @@
+- Temp. médio de leitura: 4~ min.
 # **INTRODUÇÃO**
 
 **1. A MORALIDADE E A PROTEÇÃO DA PESSOA NO DIREITO CIVIL CONTEMPORÂNEO**
@@ -16,8 +17,9 @@
 * constitucionalização do Direito Civil;
 * personalidade, autonomia, liberdade e integridade;
 * proteção dos direitos da personalidade diante das transformações tecnológicas.
+* BLABLABLA PROTOCOLAR
 
-**1.3 A fundamentação ética dos direitos humanos e o Princípio da Consistência Genérica**
+**1.3 A fundamentação ética dos direitos humanos  (O principal lastro para mim é o Princípio da Consistência Genérica, mas a ideia é aumentar um pouco esta parte)**
 
 * Alan Gewirth e a agência humana;
 * liberdade e bem-estar como condições genéricas da ação;
@@ -25,7 +27,7 @@
 * aplicação do princípio à proteção da integridade física e mental;
 * contribuição de Gewirth para a Bioética e o Biodireito.
 
->  **ponte filosófico-moral** que depois permitirá perguntar: *se determinadas tecnologias podem interferir diretamente nas condições mentais que permitem ao indivíduo agir, escolher e reconhecer-se como sujeito, que tipo de proteção jurídica é moralmente necessária?*
+>[!info]  Serve **ponte filosófico-moral** que depois permitirá perguntar: *se determinadas tecnologias podem interferir diretamente nas condições mentais que permitem ao indivíduo agir, escolher e reconhecer-se como sujeito, que tipo de proteção jurídica é moralmente necessária?*
 
 ---
 
@@ -38,6 +40,7 @@
 * neuroimagem;
 * inteligência artificial aplicada às neurotecnologias;
 * possibilidades terapêuticas e não terapêuticas.
+* BLABLABLA protocolar
 
 **2.2 A Bioética diante da intervenção tecnológica sobre o cérebro humano**
 
@@ -50,14 +53,13 @@
 
 **2.3 O conceito de neurodireitos**
 
-* surgimento da discussão internacional;
+* discussão internacional;
 * neurodireitos como resposta jurídica às novas possibilidades de intervenção cerebral;
 * diferença entre neurodireitos e direitos da personalidade tradicionalmente reconhecidos;
 * necessidade ou não de uma categoria jurídica autônoma.
 
 **2.4 As principais dimensões dos neurodireitos**
-Aqui você pode trabalhar os direitos mais recorrentes na literatura:
-
+>Principais discussões
 * privacidade mental;
 * integridade mental;
 * liberdade cognitiva;
@@ -66,6 +68,8 @@ Aqui você pode trabalhar os direitos mais recorrentes na literatura:
 * proteção contra manipulação e alteração indevida da atividade cerebral;
 * não discriminação baseada em dados ou características neurais.
 
+>[!info] Ainda não tenho certeza do escopo
+ 
 ---
 
 # **3. NEURODIREITOS E A PRESERVAÇÃO DA IDENTIDADE HUMANA**
@@ -80,36 +84,24 @@ Aqui você pode trabalhar os direitos mais recorrentes na literatura:
 
 **3.5 Neurodireitos e a preservação da identidade humana diante da tecnologia**
 
-Esse capítulo pode ser **o coração conceitual do trabalho**. A questão deixa de ser simplesmente "quais são os neurodireitos?" e passa a ser:
+>[!info] Capitulo central: Maior parte da trama está aqui
 
-> **o que está em jogo quando uma tecnologia deixa de apenas interferir no corpo e passa a acessar, registrar, prever, modificar ou influenciar processos mentais relacionados à identidade e à autodeterminação?**
-
-Isso permite trabalhar autores internacionais de neuroética e neurodireitos sem transformar o TCC em um simples catálogo de direitos.
 
 ---
 
-# **4. A INCORPORAÇÃO DOS NEURODIREITOS AO NOVO CÓDIGO CIVIL BRASILEIRO**
+# **4. A INCORPORAÇÃO DOS NEURODIREITOS AO ORDENAMENTO**
 
 **4.1 O novo Código Civil e a ampliação da proteção dos direitos da personalidade**
 
 **4.2 A abrangência da proteção jurídica da pessoa diante das novas tecnologias**
 
-**4.3 A proteção da dimensão neurocognitiva da personalidade**
+**4.3 A proteção da dimensão neurocognitiva da personalidade** *-- Este subcapitulo é interessante para mim. A ideia é diferenciar o conceito de matéria e de compreenção de matéria. O professor italiano falou algo sobre isso: "Nosso corpo difere daquilo que entendemos sobre nosso cordo"; Mandar email*
 
-**4.4 Neurodireitos e os direitos da personalidade: complementaridade ou nova categoria jurídica?**
+**4.4 Neurodireitos e os direitos da personalidade (distinção)**
 
 **4.5 Os limites da positivação dos neurodireitos no Direito Civil**
 
-**Especificamente o texto do novo Código Civil que você estiver analisando**, dispositivo por dispositivo. Isso evita que o capítulo fique abstrato.
-
-Você pode perguntar:
-
-* Que direitos já estão protegidos pelo sistema atual?
-* O que o novo Código Civil acrescenta?
-* A proteção é expressa ou pode ser extraída de direitos já existentes?
-* Quais dimensões dos neurodireitos permanecem sem proteção suficiente?
-* A legislação protege apenas os dados neurais ou também a **mente enquanto espaço de autodeterminação**?
-* A proteção alcança manipulação, predição, alteração de comportamento e formação da vontade?
+>[!info] A ideia aqui é verificar a possibilidade de regular o assunto, é completamente protocolar e chato. A principal função é fazer uma ponte com o capítulo seguinte
 
 ---
 
@@ -129,11 +121,12 @@ Você pode perguntar:
 
 **5.7 A necessidade de proteção jurídica diante da assimetria entre indivíduo, Estado e agentes tecnológicos**
 
+>[!info] É para mim o segundo cap mais interessante
+
 ---
 
 # **6. NEURODIREITOS COMO EXIGÊNCIA ÉTICO-JURÍDICA DE PROTEÇÃO DA PESSOA**
 
-Aqui eu faria a **síntese crítica do TCC**, em vez de simplesmente terminar depois de descrever o novo Código.
 
 **6.1 A insuficiência de uma proteção exclusivamente patrimonial ou informacional**
 
@@ -146,6 +139,9 @@ Aqui eu faria a **síntese crítica do TCC**, em vez de simplesmente terminar de
 **6.5 Os desafios da regulamentação civil das neurotecnologias**
 
 **6.6 A proteção da pessoa humana diante da possibilidade de alteração de sua esfera mental**
+
+>[!info] A ideia aqui é fazer uma síntese, não exatamente uma conclusão, mas algo similar
+
 
 ---
 
@@ -162,21 +158,13 @@ A lógica é:
 
 **Moralidade → pessoa → agência → mente → neurotecnologia → neurodireitos → novo Código Civil → limites éticos da proteção.**
 
-Ou seja:
 
-Isso dá ao TCC uma **linha argumentativa**, em vez de cinco revisões bibliográficas independentes.
 
-### E a sua pergunta central poderia ficar muito boa assim:
+### Pergunta central (ou ideia dela):
 
-> **Em que medida a incorporação dos neurodireitos ao novo Código Civil brasileiro é eticamente necessária para assegurar a autonomia, a integridade mental e a preservação da identidade humana diante do avanço das neurotecnologias?**
+> Qual a necessidade de incorporar os neurodireitos ao ordenamento brasileiro? E qual é a necessidade ética para assegurar a autonomia, a integridade mental e a preservação da identidade humana diante do avanço das neurotecnologias?
 
 E uma hipótese possível:
 
-> **A incorporação dos neurodireitos ao Direito Civil mostra-se eticamente necessária na medida em que as neurotecnologias ampliam a possibilidade de acesso, monitoramento, previsão e intervenção sobre processos mentais essenciais à autonomia e à identidade pessoal, exigindo uma proteção jurídica que ultrapasse a tutela tradicional da privacidade e dos dados pessoais e alcance as condições fundamentais do exercício da agência humana.**
+> Se a incorporação dos neurodireitos ao ordenamento é eticamente necessária, na medida em que as neurotecnologias ampliam a possibilidade de acesso, monitoramento, previsão e intervenção sobre processos mentais essenciais à autonomia e à identidade pessoal, exige-se uma proteção jurídica que ultrapasse a tutela tradicional da privacidade e dos dados pessoais e alcance as condições fundamentais do exercício da agência humana.
 
-Isso conversa **diretamente com Gewirth**: o PGC toma como referência os direitos necessários às condições da agência, e a literatura sobre sua aplicação em bioética e biodireito já explora justamente essa relação entre direitos, dignidade e condições necessárias para agir. ([OUP Academic][2])
-
-**Obs.:** o nome internacional que você escreveu como “Takes Vitalis” eu não consegui identificar com segurança. Se você me passar **o nome correto ou a obra**, consigo encaixá-lo exatamente no capítulo adequado — e também posso montar uma **bibliografia-base do TCC, separando autores brasileiros, autores internacionais, neuroética, neurodireitos, Bioética e Direito Civil**, sem inventar referências.
-
-[1]: https://link.springer.com/article/10.1007/s12142-011-0210-2?utm_source=chatgpt.com "The Principle of Generic Consistency as the Supreme Principle of Human Rights | Human Rights Review | Springer Nature Link"
-[2]: https://academic.oup.com/book/37240/chapter-abstract/329835085?utm_source=chatgpt.com "The Principle of Generic Consistency and its Justification | Human Dignity in Bioethics and Biolaw | Oxford Academic"
