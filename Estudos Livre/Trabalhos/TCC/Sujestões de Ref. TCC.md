@@ -205,8 +205,6 @@ Que condições C tornam necessário assegurar autonomia, integridade mental e i
 
 Em palavras: se a incorporação é eticamente necessária e as neurotecnologias podem acessar, monitorar, prever ou intervir sobre processos mentais, então o direito deve oferecer uma proteção que vá além da privacidade e dos dados pessoais e alcance as condições da agência.
 
-A expressão "na medida em que" do seu enunciado sugere uma relação gradual: quanto maior a capacidade k, mais extensa a proteção exigida. Isso pode ser acrescentado como uma condição de monotonicidade, se for útil.
-
 ## 6. Explicação do raciocínio
 
 **Dois níveis de necessidade.** O PGC é dialeticamente necessário (□ᴰ), mas sua demanda institucional é contingente aos fatos. Num mundo sem neurotecnologia, ◇Am seria falso e a exigência de proteção específica não surgiria. A incorporação dos neurodireitos é, portanto, necessária relativamente a um mundo tecnológico, como sugere Brownsword ao tratar da revolução tecnológica e da regulação.
