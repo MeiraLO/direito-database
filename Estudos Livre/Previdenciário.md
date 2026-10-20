@@ -158,6 +158,77 @@ Apesar de ser autônomo, o Direito Previdenciário dialoga com:
 
 * **Direito Penal:** Crimes como sonegação e apropriação indébita previdenciária.
 
+
+
+## Módulo 6: Arquitetura Institucional e Gestão Operacional da Seguridade Social
+
+### 1. Evolução Histórica da Arquitetura do INSS (Lei nº 8.029/1990) 🏛️
+
+- **O Cenário Pré-1990**: A administração previdenciária era cindida entre dois órgãos:
+    
+    - **IAPAS**: Responsável pela arrecadação, fiscalização e gestão do caixa.
+        
+    - **INPS**: Responsável pelo atendimento direto, concessão e pagamento de benefícios.
+        
+- **Problemas da Fragmentação**: Gerava duplicidade de estruturas, custos elevados, ineficiência e falhas de comunicação entre arrecadação e pagamento.
+    
+- **A Unificação de 1990**: A Lei nº 8.029/1990 promoveu a fusão do IAPAS e do INPS, criando o **Instituto Nacional do Seguro Social (INSS)**.
+    
+- **Natureza Jurídica do INSS**: Autarquia federal com personalidade jurídica de direito público, autonomia administrativa e financeira, vinculada ao Ministério da Previdência Social, com sede no Distrito Federal.
+    
+
+### 2. Separação entre Custeio e Benefícios (Super Receita - Lei nº 11.457/2007) ⚖️
+
+Em 2007, ocorreu uma reestruturação fundamental na gestão financeira do sistema:
+
+- **Arrecadação e Fiscalização de Custeio**: Transferidas do INSS para a **Receita Federal do Brasil (RFB)**.
+    
+- **Cobrança Judicial e Dívida Ativa do Custeio**: Atribuição da **Procuradoria-Geral da Fazenda Nacional (PGFN)**.
+    
+- **Concessão e Manutenção de Benefícios**: Permanece sob competência exclusiva do **INSS**, com representação judicial feita pela **Procuradoria Federal Especializada (PFE-INSS)**.
+    
+
+### 3. Gestão Delegada e Centralização Operacional 📑
+
+- **Assistência Social (BPC/LOAS - Lei nº 8.742/1993)**:
+    
+    - O Benefício de Prestação Continuada (BPC) tem natureza assistencial e **não contributiva**, financiado pelo Fundo Nacional de Assistência Social (FNAS/MDS).
+        
+    - O INSS atua por **gestão delegada**: recebe os requerimentos, realiza a avaliação social e a perícia médica, e operacionaliza o pagamento.
+        
+- **Centralização do RPPS Federal (Decreto nº 10.620/2021)**:
+    
+    - Transfere progressivamente a gestão das aposentadorias e pensões das autarquias e fundações federais para o INSS.
+        
+    - **Atenção para a Prova**: Trata-se de uma centralização **estritamente operacional**. Não há fusão entre RGPS e RPPS; as regras normativas, os fundos e as fontes de custeio continuam totalmente distintos. Entendimento validado pelo TRF-5 (ApCiv 0801183-79.2021.4.05.8400).
+        
+
+### 4. Contencioso Administrativo Previdenciário (CRPS) 🧑‍⚖️
+
+- **Conselho de Recursos da Previdência Social (CRPS)**: Órgão colegiado, **tripartite e paritário** (composto por representantes do Governo, das Empresas e dos Trabalhadores), vinculado ao Ministério da Previdência.
+    
+- **Garantia Constitucional**: Assegura o contraditório e a ampla defesa no âmbito administrativo, reduzindo a necessidade de judicialização.
+    
+- **Fluxo Recursal do CRPS**:
+    
+    1. **1ª Instância**: Juntas de Recursos (JR).
+        
+    2. **2ª Instância**: Câmaras de Julgamento (CAJ).
+        
+    3. **Uniformização Jurisprudencial**: Conselho Pleno.
+        
+- **Processo Administrativo Fiscal/Custeio**: Questões relativas a tributos e contribuições são julgadas no âmbito do Ministério da Fazenda (DRJ → CARF → CSRF).
+    
+
+### 5. Regimes Próprios (RPPS) e a Compensação Financeira (COMPREV) 🔄
+
+- **Regras Gerais dos RPPS (Lei nº 9.717/1998)**: Exige equilíbrio financeiro e atuarial, além de unidade gestora única para os servidores efetivos.
+    
+- **COMPREV (Lei nº 9.796/1999 e Art. 201, § 9º, CF)**:
+    
+    - Mecanismo de acerto financeiro entre o RGPS e os RPPS (ou entre diferentes RPPS) nos casos de **contagem recíproca de tempo de contribuição**.
+        
+    - _Exemplo_: Um trabalhador que contribuiu por 10 anos ao RGPS e depois se tornou servidor público no RPPS leva esse tempo de contribuição. O RPPS concederá a aposentadoria (regime instituidor), mas receberá repasses mensais de compensação financeira do RGPS (regime de origem).
 ## ✅ CHECKLIST RÁPIDO PARA A PROVA (Baseado no Estudo Dirigido)
 
 Antes da prova, garanta que você sabe explicar em voz alta:
