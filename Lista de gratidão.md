@@ -1,2 +1,5 @@
 - Ozzy
+- você 
+- ao meu estágio 
+- à faculdade e estar me formando
 - 
