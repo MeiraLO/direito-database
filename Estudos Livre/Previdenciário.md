@@ -1,4 +1,3 @@
-
 ## MÓDULO 1: Evolução Histórica e Teoria da Proteção Social
 
 *(Ref. "2. Proteção e Seguridade Social.pdf" e "3. Definição e Objeto do Direito Previdenciário.pdf")*
@@ -119,6 +118,8 @@ Trata-se do vetor de **máxima inclusão social** da Seguridade Social. Ele dete
 *(Ref. "5. Princípios da Previdência Social.pdf" e Estudo Dirigido)*
 
 * **Diversidade da base de financiamento (Art. 195, CRFB):** O sistema é financiado de forma direta (contribuições) e indireta (orçamentos públicos). Evita a dependência exclusiva da folha de pagamento.
+
+- **Refutação da Tese da "Taxa de Serviço"**: Fica claro, portanto, que a obrigação de contribuir não se vincula à existência de empregados. As contribuições sobre o faturamento (COFINS) e o lucro (CSLL) não têm como fato gerador a relação de emprego, mas a própria atividade econômica da empresa. Elas não são uma "taxa" por um serviço prestado ao empregador, mas contribuições sociais que materializam o dever de solidariedade de todos os atores econômicos para com a manutenção da Seguridade Social, da qual se beneficiam indiretamente por meio de um mercado consumidor mais estável e uma sociedade com maior coesão social.
 
 * **Novas fontes de custeio (Art. 195, § 4º):** Só podem ser criadas mediante **Lei Complementar**.
 
