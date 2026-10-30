@@ -1,5 +1,5 @@
-- Ozzy
+- ao Ozzy
 - você 
 - ao meu estágio 
 - à faculdade e estar me formando
-- 
+- a capacidade de viajar todo final de ano
