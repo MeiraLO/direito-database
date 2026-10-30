@@ -6,4 +6,4 @@
 - ao meu professor e ao dbclin
 - a cafeteria d'ferenza exista
 - por estar aqui
-- 
+- ao meu celular
