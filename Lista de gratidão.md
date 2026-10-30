@@ -3,3 +3,7 @@
 - ao meu estágio 
 - à faculdade e estar me formando
 - a capacidade de viajar todo final de ano
+- ao meu professor e ao dbclin
+- a cafeteria d'ferenza exista
+- por estar aqui
+- 
