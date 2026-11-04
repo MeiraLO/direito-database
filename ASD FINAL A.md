@@ -233,6 +233,10 @@ Nas hipóteses dos incisos II e III, o §3º considera realizada a intimação s
 
 ### PARTE IV: Microcasos
 
+M1: Em ação de cobrança, sentença transitada em julgado reconhece dívida de R$ 18.000,00. O credor pede o cumprimento, junta planilha que traz apenas o valor global sem índice, juros ou termo inicial. O devedor possui advogado constituído nos autos. Analise o requerimento, a necessidade de complementação do demonstrativo e a via ordinária de intimação; não calcule multa. (máximo 1.500 caracteres)
+
+M2: Após trânsito em julgado, credora deixa de requerer cumprimento. Um servidor afirma que o juízo deve iniciar de ofício a fase, intimando devedor sem provocação. Em outra hipótese, há requerimento regular, intimação válida e pagamento integral dentro do prazo. Examine as duas situações e seus efeitos, sem tratar de penhora ou impugnação. (máximo 1.500 caracteres)
+
 #### M1: Planilha só com valor global
 
 **Raciocínio em passos:**
