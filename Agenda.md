@@ -7,8 +7,8 @@
 - [x] 22/09 - **Prova (1) Leo**
 - [x] 22/09 - **Prova de Previdenciário**
 - [x] 24/09 - **Prova de Civil (1)**
-- [ ] 28/09 - *Atividade prática Empresárial*
-- [ ] 06/10 - Fichamento Leo 3
+- [x] 28/09 - *Atividade prática Empresárial*
+- [x] 06/10 - Fichamento Leo 3
 - [ ] 02/11 - **Prova Deontologia (2)**
 - [ ] 03/11 - Fichamento Leo 4
 - [ ] 06/11 - *TT2 de Processo Civil*
