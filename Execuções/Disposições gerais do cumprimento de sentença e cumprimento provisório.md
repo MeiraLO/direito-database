@@ -75,7 +75,9 @@ O **cumprimento provisório** (arts. 520–522) é a execução de decisão aind
 | **Ampliativa** | Qualquer cumprimento, provisório ou definitivo, depende de requerimento, por contraditório, cooperação e responsabilidade do exequente. | Bueno; Paulo Cezar Pinheiro Carneiro |
 
 > [!important] O quadro do professor [Slide 27]
-> Requerimento? **Sim** para quantia provisória, quantia definitiva, alimentos e Fazenda Pública. **Não** para dar coisa e para fazer/não fazer.
+> Requerimento?
+> **Sim** para quantia provisória, quantia definitiva, alimentos e Fazenda Pública.
+> **Não** para dar coisa e para fazer/não fazer.
 > O slide segue, portanto, a corrente **restritiva** para o **definitivo**.
 
 **Ponto pacífico:** o *cumprimento provisório* de *qualquer* obrigação depende *sempre* de requerimento (art. 520, I) (Câmara; Theodoro) [MP p. 58].
