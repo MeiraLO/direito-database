@@ -9,7 +9,6 @@ tags: [ProcessoCivil, CPCIII, CumprimentoDeSentença, art523, Prova2]
 mapa: "[[Mapa - Cumprimento de sentença por quantia certa.canvas]]"
 ---
 
-# Cumprimento de sentença por quantia certa — fluxo do art. 523
 
 > [!info] Legenda das fontes
 > - **[MP p. X]** — material do professor (`2026-enviar-cs.pdf`), pp. 28–55
@@ -92,41 +91,72 @@ O credor não precisa juntar um memorial completo de cálculos, mas **precisa mo
 > VI – descontos obrigatórios
 > VII – bens penhoráveis, **sempre que possível** (mera faculdade) [MP p. 33]
 
-**Parágrafos do art. 524:**
+**Excesso executivo; Parágrafos do art. 524:**
 - **§1º — excesso aparente:** a execução começa pelo valor pedido, mas a **penhora** se baseia no valor que o juiz entender adequado. Só vale para erro perceptível *prima facie* [MP p. 35].
   - **§2º:** o juiz pode usar o contabilista do juízo para verificar os cálculos, que tem até **30 dias** de prazo.
   - **Crítica de Neves:** a solução gera agravo de instrumento contra a decisão sobre o valor e, depois, outro recurso contra a decisão da defesa [MP p. 35].
 - **§§3º–5º — dados em poder de terceiros ou do executado:** requisição sob pena de desobediência, com prazo de até **30 dias**. Se não houver entrega injustificada, os cálculos do credor se reputam corretos. É **presunção relativa**, que pode ser afastada na impugnação [MP p. 34–35].
+  
+|                             | **Art. 524, §1º**                                           | **Art. 525, §1º, V, e §§4º–5º**                                                                                                                                                                    |
+| --------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Quem age                    | O juiz, ao receber o requerimento                           | O executado, na impugnação                                                                                                                                                                         |
+| Quando                      | No início do cumprimento                                    | Depois do prazo de pagamento                                                                                                                                                                       |
+| Exagero                     | Só o **aparente**, visível _prima facie_                    | Qualquer excesso                                                                                                                                                                                   |
+| Efeito                      | Limita só a **penhora**; a execução segue pelo valor pedido | Pode **reduzir a própria execução**                                                                                                                                                                |
+| Ônus                        | Nenhum para o executado                                     | O executado tem de **declarar o valor correto** e juntar **demonstrativo**. Se não fizer, a impugnação é rejeitada de plano (se o excesso for o único fundamento) ou o juiz não examina esse ponto |
+| Quantos recursos possíveis? | <br>Um, apenas                                              | **Dois** agravos de instrumento<br>(a do §1º e depois a da impugnação)                                                                                                                             |
 
 #### d) Intimação (art. 513, §§2º–5º)
 
-| Situação do devedor | Forma de intimação |
-|---|---|
-| Tem **advogado constituído** | **I — Diário da Justiça, na pessoa do advogado** (regra) |
-| Defensoria Pública, ou sem procurador nos autos | II — carta com AR |
-| Sem procurador, com cadastro eletrônico (art. 246, §1º) | III — meio eletrônico |
-| **Citado por edital (art. 256) e revel** | IV — edital |
-| Requerimento feito **mais de 1 ano após o trânsito** | **§4º — pessoal, por carta com AR** |
+| Situação do devedor                                                     | Forma de intimação                                       |
+| ----------------------------------------------------------------------- | -------------------------------------------------------- |
+| Tem **advogado constituído**                                            | **I — Diário da Justiça, na pessoa do advogado** (regra) |
+| Defensoria Pública, ou sem procurador nos autos                         | II — carta com AR                                        |
+| Sem procurador, com cadastro eletrônico (art. 246, §1º) (para Empresas) | III — meio eletrônico                                    |
+| **Citado por edital (art. 256) e revel**                                | IV — edital                                              |
+| Requerimento feito **mais de 1 ano após o trânsito**                    | **§4º — pessoal, por carta com AR**                      |
 
 - **§3º:** se o devedor mudou de endereço sem avisar o juízo, a intimação dos incisos II e III considera-se feita.
 - **§5º:** **fiador, coobrigado ou corresponsável que não participou da fase de conhecimento não pode ser executado.**
 
 > [!warning] 🎯 Ênfase do professor — "Indagações" [Slides 20–25] (respondidas no MP p. 12–14)
 > Detalhamento completo em [[Disposições gerais do cumprimento de sentença e cumprimento provisório#Intimação do revel — Indagações do professor]].
+> 
+> *A ideia aqui é*: O réu foi devidamente intimado e encontra-se revel por seu próprio discernimento, assim após a conclusão dos atos cognitivos, faz-se necessário a renovação da citação ou intimação, agora para execução.
+> 
 > - **Revel citado pessoalmente, sem advogado** → **carta com AR (inciso II)**: REsp 1.760.914/SP (3ª T., 2020), REsp 1.967.425/GO (4ª T., 2023) e REsp 2.053.868/RS (4ª T., 2023), em que a falta de intimação gera nulidade. Antes: REsp 1.241.749 e Neves dispensavam a intimação (art. 346).
 > - **Citado por edital, com curador especial** → **divergência**: Donizetti diz edital (IV); Neves diz carta com AR (II).
 > - **Citado por hora certa** → carta (II) (Didier; Neves).
 
-#### e) O prazo de 15 dias [MP p. 36–38; Slides 40–44]
+#### e) O prazo de 15 dias no exceção de execução [MP p. 36–38; Slides 40–44]
 
-| Questão | Posição | Fonte |
-|---|---|---|
-| Natureza | **Processual → dias úteis** (art. 219). Minoria: prazo material, em dias corridos (Shimura; Neves, em posição antiga) | STJ, REsp 1.708.348/2019; Enunciado 89 CJF [MP p. 37] |
-| Início | Art. 523 c/c 513 c/c **art. 231, §3º** (ato da própria parte) | Slide 40; Didier [MP p. 37] |
-| Prazo em dobro | Defensoria: sim. Litisconsortes com advogados de escritórios distintos, **em autos físicos**: sim (30 dias úteis). Theodoro e Didier: prazo simples | REsp 1.261.856; REsp 1.693.784/DF [MP p. 38] |
-| O juiz pode suprimir? | **Não** (cabem medidas cautelares) | REsp 1.395.281/2013 [MP p. 36] |
-| Negócio processual | Pode alterar o prazo | Didier — art. 190 [MP p. 36] |
+| Questão               | Posição                                                                                                                                             | Fonte                                                 |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Natureza              | **Processual → dias úteis** (art. 219). Minoria: prazo material, em dias corridos (Shimura; Neves, em posição antiga)                               | STJ, REsp 1.708.348/2019; Enunciado 89 CJF [MP p. 37] |
+| Início                | Art. 523 c/c 513 c/c **art. 231, §3º** (ato da própria parte)                                                                                       | Slide 40; Didier [MP p. 37]                           |
+| Prazo em dobro        | Defensoria: sim. Litisconsortes com advogados de escritórios distintos, **em autos físicos**: sim (30 dias úteis). Theodoro e Didier: prazo simples | REsp 1.261.856; REsp 1.693.784/DF [MP p. 38]          |
+| O juiz pode suprimir? | **Não** (cabem medidas cautelares)                                                                                                                  | REsp 1.395.281/2013 [MP p. 36]                        |
+| Negócio processual    | Pode alterar o prazo                                                                                                                                | Didier — art. 190 [MP p. 36]                          |
 
+
+> [!question] 1. Dias úteis ou corridos?
+> **Dias úteis** → é prazo **processual** (art. 219). STJ, REsp 1.708.348/2019; Enunciado 89 CJF [MP p. 37].
+> Minoria: prazo **material** (pagar é ato da parte, não do advogado) → dias corridos (Shimura; Neves, que reconhece a posição do STJ).
+
+> [!question] 2. Quando começa?
+> Da **própria comunicação** ao devedor, e não da juntada do comprovante. Pagar é ato da parte → **art. 231, §3º** [Slide 40; Didier, MP p. 37].
+
+> [!question] 3. O prazo pode ser em dobro? (15 dias úteis → 30 dias úteis)
+> - **Defensoria Pública:** sim (REsp 1.261.856).
+> - **Litisconsortes com advogados de escritórios diferentes, em autos FÍSICOS:** sim (art. 229; REsp 1.693.784/DF).
+> - **Autos eletrônicos:** não dobra (art. 229, §2º).
+> - Divergência: Theodoro e Didier → prazo simples (pagar é ato material; cada devedor é autônomo) [MP p. 38].
+
+> [!question] 4. O juiz pode suprimir?
+> **Não.** Não pode penhorar antes de acabarem os 15 dias (REsp 1.395.281/2013). Mas cabem **medidas cautelares** se houver risco [MP p. 36; Slide 44].
+
+> [!question] 5. As partes podem mudar?
+> **Sim**, por **negócio jurídico processual** (art. 190; Didier) [MP p. 36; Slide 41].
 #### f) Comportamentos do executado
 
 | Comportamento | Efeito | Base |
