@@ -16,7 +16,6 @@ tags:
 mapa: "[[Avaliação expropriação e satisfação do crédito.canvas]]"
 ---
 
-# Avaliação, expropriação e satisfação do crédito
 
 > [!info] Legenda das fontes
 > - **[Neves p. X]**: Neves, *Manual de Direito Processual Civil*, cap. 51 (pp. 1288–1327 do arquivo enviado). ⚠️ O TT2 indica a **18ª ed. (2026)**; o arquivo parece ser de uma edição anterior, então **as páginas podem não coincidir**.

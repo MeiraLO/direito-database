@@ -9,7 +9,6 @@ tags: [ProcessoCivil, CPCIII, CumprimentoDeSentença, DisposiçõesGerais, Cumpr
 mapa: "[[Mapa - Disposições gerais e cumprimento provisório.canvas]]"
 ---
 
-# Disposições gerais do cumprimento de sentença e cumprimento provisório
 
 > [!info] Legenda das fontes
 > - **[MP p. X]**: material do professor (`2026-enviar-cs.pdf`): disposições gerais pp. 6–28; cumprimento provisório pp. 55–61
@@ -141,7 +140,8 @@ O quadro das quatro formas está em [[Cumprimento de sentença por quantia certa
 - **Por quê:** **contraditório** e **limites subjetivos da coisa julgada**. O título judicial só alcança quem teve a chance de se defender.
 - **Súmula 268/STJ:** "O fiador que não integrou a relação processual na ação de despejo não responde pela execução do julgado" [MP p. 18].
 - **STJ, REsp 1.423.083/SP (2014):** a **solidariedade** de direito material **não basta**. Bens de quem não foi réu não podem ser atingidos [MP p. 18].
-- **Conexão:** isso é diferente da responsabilidade patrimonial **secundária** (art. 790), que alcança bens de terceiros em hipóteses legais. Ver [[Processo Civil III - Execução#9.2 Responsabilidade secundária (art. 790)]].
+- **Conexão:** isso é diferente da responsabilidade patrimonial **secundária** (art. 790), que alcança bens de terceiros em hipóteses legais. 
+	1. Ver [[Processo Civil III - Execução#9.2 Responsabilidade secundária (art. 790)]].
 
 #### e) Competência (art. 516)
 
@@ -181,22 +181,54 @@ O quadro das quatro formas está em [[Cumprimento de sentença por quantia certa
 
 #### g) Protesto da decisão judicial (art. 517) e negativação (art. 782, §§3º–5º)
 
-**Protesto** [MP p. 25–28; Slides 8–10]
-- **Natureza:** medida **coercitiva indireta**.
-- **Requisitos:** decisão **transitada em julgado** e **decurso do prazo do art. 523** (15 dias). Logo, é **vedado no cumprimento provisório**. Exceção: **alimentos** (art. 528, §1º), em que o protesto é obrigatório e cabe até no provisório [MP p. 51].
-- **Só para quantia**, ou para fazer/entregar **convertido em perdas e danos** (Donizetti) [MP p. 26, nota 87]. **Didier** entende que cabe em qualquer cumprimento [MP p. 52].
-- **Procedimento:**
-  1. o exequente pede a **certidão de teor** (fornecida em **3 dias**, §2º);
-  2. leva a certidão ao **cartório**;
-  3. o tabelião intima o devedor a pagar em **3 dias úteis** (Lei 9.492/97, arts. 12 e 14) [MP p. 27].
-- **"Valor da dívida":** principal + juros + correção + custas + **multa e honorários de 10%** (Donizetti) [MP p. 26].
-- **§3º:** quem propôs **ação rescisória** pode pedir a anotação à margem do protesto, a suas expensas.
-- **§4º:** cancelamento por ofício do juiz em **3 dias**, provada a **satisfação integral**.
+**A ideia geral.** São duas formas de **pressionar** o devedor a pagar, sem tirar nada dele à força. É isso que o material chama de “medida coercitiva indireta”. O nome dele fica “sujo” e ele passa a ter dificuldade para conseguir crédito, financiamento ou cartão. Muitas vezes isso faz o devedor pagar mais rápido que uma penhora.
 
-**Negativação** (art. 782, §§3º–5º) [MP p. 28 e 52; Slides 9 e 59]
-- **Só a requerimento** da parte: o juiz não negativa de ofício.
-- **Cancelamento imediato** com pagamento, garantia da execução ou extinção (§4º).
-- **Só na execução definitiva** de título judicial (§5º), salvo alimentos. Na prática, o pedido tramita pelo **Serasajud**.
+A diferença entre as duas está em **onde** o nome fica sujo:
+- **Protesto:** num **cartório de protesto**, com registro público.
+- **Negativação:** nos **cadastros de inadimplentes**, como Serasa e SPC.
+##### Protesto (art. 517)
+- **Quando pode.** Precisa de duas coisas ao mesmo tempo:
+	1. a decisão já **transitou em julgado**, ou seja, não cabe mais recurso;
+	2. o devedor foi intimado e **deixou passar os 15 dias úteis para pagar** do art. 523.
+
+Por isso **não cabe no cumprimento provisório**, que é justamente o caso em que ainda há recurso pendente. A exceção é a **pensão alimentícia**. Se o devedor não paga nem justifica em 3 dias, o juiz manda protestar até de ofício, e isso vale até no provisório (art. 528, §1º) [MP p. 51].
+
+- **Passo a passo:**
+	1. O credor pede ao juízo uma **certidão de teor da decisão**, que é um “resumo oficial” com as partes, o número do processo, o valor da dívida e a data em que venceu o prazo de 15 dias. O juízo entrega em **3 dias** (§2º).
+	2. O credor leva essa certidão ao **cartório de protesto**. Ele mesmo faz isso, sem precisar de nova ordem do juiz.
+	3. O cartório intima o devedor. Se ele não pagar em **3 dias úteis**, o protesto é registrado (Lei 9.492/97, arts. 12 e 14) [MP p. 27].
+
+**Valor protestado:** a dívida principal, mais juros, correção e custas, **mais a multa de 10% e os honorários de 10%** do art. 523, que já incidiram porque o devedor não pagou [MP p. 26].
+
+**§3º, ação rescisória.** É a ação que tenta desfazer uma sentença já transitada em julgado. O devedor que entrou com ela pode pedir que se anote **ao lado do protesto** algo como “atenção: esta decisão está sendo questionada em ação rescisória”. Quem paga essa anotação é ele.
+
+**§4º, como “limpar” o protesto.** O devedor tem de provar que **pagou tudo**, não só uma parte. Aí o juiz manda um ofício ao cartório em **3 dias**, contados do pedido.
+
+**Divergência sobre o tipo de obrigação:**
+
+- **Donizetti:** só cabe para dívida em **dinheiro**, ou para obrigação de fazer/entregar que virou perdas e danos (isto é, virou dinheiro) [MP p. 26, nota 87].
+- **Didier:** cabe em qualquer cumprimento [MP p. 52].
+
+#### Negativação (art. 782, §§3º–5º)
+
+- **Só se o credor pedir** (§3º). O juiz não negativa sozinho, e quem faz a inclusão é o **juiz**, não o credor direto no Serasa. Na prática, o pedido tramita pelo sistema **Serasajud**.
+- **A “limpeza” é bem mais fácil que a do protesto** (§4º). O nome sai **imediatamente** em qualquer destas três situações:
+    - o devedor **pagou**;
+    - **garantiu a execução** (por exemplo, com penhora ou depósito);
+    - a execução **foi extinta** por qualquer motivo.
+- **§5º:** permite usar a negativação também no **cumprimento definitivo de sentença**, mas **não no provisório**, salvo alimentos.
+
+#### Comparando lado a lado
+
+| |**Protesto (517)**|**Negativação (782 §§3º–5º)**|
+|---|---|---|
+|Onde o nome fica sujo|Cartório de protesto|Serasa, SPC (cadastros de inadimplentes)|
+|Quem providencia|O **credor**, com a certidão|O **juiz**, a pedido do credor|
+|Precisa do fim dos 15 dias do 523?|Sim, expressamente|O §5º exige execução **definitiva**|
+|Cabe no provisório?|Não (salvo alimentos)|Não (salvo alimentos)|
+|Como sai|Só com o pagamento **integral** + ofício do juiz em 3 dias|**Imediatamente**, com pagamento, **garantia** ou extinção|
+
+**Regra para não confundir:** o protesto só sai **pagando tudo**. A negativação sai até se o devedor **só garantir** a execução.
 
 #### h) Validade do procedimento (art. 518) e tutela provisória (art. 519)
 
@@ -213,19 +245,60 @@ O quadro das quatro formas está em [[Cumprimento de sentença por quantia certa
 #### a) Conceito e cabimento
 
 > [!quote] Art. 520, caput
-> O cumprimento provisório da sentença impugnada por **recurso desprovido de efeito suspensivo** será realizado **da mesma forma que o cumprimento definitivo**, sujeitando-se ao seguinte regime: […]
+> O cumprimento provisório da sentença impugnada por recurso **desprovido de efeito suspensivo** será realizado **da mesma forma que o cumprimento definitivo**, sujeitando-se ao seguinte regime: […]
 
-- **Terminologia:** a rigor, é "execução fundada em **título provisório**" (Câmara). A provisoriedade é do título, que tende a ser substituído pelo acórdão (art. 1.008) [MP p. 56].
-- **Só para títulos judiciais.** A execução de título **extrajudicial** é sempre **definitiva** (Theodoro) [MP p. 56–57].
-- **Fundamento:** o CPC separa **eficácia** e **imutabilidade**. Em certos casos, esperar o trânsito seria mais danoso do que o risco de reforma [MP p. 56–57].
-- **Recursos sem efeito suspensivo** [MP p. 57]:
-  - **apelação** nas hipóteses do art. 1.012, §1º: homologa divisão/demarcação; condena a pagar **alimentos**; extingue ou julga improcedentes os **embargos do executado**; julga procedente a instituição de **arbitragem**; confirma, concede ou revoga **tutela provisória**; decreta **interdição**;
-  - recurso ordinário, em regra;
-  - **REsp e RE**;
-  - **agravo de instrumento**.
-- **Momento:** nos casos do art. 1.012, §1º, o cumprimento provisório pode ser pedido **logo após publicada a sentença** (art. 1.012, §2º) [MP p. 57].
-- **Qualquer obrigação:** art. 520, §5º (fazer, não fazer, dar coisa) [MP p. 58].
-- **Sempre a requerimento** (art. 520, I): nunca de ofício, nem nas obrigações específicas (Câmara; Theodoro) [MP p. 58].
+##### O que é
+
+- **Cumprimento provisório** é executar uma decisão que **ainda pode mudar**: houve recurso, e o processo **ainda não transitou em julgado** (ainda cabe ou está pendente recurso).
+
+- **Definitivo × provisório:**
+	  1. **definitivo:** a decisão transitou em julgado e não muda mais (salvo ação rescisória);
+	  2. **provisório:** a decisão está sob recurso, mas esse recurso **não tem efeito suspensivo**.
+
+- **Efeito suspensivo** é a qualidade de um recurso que **impede a decisão de produzir efeitos** enquanto o recurso não é julgado.
+	1.  Recurso **com** efeito suspensivo → a decisão fica "congelada" → **não dá para executar**.
+	2. Recurso **sem** efeito suspensivo → a decisão já vale → **dá para executar provisoriamente**.
+
+- **Por que "provisório"?** Quem é provisório é o **título** (a decisão), e não a execução.
+	1. Por isso Câmara prefere o nome "execução fundada em **título provisório**".
+	2. O título é provisório porque, quando o tribunal julgar o recurso, **o acórdão substitui a decisão recorrida** (art. 1.008, o chamado efeito substitutivo). A execução passa a se apoiar no acórdão, que pode manter, mudar ou derrubar a condenação. [MP p. 56]
+
+- **Por que o CPC permite isso?** O CPC separa:
+	  1. **eficácia:** a decisão já produz efeitos;
+	  2. **imutabilidade:** a decisão não pode mais mudar.
+
+  Em certos casos, fazer o credor esperar o trânsito em julgado causaria **mais dano** do que o risco de a decisão ser reformada depois [MP p. 56–57]. Esse risco fica com o exequente (ver item b).
+- **Só existe para título judicial.** Execução de título **extrajudicial** (cheque, contrato com 2 testemunhas…) é **sempre definitiva**: não há decisão sob recurso a ser substituída (Theodoro) [MP p. 56–57]. Ver [[Títulos executivos]].
+  - ⚠️ fora do material: mesmo que o executado tenha perdido os embargos e apelado, a execução do título extrajudicial **continua definitiva** (Súmula 317/STJ; conferir em <https://scon.stj.jus.br>).
+
+##### Quando cabe: quais recursos NÃO têm efeito suspensivo [MP p. 57]
+
+> [!tip] Lógica para não decorar no escuro
+> ⚠️ fora do material: a **regra geral** dos recursos é **não** suspender (art. 995). A **apelação** é a grande exceção: ela **suspende** (art. 1.012, caput). Mas há casos em que **nem a apelação suspende** (§1º).
+
+| Recurso | Tem efeito suspensivo? | Cabe cumprimento provisório? |
+|---|---|---|
+| **Apelação**, regra geral | **Sim** (art. 1.012, caput) | **Não** |
+| **Apelação** contra as sentenças do **art. 1.012, §1º** (lista abaixo) | **Não** | **Sim** |
+| **Recurso ordinário** | Em regra, não | Sim |
+| **Recurso especial (STJ)** e **recurso extraordinário (STF)** | Não | Sim |
+| **Agravo de instrumento** (contra decisão interlocutória) | Não | Sim |
+
+**Sentenças cuja apelação NÃO suspende (art. 1.012, §1º).** Começam a produzir efeitos assim que publicadas:
+1. a que **homologa divisão ou demarcação** de terras;
+2. a que **condena a pagar alimentos**;
+3. a que **extingue sem mérito ou julga improcedentes os embargos do executado**;
+4. a que **julga procedente o pedido de instituição de arbitragem**;
+5. a que **confirma, concede ou revoga tutela provisória**;
+6. a que **decreta a interdição**.
+
+##### Como e quando começa
+
+- **Momento:** nos casos do art. 1.012, §1º, o credor pode pedir o cumprimento provisório **logo depois da publicação da sentença**, sem esperar a apelação ser julgada (art. 1.012, §2º) [MP p. 57].
+- **Qualquer tipo de obrigação:** pagar quantia, **fazer, não fazer ou entregar coisa** (art. 520, §5º) [MP p. 58].
+- **Sempre a requerimento do exequente** (art. 520, I): **nunca de ofício**, nem nas obrigações de fazer, não fazer e entregar coisa [MP p. 58; Câmara; Theodoro].
+  - Motivo: o exequente **responde pelos prejuízos** se a decisão for reformada. Então só ele pode decidir se quer correr esse risco.
+  - ⚠️ Não confunda: no cumprimento **definitivo** de fazer, não fazer e entregar coisa, o juiz **pode** agir de ofício (slide 27). No **provisório**, nunca.
 
 #### b) O regime do art. 520
 
