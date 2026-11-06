@@ -402,7 +402,6 @@ Versão visual: [[Avaliação expropriação e satisfação do crédito.canvas]]
 ---
 
 ## 4. Esquemas visuais
-
 ### Fluxo completo: da avaliação à satisfação
 
 ```mermaid
