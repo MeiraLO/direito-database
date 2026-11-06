@@ -94,7 +94,7 @@ O credor não precisa juntar um memorial completo de cálculos, mas **precisa mo
 
 **Parágrafos do art. 524:**
 - **§1º — excesso aparente:** a execução começa pelo valor pedido, mas a **penhora** se baseia no valor que o juiz entender adequado. Só vale para erro perceptível *prima facie* [MP p. 35].
-  - **§2º:** o juiz pode usar o contabilista do juízo, que tem até **30 dias**.
+  - **§2º:** o juiz pode usar o contabilista do juízo para verificar os cálculos, que tem até **30 dias** de prazo.
   - **Crítica de Neves:** a solução gera agravo de instrumento contra a decisão sobre o valor e, depois, outro recurso contra a decisão da defesa [MP p. 35].
 - **§§3º–5º — dados em poder de terceiros ou do executado:** requisição sob pena de desobediência, com prazo de até **30 dias**. Se não houver entrega injustificada, os cálculos do credor se reputam corretos. É **presunção relativa**, que pode ser afastada na impugnação [MP p. 34–35].
 
