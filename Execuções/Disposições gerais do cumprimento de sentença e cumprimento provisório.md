@@ -56,9 +56,11 @@ O **cumprimento provisório** (arts. 520–522) é a execução de decisão aind
 #### a) Alcance das disposições gerais e subsidiariedade
 
 - **"Cumprimento de sentença"** abrange a execução de **qualquer título judicial**, de **qualquer** prestação (pagar, fazer, não fazer, entregar). "Sentença" está em sentido amplo: inclui decisões interlocutórias de tutela provisória (art. 297, p.u.), julgamento parcial de mérito (art. 356, §2º), decisões monocráticas (art. 932), acórdãos (art. 204) e os demais títulos do art. 515 [MP p. 6].
-- **Art. 513, caput:** aplicam-se as regras do Título II e, **no que couber**, o Livro II da Parte Especial (processo de execução). É a **subsidiariedade recíproca** com o art. 771, p.u. Ver [[Processo Civil III - Execução#8.4 Aplicação subsidiária das regras do processo de conhecimento]].
+- **Art. 513, caput:** aplicam-se as regras do Título II e, **no que couber**, o Livro II da Parte Especial (processo de execução). É a **subsidiariedade recíproca** com o art. 771, p.u. 
+	- Ver [[Processo Civil III - Execução#8.4 Aplicação subsidiária das regras do processo de conhecimento]].
 - Os arts. 513–519 valem para **todas** as obrigações. Só os **parágrafos do art. 513** se voltam mais diretamente à quantia (Theodoro) [MP p. 7].
-- **Duas fases** da dinâmica executiva: **cumprimento voluntário** → **execução forçada** [MP p. 9; Slide 16]. Detalhes em [[Cumprimento de sentença por quantia certa - fluxo do art. 523]].
+- **Duas fases** da dinâmica executiva: **cumprimento voluntário** → **execução forçada** [MP p. 9; Slide 16]. 
+	- Detalhes em [[Cumprimento de sentença por quantia certa - fluxo do art. 523]].
 
 #### b) Requerimento: quem inicia o cumprimento
 
@@ -76,9 +78,10 @@ O **cumprimento provisório** (arts. 520–522) é a execução de decisão aind
 > Requerimento? **Sim** para quantia provisória, quantia definitiva, alimentos e Fazenda Pública. **Não** para dar coisa e para fazer/não fazer.
 > O slide segue, portanto, a corrente **restritiva** para o **definitivo**.
 
-**Ponto pacífico:** o **cumprimento provisório** de **qualquer** obrigação depende **sempre** de requerimento (art. 520, I) (Câmara; Theodoro) [MP p. 58].
+**Ponto pacífico:** o *cumprimento provisório* de *qualquer* obrigação depende *sempre* de requerimento (art. 520, I) (Câmara; Theodoro) [MP p. 58].
 
-**Conteúdo do requerimento:** é desformalizado, mas parecido com uma petição inicial, e aplica-se o que couber dos arts. 798 e 799 (Theodoro; Bueno) [MP p. 9–10]. Para quantia, o demonstrativo do art. 524 está detalhado em [[Cumprimento de sentença por quantia certa - fluxo do art. 523#c) Demonstrativo do crédito (art. 524)]].
+**Conteúdo do requerimento:** é *desformalizado*, mas parecido com uma petição inicial, e aplica-se o que couber dos arts. 798 e 799 (Theodoro; Bueno) [MP p. 9–10]. 
+	- Para quantia, o demonstrativo do art. 524 está detalhado em [[Cumprimento de sentença por quantia certa - fluxo do art. 523#c) Demonstrativo do crédito (art. 524)]].
 
 Bueno descreve um **triplo exame de admissibilidade** [MP p. 15, nota 45]:
 - **positivo** → intimação do executado;
