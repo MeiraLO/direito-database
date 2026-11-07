@@ -1,3 +1,9 @@
+---
+tags: [Civil, ProcessoCivil, Prática]
+---
+> [!note] Ligações
+> **Termos:** [[tutela de urgência]], [[Coisa julgada]], [[Prescrição]]
+
 #civil #processo #prática 
 
 

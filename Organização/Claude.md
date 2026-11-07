@@ -29,7 +29,7 @@ Quando a tarefa for organizar, revisar ou conectar notas, faça **apenas** isto:
 3. **Bloco de ligação no começo da nota:** inserir, logo depois do frontmatter, um único bloco que liga a nota ao tópico e às notas relacionadas:
 
 ```markdown
-> [!note] Ligações (adicionado pelo Claude)
+> [!note] Ligações
 > **Tópico:** [[Nome da nota principal]] · **Ver também:** [[Nome de nota relacionada]] · **Termos:** [[Nome do termo]]
 ```
 
@@ -331,8 +331,17 @@ Termine sempre com um relatório curto:
 
 ## 10. Estrutura do vault
 
-<!-- Na primeira sessão, mapeie as pastas do vault e atualize esta seção com o que encontrar. -->
+<!-- Mapeado em 06/11/2026. Atualize quando a estrutura mudar. -->
 
-- Organização por disciplina. A pasta `Execuções`, de Processo Civil III, é o modelo de referência de estrutura para notas e mapas (ela foi feita para uma prova, mas o vault é de estudo geral).
-- Na raiz do repositório há também notas soltas (ex.: `Responsabilidade Civil.md`, `Neurodireitos.md`, `DALY e QUALY.md`) e a pasta `Estudos Livre`. Nem tudo é de disciplina da faculdade: há estudos de Bioética e outros temas livres. Não force essas notas no molde de uma disciplina.
+- `Faculdade`: notas das disciplinas, organizadas por disciplina:
+    - `Civil/`: contratos, coisas, família, imobiliário, responsabilidade civil e questões de civil;
+    - `Processo Civil/`: a nota-tronco `Processo Civil III - Execução` e a pasta `Execuções/`, que é o modelo de referência de estrutura para notas e mapas (ela foi feita para uma prova, mas o vault é de estudo geral);
+    - `Deontologia/` e `Previdenciário/`;
+    - notas soltas de disciplinas com uma nota só (ex.: `Processo Constitucional`, `Econômico e Financeiro`, `Empresarial I`, `Estagio Supervisionado Civil`).
+- `Estudos Livre`: estudos fora das disciplinas. Não force essas notas no molde de uma disciplina.
+    - `Bioética e Biodireito/` (com a subpasta `Alta Voluntária/`);
+    - `Trabalhos/`: trabalhos e o `TCC/` (Neurodireitos);
+    - `Utilidades Práticas/`: peças, rascunhos e notícias úteis para a prática.
+- Na raiz ficam só `README.md` e `Notas Rápidas.md`. `Miscelânia` está no `.gitignore` e não vai para o GitHub.
 - `Referências e explicações`: notas de termos e tópicos complexos (seção 8).
+- `Organização`: notas de uso pessoal e de funcionamento do vault — a `Agenda.md` e estas instruções (`Claude.md`). Ficam nessa pasta para não aparecerem na raiz do repositório no GitHub. Não são notas de estudo: não entram na organização da seção 2.

@@ -1,3 +1,9 @@
+---
+tags: [TCC, Neurodireitos]
+---
+> [!note] Ligações
+> **Tópico:** [[TCC]] · **Ver também:** [[Estudos Livre/Trabalhos/TCC/Neurodireitos (TCC)|Neurodireitos]], [[Sumário]]
+
 **Página 43 Takis Vidalis; Emergence of biolaw.**
 
 O desenvolvimento de tecnologias de diagnóstico e mapeamento cerebral - assim como a neurociência no geral - apresentaram um avanço tremendo em um curto período de tempo. De modo que o direito atual não foi hábil em acompanha-lo e encontra-se defasado. Assim, levanta-se dois questionamentos em duas áreas: 

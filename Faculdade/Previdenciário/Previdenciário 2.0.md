@@ -1,3 +1,9 @@
+---
+tags: [Previdenciário, SeguridadeSocial]
+---
+> [!note] Ligações
+> **Ver também:** [[Previdenciário]], [[de Família]] · **Termos:** [[União estável]], [[Mínimo existencial]], [[Prescrição]]
+
 
 
 ## Estrutura e governança da Previdência (aula 4)

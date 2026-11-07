@@ -1,3 +1,9 @@
+---
+tags: [TCC, Neurodireitos]
+---
+> [!note] Ligações
+> **Tópico:** [[TCC]] · **Ver também:** [[Objetivo dos Neurodireitos]], [[Sumário]]
+
 
 **PL: Novo código civil**
 

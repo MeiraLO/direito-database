@@ -1,3 +1,6 @@
+---
+tags: [Referência, Filosofia]
+---
 [Contingência](https://pt.wikipedia.org/wiki/Conting%C3%AAncia)
 
 Em [filosofia](https://pt.wikipedia.org/wiki/Filosofia "Filosofia") e [lógica](https://pt.wikipedia.org/wiki/Lógica "Lógica"), **contingência** é o modo de ser daquilo que não é necessário nem impossível - mas que pode ser ou não. Em outros termos, é a característica atribuída ao [ente](https://pt.wikipedia.org/wiki/Ente "Ente") cuja [existência](https://pt.wikipedia.org/wiki/Existência "Existência") é tida como não necessária mas, ao mesmo tempo, não impossível - isto é, a sua realidade não pode ser demonstrada nem negada em termos definitivos. Diz-se que são **contingentes** as [proposições](https://pt.wikipedia.org/wiki/Proposições "Proposições") que não são necessariamente verdadeiras nem necessariamente falsas.
@@ -31,3 +34,5 @@ _Há apenas três planetas_
 _Há mais que três planetas_
 
 Todas as proposições necessariamente verdadeiras e todas as proposições contingentes também são proposições possíveis.
+
+**Citado em:** [[Human Dignity in Bioethics and Biolaw]]

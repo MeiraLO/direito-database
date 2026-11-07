@@ -1,3 +1,9 @@
+---
+tags: [Deontologia, EstatutoDaAdvocacia, OAB]
+---
+> [!note] Ligações
+> **Ver também:** [[Deontologia]]
+
 ## Estatuto da Advocacia e a Ordem dos Advogados
 - Lei 8.906/94
 

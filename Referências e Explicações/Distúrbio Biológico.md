@@ -1,3 +1,6 @@
+---
+tags: [Referência, Bioética]
+---
 é necessário compreender o que é "saúde" e o que seria um individuo "saudável", que portanto não precisaria de tratamentos adicionais, contínuos e/ou necessários.
 > A busca pela saúde não é algo recente e a compreensão de patologia é algo que merece um estudo dedicado. Porém, para centralizar um debate voltado para a alta voluntária, devemos colocar certa relevância na sua classificação de certos padrões de patologia:
 >> 1. O Distúrbio biológico, que caracteriza a obstrução em qualquer nível a capacidade de auto determinação de um individuo, este distúrbio pode ser temporário (como uma gripe), duradouro (como um HIV) ou extensivo e/ou permanente (como um distúrbio mental); 
@@ -6,3 +9,5 @@
 
 - Quando consideramos o conceito de "saúde" e "saudável" são idealísticos e aderentes aos pressupostos sociais (logo temporários), podendo racionalmente se descrever este estado como: O estado biológico em que um organismo humano em que a sua estrutura e funções permanecem inafetados por qualquer tipo de fator externo, que possa produzir prejuízo ou declínio biológico. Porém, pode ser considerado também como o estado no qual um organismo humano possa produzir e desenvolver as suas atividades de forma total.
 > Desta forma, encontramos o primeiro problema, a idealização de um estado que transforma a saúde em uma perseguição de um ideal que inibe um ponto intermediário entre o "saudável" do "distúrbio biológico" (ou patologia), que por sua vez seria o mesmo de dizer que todos estão afetados por alguma patologia ou desordem (necessitados de tratamento). Tudo isto ocorre devido a uma perspectiva de paternalista que afasta a autonomia e a "saúde" como uma liberdade individual.
+
+**Citado em:** [[Alta Voluntária]]

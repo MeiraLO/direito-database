@@ -1,3 +1,9 @@
+---
+tags: [Bioética, Responsabilidade, DignidadeHumana]
+---
+> [!note] Ligações
+> **Ver também:** [[Domínio da Vida]] · **Termos:** [[Dignidade Humana em Sentido Estrito]], [[epistemological contingency]], [[Agência]]
+
 [Autor: Deryck Beyleveld; Roger Brownsword](https://z-lib.fm/book/nQ0Y9yVB0y/human-dignity-in-bioethics-and-biolaw.html)
 #responsabilidade #bioética
 
@@ -12,7 +18,7 @@
 # **Introdução**
 > A Princípio, antes de citar as vertentes descritas pelos autores, vale lembrar que        a dignidade humana é, em base, considerar o humano como começo e fim, não há       destinação ou valor econômico. Dito isto, partimos para o começo do livro.
 
-Os autores propões duas correntes de Direitos humanos, os direito enquanto empoderamento (estimulantes) e  os que tratam como restrição (limite), que segundo o autor são opostos (pg 1). A primeira versão, adota pela ONU em sua carta, trata os direito humanos como forma de empoderar a vida humana, eles seriam um direito natural que reforçam a autonomia. Já na segunda trata os direitos humanos como restrição, como um dever, uma obrigação "[[Civil VI - Obrigações| Propter Rem]] ao direito a vida", positivada, é a visão adotada pelo Conselho Europeu de direitos humanos e Biodireito. Ou seja, o primeiro afeta o particular da ação e o segundo afeta os terceiros à ação.
+Os autores propões duas correntes de Direitos humanos, os direito enquanto empoderamento (estimulantes) e  os que tratam como restrição (limite), que segundo o autor são opostos (pg 1). A primeira versão, adota pela ONU em sua carta, trata os direito humanos como forma de empoderar a vida humana, eles seriam um direito natural que reforçam a autonomia. Já na segunda trata os direitos humanos como restrição, como um dever, uma obrigação "[[propter rem|Propter Rem]] ao direito a vida", positivada, é a visão adotada pelo Conselho Europeu de direitos humanos e Biodireito. Ou seja, o primeiro afeta o particular da ação e o segundo afeta os terceiros à ação.
 
 A principal diferença entre os dois é que o segundo pode resultar, por exemplo, numa uma relação, mesmo que ambas as partes estejam consentindo com o fato, seja banida, já que há um parâmetro a não ser ultrapassado. Por outro lado, isso nunca ocorreria na primeira, já que a autonomia é particular e deve ser estimulada a todo custo, tendo a entidade da ação o direito de ser respeitada, mas não de respeitar a si mesmo.
 
@@ -130,7 +136,7 @@ O autor também explica o porque de o agente que respeitar o (7), precisa necess
 
 
 # 5. Kant e Gewirth
-[[Começa na Pagina 89, não irei dar tanta importância, porque tenho preguiça do Kant.]]
+Começa na Pagina 89, não irei dar tanta importância, porque tenho preguiça do Kant.
 
 Ambos os doutrinadores estabelecem termos similares mas não idênticos em suas obras. Para Kant, todos os indivíduos racionais nos quais se qualificam no imperativo categórico são "seres com vontades". Enquanto na obra de Gerwirth, aqueles que observam o PGC são "agentes". Ambos serão nomeados da mesma forma neste capítulo por simplicidade.
 

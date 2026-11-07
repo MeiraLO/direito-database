@@ -1,3 +1,6 @@
+---
+tags: [Referência, ProcessoCivil]
+---
 CPC
 [**Art. 300**](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm#art300 "Art. 300"). A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. 
 
@@ -26,3 +29,5 @@ CPC
 **§ 5º** O autor indicará na petição inicial, ainda, que pretende valer-se do benefício previsto no caput deste artigo. 
 
 **§ 6º** Caso entenda que não há elementos para a concessão de tutela antecipada, o órgão jurisdicional determinará a emenda da petição inicial em até 5 (cinco) dias, sob pena de ser indeferida e de o processo ser extinto sem resolução de mérito.
+
+**Citado em:** [[Disposições gerais do cumprimento de sentença e cumprimento provisório]], [[Estagio Supervisionado Civil]]

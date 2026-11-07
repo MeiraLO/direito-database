@@ -1,3 +1,6 @@
+---
+tags: [Referência, Civil]
+---
 A autonomia da vontade é a base dos direitos do paciente, da liberdade humana e se faz de extrema importância no direito civil.
 
 É a capacidade de um individuo de tomar decisões livremente, sem coerção ou influência externa. É o "direito de decisão informada"
@@ -10,4 +13,6 @@ Dentro do direito médico é o direito dado a todos os paciente e garantido dire
 
 No direito civil, Autonomia da vontade é um princípio jurídico típico e consiste na ideia de que as pessoas podem gerar normas e obrigações umas para as outras por meio de contratos, que são celebrados com base em suas vontades individuais.
 
-O seu desrespeito ou ignorância se enquadram nos [[Vícios de Consentimento]] 
+O seu desrespeito ou ignorância se enquadram nos [[Vícios de Consentimento]]
+
+**Citado em:** [[Consentimento informado]]

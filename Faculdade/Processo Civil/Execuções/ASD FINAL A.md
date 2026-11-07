@@ -1,3 +1,9 @@
+---
+tags: [ProcessoCivil, CPCIII, CumprimentoDeSentença, art523]
+---
+> [!note] Ligações
+> **Tópico:** [[Cumprimento de sentença por quantia certa - fluxo do art. 523]] · **Ver também:** [[Disposições gerais do cumprimento de sentença e cumprimento provisório]], [[Processo Civil III - Execução]] · **Termos:** [[Penhora]]
+
 
 
 

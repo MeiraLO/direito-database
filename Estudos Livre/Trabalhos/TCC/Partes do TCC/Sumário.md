@@ -1,3 +1,9 @@
+---
+tags: [TCC]
+---
+> [!note] Ligações
+> **Tópico:** [[TCC]] · **Ver também:** [[Sujestões de Ref. TCC]], [[Objetivo dos Neurodireitos]]
+
 - Temp. médio de leitura: 4~ min.
 # **INTRODUÇÃO**
 

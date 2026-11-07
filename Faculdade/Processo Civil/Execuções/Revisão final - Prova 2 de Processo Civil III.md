@@ -6,6 +6,9 @@ pasta: Processo Civil/Execução
 tema: Folha de revisão final + roteiro para resolver questões
 tags: [ProcessoCivil, CPCIII, Revisão]
 ---
+> [!note] Ligações
+> **Tópico:** [[Processo Civil III - Execução]] · **Ver também:** [[Títulos executivos]], [[Disposições gerais do cumprimento de sentença e cumprimento provisório]], [[Cumprimento de sentença por quantia certa - fluxo do art. 523]], [[Avaliação expropriação e satisfação do crédito]]
+
 
 
 > [!info] Como usar esta nota
@@ -142,7 +145,7 @@ Requerimento + demonstrativo (524) → intimação (513 §2º) → 15 dias ÚTEI
 
 ---
 
-## 5. Avaliação, expropriação e satisfação → [[Avaliação, expropriação e satisfação do crédito]]
+## 5. Avaliação, expropriação e satisfação → [[Avaliação expropriação e satisfação do crédito|Avaliação, expropriação e satisfação do crédito]]
 
 - **Avaliação:** feita pelo **oficial de justiça**; se precisar de conhecimento técnico, por **avaliador**, com laudo em **10 dias** (870).
 - **Ordem da expropriação → "A-P-L":**

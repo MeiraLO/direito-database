@@ -8,6 +8,9 @@ tema: Disposições gerais do cumprimento de sentença (arts. 513–519) e cumpr
 tags: [ProcessoCivil, CPCIII, CumprimentoDeSentença, DisposiçõesGerais, CumprimentoProvisório, Prova2]
 mapa: "[[Mapa - Disposições gerais e cumprimento provisório.canvas]]"
 ---
+> [!note] Ligações
+> **Tópico:** [[Processo Civil III - Execução]] · **Ver também:** [[Títulos executivos]], [[Cumprimento de sentença por quantia certa - fluxo do art. 523]], [[Impugnação ao cumprimento de sentença]] · **Termos:** [[tutela de urgência]], [[Preclusão]]
+
 
 
 > [!info] Legenda das fontes
@@ -626,9 +629,9 @@ Execução de título extrajudicial pode ser provisória?::Não, é sempre defin
 ## 10. Conexões
 
 - **Visão geral da disciplina:** [[Processo Civil III - Execução]] (princípios, classificações, responsabilidade patrimonial, liquidação)
-- **Antes:** [[Títulos executivos]] (art. 515; exigibilidade → art. 514) · [[Liquidação de sentença]]
+- **Antes:** [[Títulos executivos]] (art. 515; exigibilidade → art. 514) · [[Processo Civil III - Execução#10. Liquidação de sentença (arts. 509 a 512)|Liquidação de sentença]]
 - **Aplicação na quantia certa:** [[Cumprimento de sentença por quantia certa - fluxo do art. 523]] (requerimento, demonstrativo, prazo, multa e honorários)
-- **Depois:** [[Avaliação, expropriação e satisfação do crédito]] (TT2; a caução do 520, IV, protege justamente a expropriação no provisório) · [[Impugnação ao cumprimento de sentença]] (art. 525; art. 518) · [[Obrigações de fazer, não fazer e entregar coisa]] (Súmula 410; arts. 536–538)
+- **Depois:** [[Avaliação expropriação e satisfação do crédito|Avaliação, expropriação e satisfação do crédito]] (TT2; a caução do 520, IV, protege justamente a expropriação no provisório) · [[Impugnação ao cumprimento de sentença]] (art. 525; art. 518) · [[Obrigações de fazer, não fazer e entregar coisa]] (Súmula 410; arts. 536–538)
 - **Mapa:** [[Mapa - Disposições gerais e cumprimento provisório.canvas]]
 
 ## 11. Minhas anotações

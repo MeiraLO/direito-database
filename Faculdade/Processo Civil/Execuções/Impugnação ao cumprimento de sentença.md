@@ -8,6 +8,9 @@ tema: Impugnação ao cumprimento de sentença (art. 525) e objeção de pré-ex
 tags: [ProcessoCivil, CPCIII, Impugnação, DefesaDoExecutado, ObjeçãoDePréExecutividade]
 mapa: "[[Impugnação ao cumprimento de sentença.canvas]]"
 ---
+> [!note] Ligações
+> **Tópico:** [[Processo Civil III - Execução]] · **Ver também:** [[Cumprimento de sentença por quantia certa - fluxo do art. 523]], [[Disposições gerais do cumprimento de sentença e cumprimento provisório]] · **Termos:** [[Coisa julgada]], [[Prescrição]], [[Preclusão]]
+
 
 # Impugnação ao cumprimento de sentença
 
@@ -102,7 +105,7 @@ Intimação (513 §2º) → [15 dias úteis para PAGAR] → [15 dias úteis para
 | **I** | Falta ou nulidade da **citação**, **se o processo correu à revelia** | Precisa dos **dois**: citação defeituosa **e** revelia. Se o réu compareceu, o defeito ficou sanado. É nulidade **absoluta** e de ordem pública, que também cabe em objeção de pré-executividade e em ***querela nullitatis***. Se acolhida, o processo **volta à fase de conhecimento**, e o réu, já intimado na pessoa do advogado, **contesta** (STJ, REsp 1.930.225/2021) | MP p. 65 |
 | **II** | **Ilegitimidade** de parte | Ilegitimidade **na execução**: o exequente não é o vencedor nem seu sucessor; o executado não é o vencido nem seu sucessor. Pode ser *ad causam* ou *ad processum*. Ex.: executar o fiador que não participou da fase de conhecimento (art. 513, §5º) | MP p. 65; Theodoro |
 | **III** | **Inexequibilidade do título** ou **inexigibilidade da obrigação** | **Inexequível:** falta título, ou o título não preenche os requisitos (ex.: sentença estrangeira **sem** homologação do STJ). **Inexigível:** há **termo, condição ou contraprestação** pendentes (ex.: a sentença manda entregar a coisa **depois** que o autor pagar o resto do preço, e ele não pagou). Inclui a **"coisa julgada inconstitucional"** (§§12–15, item 2.7) | MP p. 65–66; Donizetti. Ver [[Títulos executivos]] |
-| **IV** | **Penhora incorreta** ou **avaliação errônea** | **Penhora:** bem de família (Lei 8.009/90), bem impenhorável (art. 833), ordem de penhora desrespeitada (art. 835), falta de intimação do cônjuge ou do credor hipotecário. **Avaliação:** valor **manifestamente** acima ou abaixo do mercado, demonstrado com avaliações idôneas, e não com simples discordância | MP p. 66 (Donizetti). Ver [[Avaliação, expropriação e satisfação do crédito]] |
+| **IV** | **Penhora incorreta** ou **avaliação errônea** | **Penhora:** bem de família (Lei 8.009/90), bem impenhorável (art. 833), ordem de penhora desrespeitada (art. 835), falta de intimação do cônjuge ou do credor hipotecário. **Avaliação:** valor **manifestamente** acima ou abaixo do mercado, demonstrado com avaliações idôneas, e não com simples discordância | MP p. 66 (Donizetti). Ver [[Avaliação expropriação e satisfação do crédito|Avaliação, expropriação e satisfação do crédito]] |
 | **V** | **Excesso de execução** ou **cumulação indevida** de execuções | **Excesso** (art. 917, §2º, usado como referência): cobrar **mais** do que o título; coisa diversa; modo diferente; exigir sem ter cumprido a própria prestação; não provar a condição. **Cumulação indevida:** juntar execuções sem mesmo executado, mesmo juízo competente e mesmo procedimento (art. 780) | MP p. 66–67 |
 | **VI** | **Incompetência** absoluta ou relativa do **juízo da execução** | Ver o art. 516 (juízo da causa = competência funcional, absoluta; opções do p.u. = territorial) | MP p. 67; ver [[Disposições gerais do cumprimento de sentença e cumprimento provisório#e) Competência (art. 516)]] |
 | **VII** | Causa **modificativa ou extintiva** da obrigação **posterior à sentença** (pagamento, novação, compensação, transação, prescrição) | **Tem de ser posterior à sentença**: tudo o que podia ter sido alegado antes está coberto pela **eficácia preclusiva da coisa julgada** (art. 508). O rol é **exemplificativo** (também renúncia, remissão, confusão…). **Prescrição:** só a **superveniente** à formação do título (STJ, **REsp 1.931.969/SP**, 3ª T., 08/02/2022) | MP p. 67–68 |
@@ -459,7 +462,7 @@ Requisitos da objeção de pré-executividade?::Matéria conhecível de ofício,
 
 - **Visão geral:** [[Processo Civil III - Execução]] (§13 embargos à execução; §6.5 contraditório eventual)
 - **Antes:** [[Cumprimento de sentença por quantia certa - fluxo do art. 523]] (fim do prazo de pagamento = início do prazo de impugnação; demonstrativo do art. 524)
-- **Matérias ligadas:** [[Títulos executivos]] (inciso III: inexequibilidade/inexigibilidade) · [[Avaliação, expropriação e satisfação do crédito]] (inciso IV: penhora e avaliação) · [[Disposições gerais do cumprimento de sentença e cumprimento provisório]] (inciso VI: competência do art. 516; art. 518; impugnação no provisório, art. 520, §1º)
+- **Matérias ligadas:** [[Títulos executivos]] (inciso III: inexequibilidade/inexigibilidade) · [[Avaliação expropriação e satisfação do crédito|Avaliação, expropriação e satisfação do crédito]] (inciso IV: penhora e avaliação) · [[Disposições gerais do cumprimento de sentença e cumprimento provisório]] (inciso VI: competência do art. 516; art. 518; impugnação no provisório, art. 520, §1º)
 - **Mapa:** [[Impugnação ao cumprimento de sentença.canvas]]
 
 ## 11. Minhas anotações

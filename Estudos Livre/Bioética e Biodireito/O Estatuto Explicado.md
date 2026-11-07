@@ -1,3 +1,9 @@
+---
+tags: [Bioética, DireitoMédico, EstatutoDoPaciente]
+---
+> [!note] Ligações
+> **Ver também:** [[Estatuto do Paciente e normas relacionadas]], [[Alta Voluntária]] · **Termos:** [[Consentimento informado]], [[Diretivas antecipadas de vontade]]
+
 Tempo de Leitura: **15 min~**
 [Lei 15.378/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15378.htm)
 

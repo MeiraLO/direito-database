@@ -1,3 +1,9 @@
+---
+tags: [Civil, ResponsabilidadeCivil]
+---
+> [!note] Ligações
+> **Ver também:** [[de Família]] · **Termos:** [[Prescrição]]
+
 Livros ->Dto civil bruno mirade; Responsabilidade civil
 Responsabilidade civil - cavallieri
 #responsabilidade #civil 

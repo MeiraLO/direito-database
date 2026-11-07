@@ -1,3 +1,6 @@
+---
+tags: [Referência, Civil]
+---
 #direitoCivil 
 > capítulo dos Efeitos da Posse (Código Civil, Livro III, Título I).
 
@@ -60,3 +63,5 @@ Assim como na reintegração, na ação de manutenção de posse discute-se apen
 - A turbação pode ser **preparatória do esbulho** — por isso, se o possuidor perceber que a turbação pode evoluir para a perda da posse, pode preferir, desde logo, ajuizar interdito proibitório cumulado, ou pedir conversão do pedido durante o processo.
 - Não confundir com os **direitos de vizinhança** (uso anormal da propriedade, art. 1.277 CC): há situações em que a mesma conduta (por exemplo, ruído excessivo ou construção invasiva) pode fundamentar tanto uma ação possessória (proteção da posse) quanto uma ação de direito de vizinhança (proteção da propriedade/qualidade de vida), com pedidos que podem inclusive ser cumulados.
 - A jurisprudência admite a manutenção de posse mesmo em favor de possuidor de má-fé ou sem título — a proteção possessória é **autônoma** e independe da existência de direito real subjacente.
+
+**Citado em:** [[Civil VI - Das Coisas]]

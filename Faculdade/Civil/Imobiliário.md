@@ -1,3 +1,9 @@
+---
+tags: [Civil, Imobiliário]
+---
+> [!note] Ligações
+> **Ver também:** [[Civil VI - Das Coisas]], [[Civil V - Contratos espaciais]] · **Termos:** [[Alienação fiduciária]], [[Adjudicação]]
+
 
 # Locação
 
@@ -61,7 +67,7 @@
 	Pode ser ajustado a qualquer prazo (com anuência conjugal para superior a 10 anos)
 	Prazo determinado
 		O locador não pode reaver o imóvel sem que pague uma muta ao locatário
-		 No caso de Inadimplemento ou termino do prazo, ação correta é a de despejo. (no caso de [[Civil VI - Obrigações#posse injusta (taxativa)|posse precária]], não há reintegração de posse para imóveis urbanos)
+		 No caso de Inadimplemento ou termino do prazo, ação correta é a de despejo. (no caso de [[Civil VI - Das Coisas#posse injusta (taxativa)|posse precária]], não há reintegração de posse para imóveis urbanos)
 		 **ATENÇÃO:** Para os prazos inferiores a 30 meses, o artigo 47 estabelece que findo o prazo, prorrogasse indeterminadamente, com 5 hipóstes para o término. (**NAS LOCAÇÕES RESIDENCIAIS**) - objetivo de desestimular contratos curtos - Informação importante para a mãe.
 			 Dentro do Inciso III, o familiar deve ficar pelo menos por 1 ano, com sanção penal (crime nesta hipótese) para falsificar a estadia para remoção de um inquilino (artigo 43 e 44 do mesmo dispositivo).
 				O sobrestamento pode ocorrer entre as matérias civis e penais

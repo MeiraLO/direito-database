@@ -1,3 +1,6 @@
+---
+tags: [Referência, Bioética]
+---
 # Definição e Análise Modal
 
 _Baseado em Beyleveld & Brownsword, "Human Dignity in Bioethics and Biolaw"_
@@ -133,3 +136,5 @@ A frase contém uma ambiguidade de escopo no termo "sentido estrito". Mas, consi
 > ```
 
 Isso confirma a metáfora da "espada de dois gumes" da introdução do livro: o mesmo aparato que empodera o paciente capaz torna qualquer imposição contrária à sua vontade uma **contradição estrutural** dentro do sistema PGC **e**, simultaneamente, uma **violação normativa** do direito positivo vigente — não é uma questão de grau, política pública ou ponderação, mas uma impossibilidade lógica _e_ uma ilicitude jurídica convergindo sobre o mesmo caso.
+
+**Citado em:** [[Alta Voluntária]], [[Consentimento informado]], [[Gemadi 2026]], [[Human Dignity in Bioethics and Biolaw]], [[Mínimo existencial]], [[Sistema Jurídico e Saúde]]

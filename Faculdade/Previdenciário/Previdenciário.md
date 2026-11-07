@@ -1,3 +1,9 @@
+---
+tags: [Previdenciário, SeguridadeSocial]
+---
+> [!note] Ligações
+> **Ver também:** [[Previdenciário 2.0]] · **Termos:** [[Mínimo existencial]], [[União estável]]
+
 ## MÓDULO 1: Evolução Histórica e Teoria da Proteção Social
 
 *(Ref. "2. Proteção e Seguridade Social.pdf" e "3. Definição e Objeto do Direito Previdenciário.pdf")*

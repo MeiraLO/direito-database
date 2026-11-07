@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c","type":"text","text":"# Avaliação → Expropriação → Satisfação\narts. 870–909 CPC\nComeça no mandado de penhora e avaliação do art. 523, §3º\n\n[[Avaliação, expropriação e satisfação do crédito]]","x":-260,"y":-120,"width":520,"height":240,"color":"#8E44AD"},
+		{"id":"c","type":"text","text":"# Avaliação → Expropriação → Satisfação\narts. 870–909 CPC\nComeça no mandado de penhora e avaliação do art. 523, §3º\n\n[[Avaliação expropriação e satisfação do crédito|Avaliação, expropriação e satisfação do crédito]]","x":-260,"y":-120,"width":520,"height":240,"color":"#8E44AD"},
 		{"id":"av","type":"text","text":"## 1. AVALIAÇÃO (870–875)","x":-1900,"y":400,"width":420,"height":90,"color":"#2E86C1"},
 		{"id":"av0","type":"text","text":"QUEM: oficial de justiça (regra). Avaliador só se precisar de conhecimento técnico E o valor da execução justificar → laudo em até 10 DIAS (870 p.u.)","x":-1900,"y":540,"width":420,"height":144,"color":"#2E86C1"},
 		{"id":"av1","type":"text","text":"DISPENSA (871): uma parte aceita a estimativa da outra · cotação em bolsa · títulos públicos/ações cotados · veículos e bens com preço de mercado (ex.: Fipe)","x":-1900,"y":714,"width":420,"height":144,"color":"#2E86C1"},

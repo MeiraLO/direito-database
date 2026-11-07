@@ -1,3 +1,9 @@
+---
+tags: [Financeiro, AdministraçãoPública, Constitucional]
+---
+> [!note] Ligações
+> **Ver também:** [[Processo Constitucional]] · **Termos:** [[ADPF e ADI]]
+
 #financeiro #AdministraçãoPública #Constitucional 
 ## Conceito de atividade financeira
  - Materialização das finanças públicas

@@ -1,3 +1,9 @@
+---
+tags: [Civil, Família, Questões]
+---
+> [!note] Ligações
+> **Tópico:** [[de Família]] · **Termos:** [[União estável]]
+
   
   
 **6. Regime de Bens**  

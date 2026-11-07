@@ -1,3 +1,9 @@
+---
+tags: [Civil, Família]
+---
+> [!note] Ligações
+> **Ver também:** [[Questões de Civil]], [[Responsabilidade Civil]], [[Previdenciário 2.0]] · **Termos:** [[União estável]], [[Boa-fé objetiva]]
+
 
 ## Conceito
 

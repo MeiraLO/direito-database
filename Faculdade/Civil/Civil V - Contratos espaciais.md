@@ -1,3 +1,9 @@
+---
+tags: [Civil, Contratos]
+---
+> [!note] Ligações 
+> **Ver também:** [[Imobiliário]]
+
 #civil #contratos 
 Tempo de Leitura: 35 min~
 #### Resumo

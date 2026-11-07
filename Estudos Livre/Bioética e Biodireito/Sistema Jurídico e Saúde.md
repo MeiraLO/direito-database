@@ -1,3 +1,9 @@
+---
+tags: [Bioética, DireitoÀSaúde]
+---
+> [!note] Ligações
+> **Ver também:** [[Estatuto do Paciente e normas relacionadas]] · **Termos:** [[Dignidade Humana em Sentido Estrito]]
+
 O Sistema Brasileiro atual não é capaz de lidar com a dignidade humana na saúde, por diversos motivos, mas um dos principais é fato de que os Juízes não são capazes de julgar os temas pouco relacionados com o direito. Ao lidar com a saúde, muitos órgãos são acionados, tendo que o magistrado navegar por meio de uma burocracia enorme e ler diversas decisões e pareceres de conselhos municipais, estaduais e federais sobre um único tema que está numa linguagem distinta da sua, pois é escrito para a ordem médica.
 
 Para exemplificar, apenas para decidir se ele é competente, o juiz deve consultar o registro na Anvisa, a incorporação, o enquadramento do medicamento no protocolo clínico e consultar mais uma coisa.

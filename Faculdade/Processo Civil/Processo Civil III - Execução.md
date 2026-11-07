@@ -1,3 +1,9 @@
+---
+tags: [ProcessoCivil, CPCIII, Execução, TutelaExecutiva]
+---
+> [!note] Ligações
+> **Ver também:** [[Títulos executivos]], [[Disposições gerais do cumprimento de sentença e cumprimento provisório]], [[Cumprimento de sentença por quantia certa - fluxo do art. 523]], [[Avaliação expropriação e satisfação do crédito]], [[Impugnação ao cumprimento de sentença]] · **Termos:** [[contraditório]], [[Penhora]], [[Adjudicação]], [[Alienação fiduciária]], [[Coisa julgada]], [[Prescrição]]
+
 professor: Matheus Monteiro 
 #ProcessoCivil, #Execução, #TutelaExecutiva 
 Doutrina recomendada: Didier Jr e Elpídio Donizetti

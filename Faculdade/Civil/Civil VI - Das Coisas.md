@@ -1,3 +1,9 @@
+---
+tags: [Civil, DireitosReais, Posse]
+---
+> [!note] Ligações
+> **Ver também:** [[Imobiliário]] · **Termos:** [[esbulho]], [[turbação]], [[propter rem]], [[Boa-fé objetiva]]
+
 #civil #obrigações #posse 
 
 ## Prefácio
@@ -71,7 +77,7 @@ Os Direitos reais são perpétuos enquanto o bem durar ou enquanto sua posse nã
 
 #### Jus possessionis X jus possidendi
 
-A **Jus possessionis** (ou Posse Formal) é um direito que surge da instalação em um imóvel, que se mantém mansa e pacificamente, por mais de um ano e um dia. De forma que é lhe proporcionado uma proteção especial, a fim de garantir a paz social (Gonçalves). Esse direito é derivado de uma posse autônoma, *independentemente de qualquer título* (mero *animus domini*), fundado-se no **Fato** jurídico da posse (Possideo quod possideo). Este possuídor apenas perdera sua posse por meio de vias ordinárias, sendo mantida segura contra ameaça de terceiros e do proprietário ([[Estudos Livre/Referências e Explicações/turbação]] ou [[Estudos Livre/Referências e Explicações/esbulho]])
+A **Jus possessionis** (ou Posse Formal) é um direito que surge da instalação em um imóvel, que se mantém mansa e pacificamente, por mais de um ano e um dia. De forma que é lhe proporcionado uma proteção especial, a fim de garantir a paz social (Gonçalves). Esse direito é derivado de uma posse autônoma, *independentemente de qualquer título* (mero *animus domini*), fundado-se no **Fato** jurídico da posse (Possideo quod possideo). Este possuídor apenas perdera sua posse por meio de vias ordinárias, sendo mantida segura contra ameaça de terceiros e do proprietário ([[turbação]] ou [[esbulho]])
 
 
 Já o **Jus Possidendi** (posse causal) é conferido ao portador de título devidamente transcrito, bem coo ao titular de outros direitos reais. Possuí as mesmas proteções do Jus possessionis, mas a este se atrela o **Direito em si**, não apenas a posse.
@@ -134,8 +140,8 @@ Já o **Jus Possidendi** (posse causal) é conferido ao portador de título devi
 
 | Ação                      | Pressuposto                                                        | Objetivo                                               |
 | ------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------ |
-| **Manutenção de posse**   | [[Estudos Livre/Referências e Explicações/turbação]] (ameaça/embaraço ao exercício da posse, sem perdê-la) | Manter o possuidor turbado                             |
-| **Reintegração de posse** | [[Estudos Livre/Referências e Explicações/esbulho]] (perda da posse por ato de terceiro)                   | Recuperar a posse perdida                              |
+| **Manutenção de posse**   | [[turbação]] (ameaça/embaraço ao exercício da posse, sem perdê-la) | Manter o possuidor turbado                             |
+| **Reintegração de posse** | [[esbulho]] (perda da posse por ato de terceiro)                   | Recuperar a posse perdida                              |
 | **Interdito proibitório** | Justo receio de turbação ou esbulho iminente                       | Prevenir a violência (natureza cominatória/preventiva) |
 
 Características processuais relevantes: **fungibilidade** entre os interditos (o juiz pode conceder proteção diversa da pedida, conforme os fatos provados — art. 554 CPC); **caráter dúplice** (o réu pode, na contestação, pedir proteção possessória em seu favor, sem reconvenção); distinção entre **juízo possessório** e **juízo petitório** — não se discute domínio na ação possessória (antiga _exceptio domini_ foi restringida: hoje só se discute posse, salvo situações excepcionais reconhecidas pela jurisprudência, art. 1.210, §2º, CC); rito de **ação de força nova** (liminar possível, até ano e dia do esbulho/turbação) x **força velha** (procedimento comum, sem liminar).

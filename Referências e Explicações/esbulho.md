@@ -1,3 +1,6 @@
+---
+tags: [Referência, Civil]
+---
 #direitoCivil 
 
 > capítulo dos Efeitos da Posse (Código Civil, Livro III, Título I).
@@ -79,3 +82,5 @@ Na ação de reintegração de posse discute-se **apenas a posse** (quem a tinha
 - Esbulho ≠ crime de esbulho possessório (art. 161, §1º, II, do Código Penal) — este último é a tipificação penal da mesma conduta, mas com elementos próprios (a lei penal exige, por exemplo, que o imóvel seja alheio e a invasão seja com violência, grave ameaça ou mediante concurso de mais de duas pessoas); a via cível independe da penal.
 - É possível cumular, na ação possessória, pedido de indenização por perdas e danos, e cominação de pena para caso de nova turbação ou esbulho (art. 555 CPC).
 - Não se exige a comprovação de propriedade para a procedência da ação possessória — o que se prova é a posse anterior e o ato de esbulho.
+
+**Citado em:** [[Civil VI - Das Coisas]], [[Penhora]]

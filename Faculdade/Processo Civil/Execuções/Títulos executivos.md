@@ -8,6 +8,9 @@ tema: Título executivo — função, taxatividade, requisitos da obrigação (c
 tags: [ProcessoCivil, CPCIII, TítuloExecutivo, Prova2]
 mapa: "[[Títulos executivos.canvas]]"
 ---
+> [!note] Ligações
+> **Tópico:** [[Processo Civil III - Execução]] · **Ver também:** [[Disposições gerais do cumprimento de sentença e cumprimento provisório]], [[Cumprimento de sentença por quantia certa - fluxo do art. 523]] · **Termos:** [[Coisa julgada]]
+
 
 # Títulos executivos
 
@@ -416,7 +419,7 @@ Teorias sobre a natureza do título?::Documento (Carnelutti), ato jurídico (Lie
 - **Visão geral:** [[Processo Civil III - Execução]] (§5.1 títulos judiciais; §8.1 *nulla executio*; §10 liquidação; §13 embargos)
 - **Exigibilidade no cumprimento:** [[Disposições gerais do cumprimento de sentença e cumprimento provisório]] (art. 514; art. 515, §1º; art. 516, III)
 - **Liquidez e demonstrativo:** [[Cumprimento de sentença por quantia certa - fluxo do art. 523]] (art. 524)
-- **Depois da penhora:** [[Avaliação, expropriação e satisfação do crédito]]
+- **Depois da penhora:** [[Avaliação expropriação e satisfação do crédito|Avaliação, expropriação e satisfação do crédito]]
 - **Defesa:** [[Impugnação ao cumprimento de sentença]] (art. 525, §1º, III: inexequibilidade do título ou inexigibilidade da obrigação)
 - **Mapa:** [[Títulos executivos.canvas]]
 

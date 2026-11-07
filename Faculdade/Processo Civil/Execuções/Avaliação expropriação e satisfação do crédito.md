@@ -15,6 +15,9 @@ tags:
   - Prova2
 mapa: "[[Avaliação expropriação e satisfação do crédito.canvas]]"
 ---
+> [!note] Ligações
+> **Tópico:** [[Processo Civil III - Execução]] · **Ver também:** [[Cumprimento de sentença por quantia certa - fluxo do art. 523]], [[Impugnação ao cumprimento de sentença]] · **Termos:** [[Adjudicação]], [[Penhora]], [[Preclusão]]
+
 
 
 > [!info] Legenda das fontes

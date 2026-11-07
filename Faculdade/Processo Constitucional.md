@@ -1,3 +1,9 @@
+---
+tags: [Constitucional, ControleDeConstitucionalidade]
+---
+> [!note] Ligações
+> **Ver também:** [[Econômico e Financeiro]] · **Termos:** [[ADPF e ADI]], [[ex tunc]], [[princípio do duplo grau de jurisdição]], [[Mandado de Segurança]]
+
 ## Controle de Constitucionalidade
 
 - O que é o controle?

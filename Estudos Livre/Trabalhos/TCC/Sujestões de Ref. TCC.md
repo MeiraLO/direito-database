@@ -1,3 +1,9 @@
+---
+tags: [TCC]
+---
+> [!note] Ligações
+> **Tópico:** [[TCC]] · **Ver também:** [[Sumário]], [[Miguel Reale]], [[Referências TCC]]
+
 - Tempo de leitura 12~ min.
 
 | Cor |  Status  | Significado / Descrição                                                      |

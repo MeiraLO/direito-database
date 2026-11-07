@@ -1,3 +1,9 @@
+---
+tags: [Bioética, Biodireito, DireitoMédico, AltaVoluntária]
+---
+> [!note] Ligações
+> **Tópico:** [[Alta Voluntária]] · **Ver também:** [[Dump de Legislações Extrangeiras]], [[Estatuto do Paciente e normas relacionadas]], [[Biodireito Comparado]] · **Termos:** [[ADPF e ADI]], [[Consentimento informado]], [[Diretivas antecipadas de vontade]]
+
 #bioética #biodireito #DireitoMédico #AltaVoluntária 
 ## Análise Comparativa do Ordenamento Jurídico
 

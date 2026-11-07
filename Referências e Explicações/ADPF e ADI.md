@@ -1,3 +1,6 @@
+---
+tags: [Referência, Constitucional]
+---
 → **Arguição de Descumprimento de Preceito Fundamental (ADPF)** (para leis pré 88)
 	Ação ajuizada no Supremo Tribunal Federal: (i) para evitar ou reparar lesão a preceito fundamental, resultante de ato do Poder Público; ou (ii) quando for relevante o fundamento da controvérsia constitucional sobre lei ou ato normativo federal, estadual ou municipal, incluídos os anteriores à Constituição. O uso da ADPF é subsidiário: ela tem cabimento quando não for o caso de ADI, ADC ou ADO. As decisões definitivas de mérito nessa ação têm eficácia contra todos e efeito vinculante no âmbito dos demais órgãos do Poder Público (cf. art; 102 da Constituição e Lei nº 9.882/99) (ver também ação direta de inconstitucionalidade, ação direta de inconstitucionalidade por omissão, ação declaratória de constitucionalidade, efeito vinculante).
 
@@ -6,3 +9,5 @@
 
 
 → Diferenças: Antes ou depois da CF/88!
+
+**Citado em:** [[Alta Voluntaria Comparativa]], [[Econômico e Financeiro]], [[Processo Constitucional]]

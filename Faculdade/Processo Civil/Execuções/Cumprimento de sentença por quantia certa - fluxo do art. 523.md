@@ -8,6 +8,9 @@ tema: Cumprimento definitivo por quantia certa — fluxo do art. 523
 tags: [ProcessoCivil, CPCIII, CumprimentoDeSentença, art523, Prova2]
 mapa: "[[Mapa - Cumprimento de sentença por quantia certa.canvas]]"
 ---
+> [!note] Ligações
+> **Tópico:** [[Processo Civil III - Execução]] · **Ver também:** [[Disposições gerais do cumprimento de sentença e cumprimento provisório]], [[Avaliação expropriação e satisfação do crédito]], [[ASD FINAL A]] · **Termos:** [[Penhora]], [[Prescrição]]
+
 
 
 > [!info] Legenda das fontes
@@ -422,9 +425,9 @@ Negativação do executado: de ofício?::Não, só a requerimento e só na execu
 ## 10. Conexões
 
 - **Visão geral da disciplina:** [[Processo Civil III - Execução]]
-- **Antes:** [[Títulos executivos]] (certeza, liquidez e exigibilidade — A1 / ASD4) · [[Liquidação de sentença]]
+- **Antes:** [[Títulos executivos]] (certeza, liquidez e exigibilidade — A1 / ASD4) · [[Processo Civil III - Execução#10. Liquidação de sentença (arts. 509 a 512)|Liquidação de sentença]]
 - **Regras comuns a todo cumprimento:** [[Disposições gerais do cumprimento de sentença e cumprimento provisório]] (intimação, competência, protesto, cumprimento provisório e caução)
-- **Depois:** [[Avaliação, expropriação e satisfação do crédito]] (TT2; o mandado de penhora e avaliação do art. 523, §3º, é a porta de entrada) · [[Impugnação ao cumprimento de sentença]] (art. 525)
+- **Depois:** [[Avaliação expropriação e satisfação do crédito|Avaliação, expropriação e satisfação do crédito]] (TT2; o mandado de penhora e avaliação do art. 523, §3º, é a porta de entrada) · [[Impugnação ao cumprimento de sentença]] (art. 525)
 - **Mapa:** [[Mapa - Cumprimento de sentença por quantia certa.canvas]]
 
 ## 11. Minhas anotações
