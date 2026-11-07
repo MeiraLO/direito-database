@@ -1,9 +1,7 @@
 ---
-tags: [Bioética, Responsabilidade, SuicídioAssistido]
----
-> [!note] Ligações
-> **Ver também:** [[Human Dignity in Bioethics and Biolaw]]
-
+tags:
+  - Bioética
+  - Responsabilidade
+  - SuicídioAssistido
 Autor: Ronald Dworkin
-#bioética #responsabilidade #SuicídioAssistido 
-
+---

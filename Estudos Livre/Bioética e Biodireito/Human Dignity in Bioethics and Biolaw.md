@@ -1,14 +1,17 @@
 ---
-tags: [Bioética, Responsabilidade, DignidadeHumana]
+tags:
+  - Bioética
+  - Responsabilidade
+  - DignidadeHumana
+Autores: Deryck Beyleveld; Roger Brownsword
+Livro: https://z-lib.fm/book/nQ0Y9yVB0y/human-dignity-in-bioethics-and-biolaw.html
 ---
 > [!note] Ligações
 > **Ver também:** [[Domínio da Vida]] · **Termos:** [[Dignidade Humana em Sentido Estrito]], [[epistemological contingency]], [[Agência]]
 
-[Autor: Deryck Beyleveld; Roger Brownsword](https://z-lib.fm/book/nQ0Y9yVB0y/human-dignity-in-bioethics-and-biolaw.html)
-#responsabilidade #bioética
+
 
 #### Palavras
-
 - *agency*
 > Agência
 > A capacidade, condição ou estado de agir ou exercer poder; a habilidade de fazer escolhas e agir de forma independente.

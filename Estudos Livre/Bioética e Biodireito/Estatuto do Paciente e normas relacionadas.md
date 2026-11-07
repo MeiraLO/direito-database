@@ -1,10 +1,12 @@
 ---
-tags: [Bioética, DireitoMédico, EstatutoDoPaciente]
+tags:
+  - Bioética
+  - DireitoMédico
+  - EstatutoDoPaciente
+Diploma: "[Lei 15.378/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15378.htm)"
 ---
 > [!note] Ligações
 > **Ver também:** [[O Estatuto Explicado]], [[Alta Voluntária]] · **Termos:** [[Consentimento informado]], [[Diretivas antecipadas de vontade]], [[contraditório]]
-
-#bioética #DireitoMédico
 
 Tempo de Leitura: **30 min~**
 
