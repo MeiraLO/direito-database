@@ -3,8 +3,6 @@ tipo: referência
 area: Processo Civil
 tags: [Referência, ProcessoCivil, Execução]
 ---
-# Adjudicação
-
 **Em palavras simples:** em vez de vender o bem penhorado e receber o dinheiro, o credor **fica com o próprio bem** como pagamento.
 
 **Explicação técnica:** é uma das formas de expropriação na execução, ao lado da alienação e da apropriação de frutos e rendimentos¹. O exequente pode requerer que lhe sejam adjudicados os bens penhorados, oferecendo preço **não inferior ao da avaliação**².

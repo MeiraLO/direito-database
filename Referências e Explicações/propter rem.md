@@ -1,8 +1,6 @@
 ---
 tags: [Referência, Civil]
 ---
-> [!warning] Placeholder escrito de memória pelo Claude: 🔎 conferir no [Código Civil (Planalto)](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm), art. 1.345.
-
 **Obrigação *propter rem*** ("por causa da coisa") é a obrigação que **acompanha o bem**: quem for titular do direito real sobre a coisa é quem deve, mesmo que a dívida tenha surgido antes de ele adquiri-la. Por isso é chamada de obrigação **mista** ou **ambulatória**, porque fica entre o direito real e o direito pessoal.
 
 **Exemplo:** as cotas de condomínio atrasadas. Quem compra o apartamento responde pelos débitos condominiais do antigo dono, inclusive multas e juros (CC, art. 1.345).

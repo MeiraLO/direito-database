@@ -3,7 +3,6 @@ tipo: referência
 area: Civil
 tags: [Referência, Civil]
 ---
-# Boa-fé objetiva
 
 **Em palavras simples:** é o dever de agir com **lealdade e honestidade** nas relações, de modo que o outro possa confiar no seu comportamento. Não importa o que a pessoa pensava: importa como ela agiu.
 

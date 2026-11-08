@@ -3,8 +3,6 @@ tipo: referência
 area: Processo Civil
 tags: [Referência, ProcessoCivil]
 ---
-# Coisa julgada
-
 **Em palavras simples:** é o "ponto final" de uma decisão. Depois que não cabe mais recurso, a decisão de mérito não pode mais ser mudada nem rediscutida — nem pelas partes, nem por outro juiz.
 
 **Explicação técnica:** **coisa julgada material** é a autoridade que torna **imutável e indiscutível** a decisão de mérito não mais sujeita a recurso¹. A Constituição protege a coisa julgada até contra a lei nova².

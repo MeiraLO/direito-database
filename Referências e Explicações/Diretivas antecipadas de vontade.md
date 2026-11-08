@@ -3,8 +3,6 @@ tipo: referência
 area: Bioética
 tags: [Referência, Bioética, DireitoMédico]
 ---
-# Diretivas antecipadas de vontade
-
 **Em palavras simples:** é um documento em que a pessoa diz, **enquanto pode decidir**, quais tratamentos aceita ou recusa para o caso de, no futuro, não conseguir mais expressar sua vontade.
 
 **Explicação técnica:** as diretivas antecipadas de vontade (DAV) são o conjunto de desejos, prévia e expressamente manifestados pelo paciente, sobre os cuidados e tratamentos que quer ou não receber quando estiver incapacitado de expressar, livre e autonomamente, sua vontade¹.

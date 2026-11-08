@@ -11,8 +11,8 @@
 - [x] 06/10 - Fichamento Leo 3
 - [ ] 02/11 - **Prova Deontologia (2)**
 - [ ] 03/11 - Fichamento Leo 4
-- [ ] 06/11 - *TT2 de Processo Civil*
-- [ ] 06/11 - **Prova de Processo Civil (2)**
+- [x] 06/11 - *TT2 de Processo Civil*
+- [x] 06/11 - **Prova de Processo Civil (2)**
 - [ ] 12/11 - **Prova de Civil (2)**
 - [ ] 17/11 - *Prova 2 Leo*
 ------------

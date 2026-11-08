@@ -3,7 +3,6 @@ tipo: referência
 area: Civil
 tags: [Referência, Civil, Garantias]
 ---
-# Alienação fiduciária
 
 **Em palavras simples:** é uma garantia em que o devedor **transfere a propriedade** do bem ao credor enquanto paga a dívida. Quando termina de pagar, a propriedade volta para ele. Se não pagar, o credor fica com o bem com mais facilidade do que numa hipoteca.
 

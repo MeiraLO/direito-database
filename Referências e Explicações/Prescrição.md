@@ -3,8 +3,6 @@ tipo: referência
 area: Civil
 tags: [Referência, Civil, ProcessoCivil]
 ---
-# Prescrição
-
 **Em palavras simples:** é o "prazo de validade" para cobrar um direito na Justiça. O direito violado dá origem a uma pretensão; se o titular demora demais para agir, perde a possibilidade de exigi-lo.
 
 **Explicação técnica:** violado o direito, nasce para o titular a **pretensão**, que se extingue pela prescrição nos prazos da lei¹. Prazos-chave do Código Civil:

@@ -5,8 +5,6 @@ tags: [Referência, Bioética]
 
 _Baseado em Beyleveld & Brownsword, "Human Dignity in Bioethics and Biolaw"_
 
----
-
 ## Parte I — Sentido Estrito vs. Sentido Amplo
 
 ### 1.1 Sentido Estrito

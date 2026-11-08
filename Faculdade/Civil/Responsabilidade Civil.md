@@ -1,5 +1,9 @@
 ---
-tags: [Civil, ResponsabilidadeCivil]
+tags:
+  - Civil
+  - ResponsabilidadeCivil
+  - Defasado
+aliases:
 ---
 > [!note] Ligações
 > **Ver também:** [[de Família]] · **Termos:** [[Prescrição]]

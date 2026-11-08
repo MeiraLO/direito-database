@@ -3,8 +3,6 @@ tipo: referência
 area: Processo Civil
 tags: [Referência, ProcessoCivil, Execução]
 ---
-# Penhora
-
 **Em palavras simples:** é o ato pelo qual o juízo "separa" bens do devedor para pagar a dívida. O bem continua existindo, mas fica preso à execução: vai servir para satisfazer o credor.
 
 **Explicação técnica:** a penhora deve recair sobre **tantos bens quantos bastem** para pagar o principal atualizado, os juros, as custas e os honorários¹. A lei estabelece uma **ordem preferencial**, que começa pelo **dinheiro**².

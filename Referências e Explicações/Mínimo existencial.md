@@ -3,8 +3,6 @@ tipo: referência
 area: Constitucional
 tags: [Referência, Constitucional, DireitosSociais]
 ---
-# Mínimo existencial
-
 **Em palavras simples:** é o "piso" de condições materiais sem o qual uma pessoa não consegue viver com dignidade, como alimentação, saúde básica, moradia e educação. O Estado não pode deixar ninguém abaixo dele.
 
 **Explicação técnica:** é um conceito construído pela doutrina e pela jurisprudência a partir da **dignidade da pessoa humana**¹ e dos **direitos sociais**². Ele funciona como núcleo dos direitos sociais que o Poder Público não pode deixar de garantir, nem alegando falta de recursos.

@@ -3,8 +3,6 @@ tipo: referência
 area: Civil
 tags: [Referência, Civil]
 ---
-> [!warning] Placeholder escrito de memória pelo Claude: 🔎 conferir no [Código Civil (Planalto)](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm), arts. 138 a 157 e 171 e 178.
-
 **Vícios de consentimento** são defeitos na formação da vontade: a pessoa declara algo que não corresponde ao que realmente queria, porque foi enganada, pressionada ou estava em situação desfavorável.
 
 | Vício | Em uma linha | CC |

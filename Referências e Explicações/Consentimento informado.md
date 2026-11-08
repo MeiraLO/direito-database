@@ -3,9 +3,7 @@ tipo: referência
 area: Bioética
 tags: [Referência, Bioética, DireitoMédico]
 ---
-# Consentimento informado
-
-**Em palavras simples:** antes de um tratamento ou procedimento, o paciente precisa ser **bem informado** (o que vai ser feito, riscos, alternativas) e **concordar livremente**. Sem isso, o médico não pode agir, salvo em emergência.
+**Em palavras simples:** antes de um tratamento ou procedimento, o paciente precisa ser bem informado (o que vai ser feito, riscos, alternativas) e concordar livremente. Sem isso, o médico não pode agir, salvo em emergência.
 
 **Explicação técnica:** o Código de Ética Médica veda ao médico deixar de obter o consentimento do paciente ou de seu representante legal depois de esclarecê-lo sobre o procedimento, **salvo em caso de risco iminente de morte**¹. O consentimento é expressão da **autonomia** do paciente e é a base do direito de **recusa terapêutica**.
 

@@ -3,8 +3,6 @@ tipo: referência
 area: Processo Civil
 tags: [Referência, ProcessoCivil]
 ---
-# Preclusão
-
 **Em palavras simples:** é a perda da chance de praticar um ato no processo. Quem deixa passar o prazo, já praticou o ato ou fez algo incompatível com ele não pode "voltar atrás".
 
 **Explicação técnica:** decorrido o prazo, extingue-se o direito de praticar ou emendar o ato, independentemente de declaração judicial¹. A parte também não pode rediscutir, no curso do processo, questões já decididas sobre as quais se operou a preclusão².
@@ -20,7 +18,6 @@ Espécies usadas pela doutrina:
 > [!example] Exemplo
 > O executado tem 15 dias para impugnar o cumprimento de sentença (art. 525 do CPC). Se perde o prazo, as matérias da impugnação precluem; só sobra a simples petição para fatos supervenientes ou matérias de ordem pública.
 
-**Contraste:** preclusão × [[Coisa julgada]]. A preclusão opera **dentro** do processo; a coisa julgada material projeta a decisão de mérito **para fora** dele.
 
 ## Onde aparece no vault
 - [[Impugnação ao cumprimento de sentença]]
