@@ -1,3 +1,9 @@
+---
+tags: [Prática, GratuidadeDeJustiça]
+---
+> [!note] Ligações
+> **Ver também:** [[Fatos]]
+
 Órgão Especial decide que idosos com renda de até dez salários são isentos de custas e taxa
 Notícia publicada por Secretaria-Geral de Comunicação Social em 03/03/2026 20h44
  

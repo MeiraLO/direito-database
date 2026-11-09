@@ -1,3 +1,9 @@
+---
+tags: [Bioética, Biodireito, DireitoMédico, AltaVoluntária]
+---
+> [!note] Ligações 
+> **Ver também:** [[Alta Voluntaria Comparativa]], [[Alta Voluntária Mental]], [[Estatuto do Paciente e normas relacionadas]] · **Termos:** [[Consentimento informado]], [[Diretivas antecipadas de vontade]], [[Dignidade Humana em Sentido Estrito]], [[Distúrbio Biológico]]
+
 
 - **Alta médica**: ato médico por excelência, decidido pelo profissional quando entende que o paciente está em condições de deixar a internação. 
 <br>

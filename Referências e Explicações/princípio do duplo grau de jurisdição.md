@@ -1,0 +1,6 @@
+---
+tags: [Referência, ProcessoCivil]
+---
+É garantido por tratados internacionais e pela própria legislação nacional, o direito a recorrer uma decisão de um tribunal. Ou seja, independentemente se o foro é privilegiado ou não, é garantido ao individuo recorrer as decisões e sentenças proferidas pelo juízo.
+
+**Citado em:** [[Processo Constitucional]]

@@ -1,3 +1,9 @@
+---
+tags: [Bioética, Biodireito, SaúdeMental, AltaVoluntária]
+---
+> [!note] Ligações
+> **Tópico:** [[Alta Voluntária]] · **Ver também:** [[Estatuto do Paciente e normas relacionadas]] · **Termos:** [[contraditório]], [[Princípio da Proporcionalidade]]
+
 Lei 10.216/2001
 Place holder resumo da IA
 

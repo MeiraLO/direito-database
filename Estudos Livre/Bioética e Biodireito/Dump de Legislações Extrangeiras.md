@@ -1,3 +1,9 @@
+---
+tags: [Bioética, DireitoMédico, SuicídioAssistido]
+---
+> [!note] Ligações
+> **Ver também:** [[Alta Voluntaria Comparativa]], [[Biodireito Comparado]] · **Termos:** [[Consentimento informado]], [[Diretivas antecipadas de vontade]]
+
 #bioética #DireitoMédico #SuicídioAssistido 
 
 

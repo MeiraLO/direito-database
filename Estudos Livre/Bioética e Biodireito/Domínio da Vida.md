@@ -1,3 +1,7 @@
+---
+tags:
+  - Bioética
+  - Responsabilidade
+  - SuicídioAssistido
 Autor: Ronald Dworkin
-#bioética #responsabilidade #SuicídioAssistido 
-
+---

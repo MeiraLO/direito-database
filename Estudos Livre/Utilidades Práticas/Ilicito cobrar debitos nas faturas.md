@@ -1,3 +1,9 @@
+---
+tags: [Prática, Consumidor]
+---
+> [!note] Ligações
+> **Ver também:** [[Fatos]]
+
 Concessionárias não podem cobrarem na fatura dos serviços essenciais débitos anteriores junto ao valor mensal. 
 súmula 198/tjrj
 

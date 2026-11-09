@@ -1,3 +1,9 @@
+---
+tags: [TCC, Referências]
+---
+> [!note] Ligações
+> **Tópico:** [[TCC]] · **Ver também:** [[Sujestões de Ref. TCC]], [[Miguel Reale]]
+
 **Referências**
 *Facilite seu trabalho e não esqueça de colocar, seu maldito*
 

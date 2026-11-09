@@ -1,3 +1,9 @@
+---
+tags: [Prática, Família, Execução]
+---
+> [!note] Ligações
+> **Ver também:** [[Impugnação ao cumprimento de sentença]] · **Termos:** [[Mínimo existencial]]
+
 **EXCELENTÍSSIMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) DE DIREITO DA**
 
 **___ VARA DE FAMÍLIA DA COMARCA DO RIO DE JANEIRO/RJ**

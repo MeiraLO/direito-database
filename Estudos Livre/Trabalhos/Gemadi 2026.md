@@ -1,3 +1,9 @@
+---
+tags: [Trabalho, DireitoAnimal, Bioética]
+---
+> [!note] Ligações
+> **Termos:** [[Libertação Animal]], [[Dignidade Humana em Sentido Estrito]]
+
 Este resumo expandido busca compreender o direito animal através de uma nova perspectiva não-humana. É Importante compreender, a priori, que os direitos humanos foram desenvolvidos e idealizados como uma forma de diferenciar as entidades humanas das entidades não-humanas, assim, o simples alongamento semântico deles para estas entidades seria pouco eficaz e, no minimo, confuso no âmbito jurídico. Desta forma, faz-se necessário repensar os conceitos de dignidade, direitos humanos e direito dos não-humanos, sendo a proposta deste autor para realizar esta tarefa a compreensão e adoção do "Principio da Consistência Genérica" como o principio supremo regente da moral que atuará como uma ligação entre formas de direito e dignidade que atuam em planos diferentes
 
 Antes de tudo, há de se definir o debate aqui estabelecido, que é o da inegável falta de proteção as entidades não-humanas e o especicismo observado no ordenamento atual. Para doutrina majoritária, os animais (como serão chamadas as entidades não-humanas daqui em diante) são tratadas como seres que não podem ser sujeitos de direito, uma vez que seriam carentes de existência autônoma e racionalidade autoconsciente para além da de sua própria espécie, desta forma, a proteção na qual são garantidas, resumem-se na proteção de sua espécie garantida pela consciência e racionalidade humana. Porém, como bem tratado pelos animalistas, mais especificamente por Peter Singer em suas publicações, sendo os animais portadores de prazeres, dores e alguns até mesmo de autoconsciência, linguagem e interesses próprios, não estariam estes no campo da ética? Não seriam estes, por muitas vezes dentro da concepção atual de o que é um humano, mais pessoas que alguém incapaz de expressar sua vontade?
