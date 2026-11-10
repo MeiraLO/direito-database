@@ -2,7 +2,7 @@
 tags: [TCC, Neurodireitos]
 ---
 > [!note] Ligações
-> **Tópico:** [[TCC]] · **Ver também:** [[Estudos Livre/Trabalhos/TCC/Neurodireitos (TCC)|Neurodireitos]], [[Sumário]]
+> **Tópico:** [[TCC]] · **Ver também:** [[Neurodireitos (TCC)|Neurodireitos]], [[Sumário]]
 
 **Página 43 Takis Vidalis; Emergence of biolaw.**
 
