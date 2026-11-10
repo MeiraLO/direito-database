@@ -2,7 +2,7 @@
 tags: [TCC, Neurodireitos]
 ---
 > [!note] Ligações
-> **Ver também:** [[Sumário]], [[Sujestões de Ref. TCC]], [[Referências TCC]], [[Miguel Reale]], [[Estudos Livre/Trabalhos/TCC/Neurodireitos (TCC)|Neurodireitos]]
+> **Ver também:** [[Sumário]], [[Sujestões de Ref. TCC]], [[Referências TCC]], [[Miguel Reale]], [[Neurodireitos (TCC)|Neurodireitos]]
 
 Thou canst not touch the freedom of my mind
 

@@ -12,6 +12,6 @@ Os mais citados são:
 
 O **Chile** foi pioneiro ao incluir a proteção da atividade cerebral na Constituição, em 2021. No Brasil, o projeto de novo Código Civil trata do tema.
 
-[[Estudos Livre/Trabalhos/TCC/Neurodireitos (TCC)|Neurodireitos]]
+[[Neurodireitos (TCC)|Neurodireitos]]
 
 **Citado em:** [[Estatuto do Paciente e normas relacionadas]]
