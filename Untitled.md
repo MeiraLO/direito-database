@@ -46,13 +46,4 @@
 
 **M2** (1.015 caracteres)
 
-> Processo X: crédito de R$ 15.000,00 pago integralmente dentro dos 15 dias do art. 523, caput. Houve cumprimento voluntário, de modo que não incidem a multa nem os honorários do §1º. Acréscimos do §1º: R$ 0,00. O executado paga só o débito (e custas, se houver), e a obrigação fica satisfeita, sem atos de penhora.
-> 
-> Processo Y: crédito de R$ 15.000,00 e nenhum pagamento no prazo. Aplica-se o §1º integralmente, com base no débito total:
-> 
-> 1. Multa: 15.000,00 × 10% = R$ 1.500,00.
-> 2. Honorários: 15.000,00 × 10% = R$ 1.500,00 (base sem a multa).
-> 3. Acréscimos do §1º: 1.500,00 + 1.500,00 = R$ 3.000,00.  
->     Débito acrescido: 15.000,00 + 3.000,00 = R$ 18.000,00, com expedição de mandado de penhora e avaliação (§3º).
-> 
-> Comparação: o crédito é idêntico, mas a conduta no prazo muda o resultado. Em X, o pagamento tempestivo afasta os acréscimos; em Y, a inércia gera R$ 3.000,00 a mais (20% do débito), além da passagem aos atos executivos. Não há dados sobre custas ou honorários da fase anterior, que não foram computados.
+> https://meet.google.com/meet/eqo-tiew-kwm
