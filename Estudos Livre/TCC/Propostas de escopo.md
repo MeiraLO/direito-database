@@ -25,7 +25,7 @@ Link 2: "[[Referências TCC]]"
 ### B. Manipulação neurotecnológica e formação da vontade no Direito Civil
 
 - **Pergunta:** a teoria dos defeitos do negócio jurídico (erro, dolo, coação) foi pensada para influências externas à mente. Ela dá conta de uma intervenção que contorna o raciocínio em vez de enganá-lo?
-
+- Dark Pattern
 - **A favor:**
     - É o recorte mais civilista e voltado pro direito.
     - É um escopo que combina com o texto que tenho mais conhecimento (Gewirth), já que a liberdade como voluntariedade é condição genérica da agência.
@@ -77,3 +77,8 @@ Link 2: "[[Referências TCC]]"
 - **Risco:** desloca o trabalho para o Direito do Trabalho e se sobrepõe muito ao resumo e ao futuro artigo. Definitivamente não é a minha primeira opção. 
   
 - **Problemas na lista**: Terra arrasada.
+
+
+
+## obs
+Dimensão simbólica
